@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-interval "Insert Interval")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insert-interval "Insert Interval")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-ii "Spiral Matrix II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/spiral-matrix-ii "Spiral Matrix II")
 
 ## [58. Length of Last Word (Easy)](https://leetcode.com/problems/length-of-last-word "最后一个单词的长度")
 
@@ -27,4 +27,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

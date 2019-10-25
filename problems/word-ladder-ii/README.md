@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome "Valid Palindrome")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-palindrome "Valid Palindrome")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-ladder "Word Ladder")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-ladder "Word Ladder")
 
 ## [126. Word Ladder II (Hard)](https://leetcode.com/problems/word-ladder-ii "单词接龙 II")
 
@@ -60,10 +60,10 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Ladder](https://github.com/openset/leetcode/tree/master/problems/word-ladder) (Medium)
+  1. [Word Ladder](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-ladder) (Medium)

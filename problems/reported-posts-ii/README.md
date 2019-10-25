@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-of-absolute-value-expression "Maximum of Absolute Value Expression")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-of-absolute-value-expression "Maximum of Absolute Value Expression")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-unique-number "Largest Unique Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-unique-number "Largest Unique Number")
 
 ## [1132. Reported Posts II (Medium)](https://leetcode.com/problems/reported-posts-ii "")
 

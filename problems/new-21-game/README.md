@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rectangle-overlap "Rectangle Overlap")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rectangle-overlap "Rectangle Overlap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/push-dominoes "Push Dominoes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/push-dominoes "Push Dominoes")
 
 ## [837. New 21 Game (Medium)](https://leetcode.com/problems/new-21-game "新21点")
 
@@ -50,4 +50,4 @@ In 6 out of W = 10 possibilities, she is at or below N = 6 points.
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

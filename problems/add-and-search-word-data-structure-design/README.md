@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii "Course Schedule II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule-ii "Course Schedule II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-search-ii "Word Search II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-search-ii "Word Search II")
 
 ## [211. Add and Search Word - Data structure design (Medium)](https://leetcode.com/problems/add-and-search-word-data-structure-design "添加与搜索单词 - 数据结构设计")
 
@@ -36,13 +36,13 @@ search(&quot;b..&quot;) -&gt; true
 You may assume that all words are consist of lowercase letters <code>a-z</code>.</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[Trie](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/trie/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)
-  1. [Prefix and Suffix Search](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search) (Hard)
+  1. [Implement Trie (Prefix Tree)](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-trie-prefix-tree) (Medium)
+  1. [Prefix and Suffix Search](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/prefix-and-suffix-search) (Hard)
 
 ### Hints
 <details>

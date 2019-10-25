@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/students-report-by-geography "Students Report By Geography")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/students-report-by-geography "Students Report By Geography")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/not-boring-movies "Not Boring Movies")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/not-boring-movies "Not Boring Movies")
 
 ## [619. Biggest Single Number (Easy)](https://leetcode.com/problems/biggest-single-number "只出现一次的最大数字")
 

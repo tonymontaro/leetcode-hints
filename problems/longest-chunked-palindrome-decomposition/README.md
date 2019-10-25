@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/snapshot-array "Snapshot Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/snapshot-array "Snapshot Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/article-views-i "Article Views I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/article-views-i "Article Views I")
 
 ## [1147. Longest Chunked Palindrome Decomposition (Hard)](https://leetcode.com/problems/longest-chunked-palindrome-decomposition "段式回文")
 
@@ -61,7 +61,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

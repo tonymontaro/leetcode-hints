@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii "Paint House II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-house-ii "Paint House II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii "Palindrome Permutation II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-permutation-ii "Palindrome Permutation II")
 
 ## [266. Palindrome Permutation (Easy)](https://leetcode.com/problems/palindrome-permutation "回文排列")
 
@@ -29,13 +29,13 @@
 <strong>Output:</strong> true</pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)
-  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/problems/valid-anagram) (Easy)
-  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii) (Medium)
-  1. [Longest Palindrome](https://github.com/openset/leetcode/tree/master/problems/longest-palindrome) (Easy)
+  1. [Longest Palindromic Substring](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-palindromic-substring) (Medium)
+  1. [Valid Anagram](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-anagram) (Easy)
+  1. [Palindrome Permutation II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-permutation-ii) (Medium)
+  1. [Longest Palindrome](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-palindrome) (Easy)
 
 ### Hints
 <details>

@@ -2,17 +2,17 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence-ii "Binary Tree Longest Consecutive Sequence II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-longest-consecutive-sequence-ii "Binary Tree Longest Consecutive Sequence II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i "Student Attendance Record I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/student-attendance-record-i "Student Attendance Record I")
 
 ## [550. Game Play Analysis IV (Medium)](https://leetcode.com/problems/game-play-analysis-iv "游戏玩法分析 IV")
 
 
 
 ### Similar Questions
-  1. [Game Play Analysis III](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iii) (Medium)
-  1. [Game Play Analysis V](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-v) (Hard)
+  1. [Game Play Analysis III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-play-analysis-iii) (Medium)
+  1. [Game Play Analysis V](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-play-analysis-v) (Hard)

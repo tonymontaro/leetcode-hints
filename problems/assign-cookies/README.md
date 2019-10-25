@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/4sum-ii "4Sum II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/4sum-ii "4Sum II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/132-pattern "132 Pattern")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/132-pattern "132 Pattern")
 
 ## [455. Assign Cookies (Easy)](https://leetcode.com/problems/assign-cookies "分发饼干")
 
@@ -45,4 +45,4 @@ You need to output 2.
 </p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/monotonic-array "Monotonic Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/monotonic-array "Monotonic Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bitwise-ors-of-subarrays "Bitwise ORs of Subarrays")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bitwise-ors-of-subarrays "Bitwise ORs of Subarrays")
 
 ## [897. Increasing Order Search Tree (Easy)](https://leetcode.com/problems/increasing-order-search-tree "递增顺序查找树")
 
@@ -53,5 +53,5 @@
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]

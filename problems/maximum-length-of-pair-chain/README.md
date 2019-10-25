@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/set-mismatch "Set Mismatch")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/set-mismatch "Set Mismatch")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings "Palindromic Substrings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindromic-substrings "Palindromic Substrings")
 
 ## [646. Maximum Length of Pair Chain (Medium)](https://leetcode.com/problems/maximum-length-of-pair-chain "最长数对链")
 
@@ -39,8 +39,8 @@ Given a set of pairs, find the length longest chain which can be formed. You nee
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)
-  1. [Increasing Subsequences](https://github.com/openset/leetcode/tree/master/problems/increasing-subsequences) (Medium)
+  1. [Longest Increasing Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-increasing-subsequence) (Medium)
+  1. [Increasing Subsequences](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/increasing-subsequences) (Medium)

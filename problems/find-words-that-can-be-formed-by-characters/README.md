@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/market-analysis-ii "Market Analysis II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/market-analysis-ii "Market Analysis II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-level-sum-of-a-binary-tree "Maximum Level Sum of a Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-level-sum-of-a-binary-tree "Maximum Level Sum of a Binary Tree")
 
 ## [1160. Find Words That Can Be Formed by Characters (Easy)](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters "拼写单词")
 
@@ -48,8 +48,8 @@ The strings that can be formed are &quot;hello&quot; and &quot;world&quot; so th
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Hints
 <details>

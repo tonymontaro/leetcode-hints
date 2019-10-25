@@ -30,7 +30,7 @@ func runOpen(cmd *base.Command, args []string) {
 	for _, problem := range problems.StatStatusPairs {
 		if problem.Stat.FrontendQuestionId == questionId {
 			titleSlug := problem.Stat.QuestionTitleSlug
-			browser.Open("https://github.com/openset/leetcode/tree/master/problems/" + titleSlug)
+			browser.Open("https://github.com/tonymontaro/leetcode-hints/tree/master/problems/" + titleSlug)
 			break
 		}
 	}

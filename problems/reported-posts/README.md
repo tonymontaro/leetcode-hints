@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student "Highest Grade For Each Student")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/highest-grade-for-each-student "Highest Grade For Each Student")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/print-in-order "Print in Order")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/print-in-order "Print in Order")
 
 ## [1113. Reported Posts (Easy)](https://leetcode.com/problems/reported-posts "")
 

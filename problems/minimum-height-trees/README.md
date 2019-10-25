@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-cooldown "Best Time to Buy and Sell Stock with Cooldown")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-time-to-buy-and-sell-stock-with-cooldown "Best Time to Buy and Sell Stock with Cooldown")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sparse-matrix-multiplication "Sparse Matrix Multiplication")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sparse-matrix-multiplication "Sparse Matrix Multiplication")
 
 ## [310. Minimum Height Trees (Medium)](https://leetcode.com/problems/minimum-height-trees "最小高度树")
 
@@ -55,12 +55,12 @@ The graph contains <code>n</code> nodes which are labeled from <code>0</code> to
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
+  1. [Course Schedule](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule) (Medium)
+  1. [Course Schedule II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule-ii) (Medium)
 
 ### Hints
 <details>

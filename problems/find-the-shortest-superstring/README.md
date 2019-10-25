@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/di-string-match "DI String Match")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/di-string-match "DI String Match")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted "Delete Columns to Make Sorted")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-columns-to-make-sorted "Delete Columns to Make Sorted")
 
 ## [943. Find the Shortest Superstring (Hard)](https://leetcode.com/problems/find-the-shortest-superstring "最短超级串")
 
@@ -49,4 +49,4 @@
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

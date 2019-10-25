@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences "Number of Matching Subsequences")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-matching-subsequences "Number of Matching Subsequences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state "Valid Tic-Tac-Toe State")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-tic-tac-toe-state "Valid Tic-Tac-Toe State")
 
 ## [793. Preimage Size of Factorial Zeroes Function (Hard)](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function "阶乘函数后K个零")
 
@@ -34,7 +34,7 @@
 </ul>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes) (Easy)
+  1. [Factorial Trailing Zeroes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/factorial-trailing-zeroes) (Easy)

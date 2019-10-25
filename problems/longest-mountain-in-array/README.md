@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/backspace-string-compare "Backspace String Compare")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/backspace-string-compare "Backspace String Compare")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/hand-of-straights "Hand of Straights")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/hand-of-straights "Hand of Straights")
 
 ## [845. Longest Mountain in Array (Medium)](https://leetcode.com/problems/longest-mountain-in-array "数组中的最长山脉")
 
@@ -55,4 +55,4 @@
 </ul>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]

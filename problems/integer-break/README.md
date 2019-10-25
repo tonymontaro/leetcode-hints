@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/power-of-four "Power of Four")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/power-of-four "Power of Four")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-string "Reverse String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-string "Reverse String")
 
 ## [343. Integer Break (Medium)](https://leetcode.com/problems/integer-break "整数拆分")
 
@@ -34,8 +34,8 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

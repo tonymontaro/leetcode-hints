@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximize-distance-to-closest-person "Maximize Distance to Closest Person")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximize-distance-to-closest-person "Maximize Distance to Closest Person")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/loud-and-rich "Loud and Rich")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/loud-and-rich "Loud and Rich")
 
 ## [850. Rectangle Area II (Hard)](https://leetcode.com/problems/rectangle-area-ii "矩形面积 II")
 
@@ -43,5 +43,5 @@
 </ul>
 
 ### Related Topics
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[Segment Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/segment-tree/README.md)]
+  [[Line Sweep](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/line-sweep/README.md)]

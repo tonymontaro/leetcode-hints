@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-good-base "Smallest Good Base")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-good-base "Smallest Good Base")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones "Max Consecutive Ones")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-consecutive-ones "Max Consecutive Ones")
 
 ## [484. Find Permutation (Medium)](https://leetcode.com/problems/find-permutation "寻找排列")
 
@@ -39,4 +39,4 @@ On the other hand, now your job is to find the lexicographically smallest permut
 </p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]

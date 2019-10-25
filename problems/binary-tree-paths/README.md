@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/paint-house "Paint House")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-house "Paint House")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-digits "Add Digits")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-digits "Add Digits")
 
 ## [257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths "二叉树的所有路径")
 
@@ -32,9 +32,9 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii) (Medium)
-  1. [Smallest String Starting From Leaf](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) (Medium)
+  1. [Path Sum II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-sum-ii) (Medium)
+  1. [Smallest String Starting From Leaf](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-string-starting-from-leaf) (Medium)

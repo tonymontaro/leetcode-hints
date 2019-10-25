@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs "Climbing Stairs")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/climbing-stairs "Climbing Stairs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/edit-distance "Edit Distance")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/edit-distance "Edit Distance")
 
 ## [71. Simplify Path (Medium)](https://leetcode.com/problems/simplify-path "简化路径")
 
@@ -65,5 +65,5 @@
 </pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

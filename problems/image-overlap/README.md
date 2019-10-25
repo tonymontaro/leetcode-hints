@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-distances-in-tree "Sum of Distances in Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-distances-in-tree "Sum of Distances in Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rectangle-overlap "Rectangle Overlap")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rectangle-overlap "Rectangle Overlap")
 
 ## [835. Image Overlap (Medium)](https://leetcode.com/problems/image-overlap "图像重叠")
 
@@ -39,4 +39,4 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

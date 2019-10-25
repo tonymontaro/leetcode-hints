@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree "Average of Levels in Binary Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/average-of-levels-in-binary-tree "Average of Levels in Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii "Decode Ways II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decode-ways-ii "Decode Ways II")
 
 ## [638. Shopping Offers (Medium)](https://leetcode.com/problems/shopping-offers "大礼包")
 
@@ -63,5 +63,5 @@ You cannot add more items, though only $9 for 2A ,2B and 1C.
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

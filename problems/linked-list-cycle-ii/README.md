@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle "Linked List Cycle")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-cycle "Linked List Cycle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reorder-list "Reorder List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reorder-list "Reorder List")
 
 ## [142. Linked List Cycle II (Medium)](https://leetcode.com/problems/linked-list-cycle-ii "环形链表 II")
 
@@ -55,9 +55,9 @@
 Can you solve it without using extra space?</p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle) (Easy)
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number) (Medium)
+  1. [Linked List Cycle](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-cycle) (Easy)
+  1. [Find the Duplicate Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-duplicate-number) (Medium)

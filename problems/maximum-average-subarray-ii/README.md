@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i "Maximum Average Subarray I")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-average-subarray-i "Maximum Average Subarray I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/set-mismatch "Set Mismatch")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/set-mismatch "Set Mismatch")
 
 ## [644. Maximum Average Subarray II (Hard)](https://leetcode.com/problems/maximum-average-subarray-ii "最大平均子段和 II")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Maximum Average Subarray I](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i) (Easy)
+  1. [Maximum Average Subarray I](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-average-subarray-i) (Easy)

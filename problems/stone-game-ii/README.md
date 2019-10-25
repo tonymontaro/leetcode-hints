@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-1-bordered-square "Largest 1-Bordered Square")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-1-bordered-square "Largest 1-Bordered Square")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/user-activity-for-the-past-30-days-i "User Activity for the Past 30 Days I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/user-activity-for-the-past-30-days-i "User Activity for the Past 30 Days I")
 
 ## [1140. Stone Game II (Medium)](https://leetcode.com/problems/stone-game-ii "石子游戏 II")
 
@@ -39,7 +39,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

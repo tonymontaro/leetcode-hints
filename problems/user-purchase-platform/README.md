@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/active-businesses "Active Businesses")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/active-businesses "Active Businesses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-equivalent-domino-pairs "Number of Equivalent Domino Pairs")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-equivalent-domino-pairs "Number of Equivalent Domino Pairs")
 
 ## [1127. User Purchase Platform (Hard)](https://leetcode.com/problems/user-purchase-platform "")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-ii "Spiral Matrix II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/spiral-matrix-ii "Spiral Matrix II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rotate-list "Rotate List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotate-list "Rotate List")
 
 ## [60. Permutation Sequence (Medium)](https://leetcode.com/problems/permutation-sequence "第k个排列")
 
@@ -48,9 +48,9 @@
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/problems/next-permutation) (Medium)
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)
+  1. [Next Permutation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-permutation) (Medium)
+  1. [Permutations](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations) (Medium)

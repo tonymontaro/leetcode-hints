@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/domino-and-tromino-tiling "Domino and Tromino Tiling")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/domino-and-tromino-tiling "Domino and Tromino Tiling")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences "Number of Matching Subsequences")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-matching-subsequences "Number of Matching Subsequences")
 
 ## [791. Custom Sort String (Medium)](https://leetcode.com/problems/custom-sort-string "自定义字符串排序")
 
@@ -39,4 +39,4 @@ Since &quot;d&quot; does not appear in S, it can be at any position in T. &quot;
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

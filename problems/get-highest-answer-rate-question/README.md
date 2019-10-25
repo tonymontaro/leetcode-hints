@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/employee-bonus "Employee Bonus")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/employee-bonus "Employee Bonus")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-cumulative-salary-of-an-employee "Find Cumulative Salary of an Employee")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-cumulative-salary-of-an-employee "Find Cumulative Salary of an Employee")
 
 ## [578. Get Highest Answer Rate Question (Medium)](https://leetcode.com/problems/get-highest-answer-rate-question "查询回答率最高的问题")
 

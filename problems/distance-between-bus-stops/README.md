@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-ones "Maximum Number of Ones")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-number-of-ones "Maximum Number of Ones")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/day-of-the-week "Day of the Week")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/day-of-the-week "Day of the Week")
 
 ## [1184. Distance Between Bus Stops (Easy)](https://leetcode.com/problems/distance-between-bus-stops "公交站间的距离")
 
@@ -62,7 +62,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

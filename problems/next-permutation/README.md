@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/substring-with-concatenation-of-all-words "Substring with Concatenation of All Words")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/substring-with-concatenation-of-all-words "Substring with Concatenation of All Words")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses "Longest Valid Parentheses")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-valid-parentheses "Longest Valid Parentheses")
 
 ## [31. Next Permutation (Medium)](https://leetcode.com/problems/next-permutation "下一个排列")
 
@@ -24,10 +24,10 @@
 <code>1,1,5</code> &rarr; <code>1,5,1</code></p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)
-  1. [Permutations II](https://github.com/openset/leetcode/tree/master/problems/permutations-ii) (Medium)
-  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/problems/permutation-sequence) (Medium)
-  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii) (Medium)
+  1. [Permutations](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations) (Medium)
+  1. [Permutations II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations-ii) (Medium)
+  1. [Permutation Sequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutation-sequence) (Medium)
+  1. [Palindrome Permutation II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-permutation-ii) (Medium)

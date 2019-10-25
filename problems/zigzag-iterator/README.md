@@ -2,22 +2,22 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort "Wiggle Sort")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wiggle-sort "Wiggle Sort")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators "Expression Add Operators")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/expression-add-operators "Expression Add Operators")
 
 ## [281. Zigzag Iterator (Medium)](https://leetcode.com/problems/zigzag-iterator "锯齿迭代器")
 
 
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
-  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector) (Medium)
-  1. [Peeking Iterator](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator) (Medium)
-  1. [Flatten Nested List Iterator](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator) (Medium)
+  1. [Binary Search Tree Iterator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-search-tree-iterator) (Medium)
+  1. [Flatten 2D Vector](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flatten-2d-vector) (Medium)
+  1. [Peeking Iterator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/peeking-iterator) (Medium)
+  1. [Flatten Nested List Iterator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flatten-nested-list-iterator) (Medium)

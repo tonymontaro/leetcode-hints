@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reconstruct-original-digits-from-english "Reconstruct Original Digits from English")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reconstruct-original-digits-from-english "Reconstruct Original Digits from English")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-squares "Word Squares")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-squares "Word Squares")
 
 ## [424. Longest Repeating Character Replacement (Medium)](https://leetcode.com/problems/longest-repeating-character-replacement "替换后的最长重复字符")
 
@@ -52,9 +52,9 @@ The substring &quot;BBBB&quot; has the longest repeating letters, which is 4.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Longest Substring with At Most K Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
-  1. [Max Consecutive Ones III](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) (Medium)
+  1. [Longest Substring with At Most K Distinct Characters](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Max Consecutive Ones III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-consecutive-ones-iii) (Medium)

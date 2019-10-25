@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-smallest-common-element-in-all-rows "Find Smallest Common Element in All Rows")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-smallest-common-element-in-all-rows "Find Smallest Common Element in All Rows")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference "Minimum Absolute Difference")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-absolute-difference "Minimum Absolute Difference")
 
 ## [1199. Minimum Time to Build Blocks (Hard)](https://leetcode.com/problems/minimum-time-to-build-blocks "建造街区的最短时间")
 
 
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

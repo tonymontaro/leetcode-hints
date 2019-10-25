@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-preorder-traversal "Binary Tree Preorder Traversal")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-preorder-traversal "Binary Tree Preorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lru-cache "LRU Cache")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lru-cache "LRU Cache")
 
 ## [145. Binary Tree Postorder Traversal (Hard)](https://leetcode.com/problems/binary-tree-postorder-traversal "二叉树的后序遍历")
 
@@ -29,9 +29,9 @@
 <p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
-  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal) (Easy)
+  1. [Binary Tree Inorder Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-inorder-traversal) (Medium)
+  1. [N-ary Tree Postorder Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-ary-tree-postorder-traversal) (Easy)

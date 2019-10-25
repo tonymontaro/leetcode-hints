@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/single-number-ii "Single Number II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number-ii "Single Number II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-break "Word Break")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-break "Word Break")
 
 ## [138. Copy List with Random Pointer (Medium)](https://leetcode.com/problems/copy-list-with-random-pointer "复制带随机指针的链表")
 
@@ -39,11 +39,11 @@ Node 2&#39;s value is 2, its next pointer points to null and its random pointer 
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Clone Graph](https://github.com/openset/leetcode/tree/master/problems/clone-graph) (Medium)
+  1. [Clone Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/clone-graph) (Medium)
 
 ### Hints
 <details>

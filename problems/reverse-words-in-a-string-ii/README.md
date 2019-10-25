@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/department-top-three-salaries "Department Top Three Salaries")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/department-top-three-salaries "Department Top Three Salaries")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/repeated-dna-sequences "Repeated DNA Sequences")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/repeated-dna-sequences "Repeated DNA Sequences")
 
 ## [186. Reverse Words in a String II (Medium)](https://leetcode.com/problems/reverse-words-in-a-string-ii "翻转字符串里的单词 II")
 
 
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Reverse Words in a String](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string) (Medium)
-  1. [Rotate Array](https://github.com/openset/leetcode/tree/master/problems/rotate-array) (Easy)
+  1. [Reverse Words in a String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-words-in-a-string) (Medium)
+  1. [Rotate Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotate-array) (Easy)

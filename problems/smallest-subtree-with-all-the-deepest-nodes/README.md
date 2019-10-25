@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-path-to-get-all-keys "Shortest Path to Get All Keys")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-path-to-get-all-keys "Shortest Path to Get All Keys")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/prime-palindrome "Prime Palindrome")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/prime-palindrome "Prime Palindrome")
 
 ## [865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes "具有所有最深结点的最小子树")
 
@@ -47,4 +47,4 @@ Both the input and output have TreeNode type.
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

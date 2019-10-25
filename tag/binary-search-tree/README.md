@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 二叉搜索树
+## [话题分类](https://github.com/tonymontaro/leetcode-hints/blob/master/tag/README.md) > 二叉搜索树
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1214 | [查找两棵二叉搜索树之和](https://github.com/openset/leetcode/tree/master/problems/two-sum-bsts) 🔒 | [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]  | Medium |
-| 1038 | [从二叉搜索树到更大和树](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree) | [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]  | Medium |
+| 1214 | [查找两棵二叉搜索树之和](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-bsts) 🔒 | [[二叉搜索树](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search-tree/README.md)]  | Medium |
+| 1038 | [从二叉搜索树到更大和树](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-search-tree-to-greater-sum-tree) | [[二叉搜索树](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search-tree/README.md)]  | Medium |

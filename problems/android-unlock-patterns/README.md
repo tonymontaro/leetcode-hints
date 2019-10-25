@@ -2,17 +2,17 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii "Intersection of Two Arrays II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/intersection-of-two-arrays-ii "Intersection of Two Arrays II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
 
 ## [351. Android Unlock Patterns (Medium)](https://leetcode.com/problems/android-unlock-patterns "安卓系统手势解锁")
 
 
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]

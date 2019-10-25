@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/encode-n-ary-tree-to-binary-tree "Encode N-ary Tree to Binary Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/encode-n-ary-tree-to-binary-tree "Encode N-ary Tree to Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation "Minimum Genetic Mutation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-genetic-mutation "Minimum Genetic Mutation")
 
 ## [432. All O`one Data Structure (Hard)](https://leetcode.com/problems/all-oone-data-structure "全 O(1) 的数据结构")
 
@@ -27,4 +27,4 @@ Challenge: Perform all these in O(1) time complexity.
 </p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]

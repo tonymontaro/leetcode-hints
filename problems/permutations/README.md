@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/jump-game-ii "Jump Game II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/jump-game-ii "Jump Game II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/permutations-ii "Permutations II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations-ii "Permutations II")
 
 ## [46. Permutations (Medium)](https://leetcode.com/problems/permutations "全排列")
 
@@ -29,10 +29,10 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/problems/next-permutation) (Medium)
-  1. [Permutations II](https://github.com/openset/leetcode/tree/master/problems/permutations-ii) (Medium)
-  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/problems/permutation-sequence) (Medium)
-  1. [Combinations](https://github.com/openset/leetcode/tree/master/problems/combinations) (Medium)
+  1. [Next Permutation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-permutation) (Medium)
+  1. [Permutations II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations-ii) (Medium)
+  1. [Permutation Sequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutation-sequence) (Medium)
+  1. [Combinations](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combinations) (Medium)

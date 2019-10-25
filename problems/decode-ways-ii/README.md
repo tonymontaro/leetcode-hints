@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shopping-offers "Shopping Offers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shopping-offers "Shopping Offers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation "Solve the Equation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/solve-the-equation "Solve the Equation")
 
 ## [639. Decode Ways II (Hard)](https://leetcode.com/problems/decode-ways-ii "解码方法 2")
 
@@ -58,7 +58,7 @@ Also, since the answer may be very large, you should return the output mod 10<su
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Decode Ways](https://github.com/openset/leetcode/tree/master/problems/decode-ways) (Medium)
+  1. [Decode Ways](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decode-ways) (Medium)

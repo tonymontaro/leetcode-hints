@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-range-covering-elements-from-k-lists "Smallest Range Covering Elements from K Lists")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-range-covering-elements-from-k-lists "Smallest Range Covering Elements from K Lists")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-derangement-of-an-array "Find the Derangement of An Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-derangement-of-an-array "Find the Derangement of An Array")
 
 ## [633. Sum of Square Numbers (Easy)](https://leetcode.com/problems/sum-of-square-numbers "平方数之和")
 
@@ -33,7 +33,7 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square) (Easy)
+  1. [Valid Perfect Square](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-perfect-square) (Easy)

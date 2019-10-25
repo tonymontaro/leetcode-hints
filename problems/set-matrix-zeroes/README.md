@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/edit-distance "Edit Distance")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/edit-distance "Edit Distance")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix "Search a 2D Matrix")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-a-2d-matrix "Search a 2D Matrix")
 
 ## [73. Set Matrix Zeroes (Medium)](https://leetcode.com/problems/set-matrix-zeroes "矩阵置零")
 
@@ -56,10 +56,10 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Game of Life](https://github.com/openset/leetcode/tree/master/problems/game-of-life) (Medium)
+  1. [Game of Life](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-of-life) (Medium)
 
 ### Hints
 <details>

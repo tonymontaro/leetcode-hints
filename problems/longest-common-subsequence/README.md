@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/user-activity-for-the-past-30-days-ii "User Activity for the Past 30 Days II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/user-activity-for-the-past-30-days-ii "User Activity for the Past 30 Days II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/decrease-elements-to-make-array-zigzag "Decrease Elements To Make Array Zigzag")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decrease-elements-to-make-array-zigzag "Decrease Elements To Make Array Zigzag")
 
 ## [1143. Longest Common Subsequence (Medium)](https://leetcode.com/problems/longest-common-subsequence "最长公共子序列")
 
@@ -54,7 +54,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

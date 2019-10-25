@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sequence-reconstruction "Sequence Reconstruction")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sequence-reconstruction "Sequence Reconstruction")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices-ii-subsequence "Arithmetic Slices II - Subsequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/arithmetic-slices-ii-subsequence "Arithmetic Slices II - Subsequence")
 
 ## [445. Add Two Numbers II (Medium)](https://leetcode.com/problems/add-two-numbers-ii "两数相加 II")
 
@@ -28,7 +28,7 @@ What if you cannot modify the input lists? In other words, reversing the lists i
 </p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)
+  1. [Add Two Numbers](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-two-numbers) (Medium)

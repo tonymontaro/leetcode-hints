@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample "Statistics from a Large Sample")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/statistics-from-a-large-sample "Statistics from a Large Sample")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-in-mountain-array "Find in Mountain Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-in-mountain-array "Find in Mountain Array")
 
 ## [1094. Car Pooling (Medium)](https://leetcode.com/problems/car-pooling "拼车")
 
@@ -73,10 +73,10 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii) (Medium)
+  1. [Meeting Rooms II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/meeting-rooms-ii) (Medium)
 
 ### Hints
 <details>

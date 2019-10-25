@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain "Maximum Length of Pair Chain")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-length-of-pair-chain "Maximum Length of Pair Chain")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/replace-words "Replace Words")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/replace-words "Replace Words")
 
 ## [647. Palindromic Substrings (Medium)](https://leetcode.com/problems/palindromic-substrings "回文子串")
 
@@ -44,13 +44,13 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)
-  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence) (Medium)
-  1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings) (Medium)
+  1. [Longest Palindromic Substring](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-palindromic-substring) (Medium)
+  1. [Longest Palindromic Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-palindromic-subsequence) (Medium)
+  1. [Palindromic Substrings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindromic-substrings) (Medium)
 
 ### Hints
 <details>

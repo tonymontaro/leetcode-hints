@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-zigzag-level-order-traversal "Binary Tree Zigzag Level Order Traversal")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-zigzag-level-order-traversal "Binary Tree Zigzag Level Order Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-inorder-traversal "Construct Binary Tree from Preorder and Inorder Traversal")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/construct-binary-tree-from-preorder-and-inorder-traversal "Construct Binary Tree from Preorder and Inorder Traversal")
 
 ## [104. Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree "二叉树的最大深度")
 
@@ -31,10 +31,10 @@
 <p>return its depth = 3.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Balanced Binary Tree](https://github.com/openset/leetcode/tree/master/problems/balanced-binary-tree) (Easy)
-  1. [Minimum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/minimum-depth-of-binary-tree) (Easy)
-  1. [Maximum Depth of N-ary Tree](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree) (Easy)
+  1. [Balanced Binary Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/balanced-binary-tree) (Easy)
+  1. [Minimum Depth of Binary Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-depth-of-binary-tree) (Easy)
+  1. [Maximum Depth of N-ary Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-depth-of-n-ary-tree) (Easy)

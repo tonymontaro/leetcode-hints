@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight "Random Pick with Weight")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-with-weight "Random Pick with Weight")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst "Minimum Absolute Difference in BST")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-absolute-difference-in-bst "Minimum Absolute Difference in BST")
 
 ## [529. Minesweeper (Medium)](https://leetcode.com/problems/minesweeper "扫雷游戏")
 
@@ -84,5 +84,5 @@ Click : [1,2]
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]

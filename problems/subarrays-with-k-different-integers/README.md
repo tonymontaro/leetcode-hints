@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/broken-calculator "Broken Calculator")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/broken-calculator "Broken Calculator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree "Cousins in Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/cousins-in-binary-tree "Cousins in Binary Tree")
 
 ## [992. Subarrays with K Different Integers (Hard)](https://leetcode.com/problems/subarrays-with-k-different-integers "K 个不同整数的子数组")
 
@@ -46,11 +46,11 @@
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Longest Substring Without Repeating Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters) (Medium)
-  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
-  1. [Longest Substring with At Most K Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Longest Substring Without Repeating Characters](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-without-repeating-characters) (Medium)
+  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [Longest Substring with At Most K Distinct Characters](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)

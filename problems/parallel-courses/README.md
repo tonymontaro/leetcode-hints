@@ -2,21 +2,21 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/connecting-cities-with-minimum-cost "Connecting Cities With Minimum Cost")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/connecting-cities-with-minimum-cost "Connecting Cities With Minimum Cost")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number "N-th Tribonacci Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-th-tribonacci-number "N-th Tribonacci Number")
 
 ## [1136. Parallel Courses (Hard)](https://leetcode.com/problems/parallel-courses "平行课程")
 
 
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

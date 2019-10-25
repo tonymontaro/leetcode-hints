@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii "Student Attendance Record II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/student-attendance-record-ii "Student Attendance Record II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/brick-wall "Brick Wall")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/brick-wall "Brick Wall")
 
 ## [553. Optimal Division (Medium)](https://leetcode.com/problems/optimal-division "最优除法")
 
@@ -40,5 +40,5 @@ Other cases:
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

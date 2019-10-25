@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/kill-process "Kill Process")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kill-process "Kill Process")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-customer-referee "Find Customer Referee")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-customer-referee "Find Customer Referee")
 
 ## [583. Delete Operation for Two Strings (Medium)](https://leetcode.com/problems/delete-operation-for-two-strings "两个字符串的删除操作")
 
@@ -31,8 +31,8 @@ Given two words <i>word1</i> and <i>word2</i>, find the minimum number of steps 
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Edit Distance](https://github.com/openset/leetcode/tree/master/problems/edit-distance) (Hard)
-  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)
+  1. [Edit Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/edit-distance) (Hard)
+  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)

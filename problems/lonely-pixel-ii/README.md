@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array "K-diff Pairs in an Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-diff-pairs-in-an-array "K-diff Pairs in an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iii "Game Play Analysis III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-play-analysis-iii "Game Play Analysis III")
 
 ## [533. Lonely Pixel II (Medium)](https://leetcode.com/problems/lonely-pixel-ii "孤独像素 II")
 
 
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Lonely Pixel I](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-i) (Medium)
+  1. [Lonely Pixel I](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lonely-pixel-i) (Medium)

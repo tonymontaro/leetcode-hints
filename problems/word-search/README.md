@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subsets "Subsets")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subsets "Subsets")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array-ii "Remove Duplicates from Sorted Array II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicates-from-sorted-array-ii "Remove Duplicates from Sorted Array II")
 
 ## [79. Word Search (Medium)](https://leetcode.com/problems/word-search "单词搜索")
 
@@ -31,8 +31,8 @@ Given word = &quot;<strong>ABCB</strong>&quot;, return <strong>false</strong>.
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Search II](https://github.com/openset/leetcode/tree/master/problems/word-search-ii) (Hard)
+  1. [Word Search II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-search-ii) (Hard)

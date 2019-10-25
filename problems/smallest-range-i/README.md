@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-subarray-minimums "Sum of Subarray Minimums")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-subarray-minimums "Sum of Subarray Minimums")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/snakes-and-ladders "Snakes and Ladders")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/snakes-and-ladders "Snakes and Ladders")
 
 ## [908. Smallest Range I (Easy)](https://leetcode.com/problems/smallest-range-i "最小差值 I")
 
@@ -63,4 +63,4 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

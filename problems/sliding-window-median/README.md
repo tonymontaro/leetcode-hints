@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-palindrome-product "Largest Palindrome Product")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-palindrome-product "Largest Palindrome Product")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/magical-string "Magical String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/magical-string "Magical String")
 
 ## [480. Sliding Window Median (Hard)](https://leetcode.com/problems/sliding-window-median "滑动窗口中位数")
 
@@ -38,7 +38,7 @@ Window position                Median
 You may assume <code>k</code> is always valid, ie: <code>k</code> is always smaller than input array's size for non-empty array.</p>
 
 ### Related Topics
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Find Median from Data Stream](https://github.com/openset/leetcode/tree/master/problems/find-median-from-data-stream) (Hard)
+  1. [Find Median from Data Stream](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-median-from-data-stream) (Hard)

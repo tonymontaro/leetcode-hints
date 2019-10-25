@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/summary-ranges "Summary Ranges")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/summary-ranges "Summary Ranges")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst "Kth Smallest Element in a BST")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-smallest-element-in-a-bst "Kth Smallest Element in a BST")
 
 ## [229. Majority Element II (Medium)](https://leetcode.com/problems/majority-element-ii "求众数 II")
 
@@ -28,11 +28,11 @@
 <strong>Output:</strong> [1,2]</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Majority Element](https://github.com/openset/leetcode/tree/master/problems/majority-element) (Easy)
-  1. [Check If a Number Is Majority Element in a Sorted Array](https://github.com/openset/leetcode/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array) (Easy)
+  1. [Majority Element](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/majority-element) (Easy)
+  1. [Check If a Number Is Majority Element in a Sorted Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array) (Easy)
 
 ### Hints
 <details>

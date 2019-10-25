@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-customer-referee "Find Customer Referee")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-customer-referee "Find Customer Referee")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/customer-placing-the-largest-number-of-orders "Customer Placing the Largest Number of Orders")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/customer-placing-the-largest-number-of-orders "Customer Placing the Largest Number of Orders")
 
 ## [585. Investments in 2016 (Medium)](https://leetcode.com/problems/investments-in-2016 "2016年的投资")
 

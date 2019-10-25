@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-subsequence-of-given-difference "Longest Arithmetic Subsequence of Given Difference")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-arithmetic-subsequence-of-given-difference "Longest Arithmetic Subsequence of Given Difference")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-vowels-permutation "Count Vowels Permutation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-vowels-permutation "Count Vowels Permutation")
 
 ## [1219. Path with Maximum Gold (Medium)](https://leetcode.com/problems/path-with-maximum-gold "黄金矿工")
 
@@ -60,7 +60,7 @@ Path to get the maximum gold, 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5 -&gt; 6 -&gt; 7.
 </ul>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Hints
 <details>

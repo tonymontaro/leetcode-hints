@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/triangle-judgement "Triangle Judgement")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/triangle-judgement "Triangle Judgement")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-plane "Shortest Distance in a Plane")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-in-a-plane "Shortest Distance in a Plane")
 
 ## [611. Valid Triangle Number (Medium)](https://leetcode.com/problems/valid-triangle-number "有效三角形的个数")
 
@@ -33,7 +33,7 @@ Valid combinations are:
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) (Medium)
+  1. [3Sum Smaller](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/3sum-smaller) (Medium)

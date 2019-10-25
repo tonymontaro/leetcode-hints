@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees "All Possible Full Binary Trees")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/all-possible-full-binary-trees "All Possible Full Binary Trees")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/monotonic-array "Monotonic Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/monotonic-array "Monotonic Array")
 
 ## [895. Maximum Frequency Stack (Hard)](https://leetcode.com/problems/maximum-frequency-stack "最大频率栈")
 
@@ -66,5 +66,5 @@ The stack becomes [5,7].
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]

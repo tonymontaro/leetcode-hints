@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii "Brace Expansion II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/brace-expansion-ii "Brace Expansion II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unpopular-books "Unpopular Books")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unpopular-books "Unpopular Books")
 
 ## [1097. Game Play Analysis V (Hard)](https://leetcode.com/problems/game-play-analysis-v "游戏玩法分析 V")
 
 
 
 ### Similar Questions
-  1. [Game Play Analysis IV](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv) (Medium)
+  1. [Game Play Analysis IV](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-play-analysis-iv) (Medium)

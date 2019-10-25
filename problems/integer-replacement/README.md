@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rotate-function "Rotate Function")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotate-function "Rotate Function")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-index "Random Pick Index")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-index "Random Pick Index")
 
 ## [397. Integer Replacement (Medium)](https://leetcode.com/problems/integer-replacement "整数替换")
 
@@ -57,5 +57,5 @@ or
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

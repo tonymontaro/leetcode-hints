@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle "Maximal Rectangle")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximal-rectangle "Maximal Rectangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/scramble-string "Scramble String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/scramble-string "Scramble String")
 
 ## [86. Partition List (Medium)](https://leetcode.com/problems/partition-list "分隔链表")
 
@@ -23,5 +23,5 @@
 </pre>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]

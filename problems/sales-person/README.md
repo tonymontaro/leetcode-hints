@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree "Construct String from Binary Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/construct-string-from-binary-tree "Construct String from Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tree-node "Tree Node")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/tree-node "Tree Node")
 
 ## [607. Sales Person (Easy)](https://leetcode.com/problems/sales-person "销售员")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/leaf-similar-trees "Leaf-Similar Trees")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/leaf-similar-trees "Leaf-Similar Trees")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/walking-robot-simulation "Walking Robot Simulation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/walking-robot-simulation "Walking Robot Simulation")
 
 ## [873. Length of Longest Fibonacci Subsequence (Medium)](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence "最长的斐波那契子序列的长度")
 
@@ -57,8 +57,8 @@ The longest subsequence that is fibonacci-like:
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)
+  1. [Fibonacci Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fibonacci-number) (Easy)

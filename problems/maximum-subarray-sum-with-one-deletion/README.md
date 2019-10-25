@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/day-of-the-week "Day of the Week")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/day-of-the-week "Day of the Week")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/make-array-strictly-increasing "Make Array Strictly Increasing")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/make-array-strictly-increasing "Make Array Strictly Increasing")
 
 ## [1186. Maximum Subarray Sum with One Deletion (Medium)](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion "删除一次得到子数组最大和")
 
@@ -48,7 +48,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

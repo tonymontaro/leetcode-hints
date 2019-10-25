@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/car-fleet "Car Fleet")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/car-fleet "Car Fleet")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/exam-room "Exam Room")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/exam-room "Exam Room")
 
 ## [854. K-Similar Strings (Hard)](https://leetcode.com/problems/k-similar-strings "相似度为 K 的字符串")
 
@@ -56,8 +56,8 @@
 </ol>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands) (Hard)
+  1. [Couples Holding Hands](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/couples-holding-hands) (Hard)

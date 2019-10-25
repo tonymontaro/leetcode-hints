@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves "Lowest Common Ancestor of Deepest Leaves")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lowest-common-ancestor-of-deepest-leaves "Lowest Common Ancestor of Deepest Leaves")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team "Smallest Sufficient Team")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-sufficient-team "Smallest Sufficient Team")
 
 ## [1124. Longest Well-Performing Interval (Medium)](https://leetcode.com/problems/longest-well-performing-interval "表现良好的最长时间段")
 
@@ -37,7 +37,7 @@
 </ul>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
 
 ### Hints
 <details>

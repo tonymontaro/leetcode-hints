@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/n-repeated-element-in-size-2n-array "N-Repeated Element in Size 2N Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-repeated-element-in-size-2n-array "N-Repeated Element in Size 2N Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle-ii "Minimum Area Rectangle II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-area-rectangle-ii "Minimum Area Rectangle II")
 
 ## [962. Maximum Width Ramp (Medium)](https://leetcode.com/problems/maximum-width-ramp "最大宽度坡")
 
@@ -55,4 +55,4 @@ The maximum width ramp is achieved at (i, j) = (2, 9): A[2] = 1 and A[9] = 1.
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

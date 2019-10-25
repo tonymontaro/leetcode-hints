@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-gold "Path with Maximum Gold")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-with-maximum-gold "Path with Maximum Gold")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings "Split a String in Balanced Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-a-string-in-balanced-strings "Split a String in Balanced Strings")
 
 ## [1220. Count Vowels Permutation (Hard)](https://leetcode.com/problems/count-vowels-permutation "统计元音字母序列的数目")
 
@@ -55,7 +55,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

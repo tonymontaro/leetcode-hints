@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/length-of-longest-fibonacci-subsequence "Length of Longest Fibonacci Subsequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/length-of-longest-fibonacci-subsequence "Length of Longest Fibonacci Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/koko-eating-bananas "Koko Eating Bananas")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/koko-eating-bananas "Koko Eating Bananas")
 
 ## [874. Walking Robot Simulation (Easy)](https://leetcode.com/problems/walking-robot-simulation "模拟行走机器人")
 
@@ -60,4 +60,4 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]

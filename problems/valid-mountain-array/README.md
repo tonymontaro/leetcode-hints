@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences-ii "Distinct Subsequences II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/distinct-subsequences-ii "Distinct Subsequences II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/di-string-match "DI String Match")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/di-string-match "DI String Match")
 
 ## [941. Valid Mountain Array (Easy)](https://leetcode.com/problems/valid-mountain-array "有效的山脉数组")
 
@@ -69,4 +69,4 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

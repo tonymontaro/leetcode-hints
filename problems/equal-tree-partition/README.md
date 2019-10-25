@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-width-of-binary-tree "Maximum Width of Binary Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-width-of-binary-tree "Maximum Width of Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/strange-printer "Strange Printer")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/strange-printer "Strange Printer")
 
 ## [663. Equal Tree Partition (Medium)](https://leetcode.com/problems/equal-tree-partition "均匀树划分")
 
@@ -61,4 +61,4 @@ Sum: 15
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

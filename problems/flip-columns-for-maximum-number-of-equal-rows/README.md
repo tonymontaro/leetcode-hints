@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/greatest-common-divisor-of-strings "Greatest Common Divisor of Strings")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/greatest-common-divisor-of-strings "Greatest Common Divisor of Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/adding-two-negabinary-numbers "Adding Two Negabinary Numbers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/adding-two-negabinary-numbers "Adding Two Negabinary Numbers")
 
 ## [1072. Flip Columns For Maximum Number of Equal Rows (Medium)](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows "按列翻转得到最大值等行数")
 
@@ -62,7 +62,7 @@
 </div>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Hints
 <details>

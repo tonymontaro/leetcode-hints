@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-v "Game Play Analysis V")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-play-analysis-v "Game Play Analysis V")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k "Two Sum Less Than K")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-less-than-k "Two Sum Less Than K")
 
 ## [1098. Unpopular Books (Medium)](https://leetcode.com/problems/unpopular-books "小众书籍")
 

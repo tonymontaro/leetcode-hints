@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation "Palindrome Permutation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-permutation "Palindrome Permutation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/missing-number "Missing Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/missing-number "Missing Number")
 
 ## [267. Palindrome Permutation II (Medium)](https://leetcode.com/problems/palindrome-permutation-ii "回文排列 II")
 
@@ -24,12 +24,12 @@
 <strong>Output:</strong> <code>[]</code></pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/problems/next-permutation) (Medium)
-  1. [Permutations II](https://github.com/openset/leetcode/tree/master/problems/permutations-ii) (Medium)
-  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) (Easy)
+  1. [Next Permutation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-permutation) (Medium)
+  1. [Permutations II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations-ii) (Medium)
+  1. [Palindrome Permutation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-permutation) (Easy)
 
 ### Hints
 <details>

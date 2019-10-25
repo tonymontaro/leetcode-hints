@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-square-numbers "Sum of Square Numbers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-square-numbers "Sum of Square Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-log-storage-system "Design Log Storage System")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-log-storage-system "Design Log Storage System")
 
 ## [634. Find the Derangement of An Array (Medium)](https://leetcode.com/problems/find-the-derangement-of-an-array "寻找数组的错位排列")
 
 
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

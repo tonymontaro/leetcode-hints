@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/task-scheduler "Task Scheduler")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/task-scheduler "Task Scheduler")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-one-row-to-tree "Add One Row to Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-one-row-to-tree "Add One Row to Tree")
 
 ## [622. Design Circular Queue (Medium)](https://leetcode.com/problems/design-circular-queue "设计循环队列")
 
@@ -54,8 +54,8 @@ circularQueue.Rear(); &nbsp;// return 4
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[Queue](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/queue/README.md)]
 
 ### Similar Questions
-  1. [Design Circular Deque](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque) (Medium)
+  1. [Design Circular Deque](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-circular-deque) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/zuma-game "Zuma Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/zuma-game "Zuma Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/the-maze "The Maze")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-maze "The Maze")
 
 ## [489. Robot Room Cleaner (Hard)](https://leetcode.com/problems/robot-room-cleaner "扫地机器人")
 
@@ -68,7 +68,7 @@ From the top left corner, its position is one row below and three columns right.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates) (Medium)
+  1. [Walls and Gates](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/walls-and-gates) (Medium)

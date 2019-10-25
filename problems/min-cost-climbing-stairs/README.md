@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search "Prefix and Suffix Search")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/prefix-and-suffix-search "Prefix and Suffix Search")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-number-at-least-twice-of-others "Largest Number At Least Twice of Others")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-number-at-least-twice-of-others "Largest Number At Least Twice of Others")
 
 ## [746. Min Cost Climbing Stairs (Easy)](https://leetcode.com/problems/min-cost-climbing-stairs "使用最小花费爬楼梯")
 
@@ -41,11 +41,11 @@ Once you pay the cost, you can either climb one or two steps. You need to find m
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) (Easy)
+  1. [Climbing Stairs](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/climbing-stairs) (Easy)
 
 ### Hints
 <details>

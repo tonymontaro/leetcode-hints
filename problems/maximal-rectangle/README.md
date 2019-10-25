@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram "Largest Rectangle in Histogram")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-rectangle-in-histogram "Largest Rectangle in Histogram")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-list "Partition List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/partition-list "Partition List")
 
 ## [85. Maximal Rectangle (Hard)](https://leetcode.com/problems/maximal-rectangle "最大矩形")
 
@@ -27,11 +27,11 @@
 </pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Largest Rectangle in Histogram](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram) (Hard)
-  1. [Maximal Square](https://github.com/openset/leetcode/tree/master/problems/maximal-square) (Medium)
+  1. [Largest Rectangle in Histogram](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-rectangle-in-histogram) (Hard)
+  1. [Maximal Square](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximal-square) (Medium)

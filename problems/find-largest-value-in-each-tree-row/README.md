@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/freedom-trail "Freedom Trail")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/freedom-trail "Freedom Trail")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence "Longest Palindromic Subsequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-palindromic-subsequence "Longest Palindromic Subsequence")
 
 ## [515. Find Largest Value in Each Tree Row (Medium)](https://leetcode.com/problems/find-largest-value-in-each-tree-row "在每个树行中找最大值")
 
@@ -28,6 +28,6 @@
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]

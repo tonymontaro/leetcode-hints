@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/surrounded-regions "Surrounded Regions")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/surrounded-regions "Surrounded Regions")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii "Palindrome Partitioning II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-partitioning-ii "Palindrome Partitioning II")
 
 ## [131. Palindrome Partitioning (Medium)](https://leetcode.com/problems/palindrome-partitioning "分割回文串")
 
@@ -27,7 +27,7 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Palindrome Partitioning II](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii) (Hard)
+  1. [Palindrome Partitioning II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-partitioning-ii) (Hard)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/complement-of-base-10-integer "Complement of Base 10 Integer")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/complement-of-base-10-integer "Complement of Base 10 Integer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days "Capacity To Ship Packages Within D Days")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/capacity-to-ship-packages-within-d-days "Capacity To Ship Packages Within D Days")
 
 ## [1010. Pairs of Songs With Total Durations Divisible by 60 (Easy)](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60 "总持续时间可被 60 整除的歌曲")
 
@@ -48,7 +48,7 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

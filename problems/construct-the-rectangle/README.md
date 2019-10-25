@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/increasing-subsequences "Increasing Subsequences")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/increasing-subsequences "Increasing Subsequences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-pairs "Reverse Pairs")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-pairs "Reverse Pairs")
 
 ## [492. Construct the Rectangle (Easy)](https://leetcode.com/problems/construct-the-rectangle "构造矩形")
 

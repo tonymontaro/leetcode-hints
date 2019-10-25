@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists "Merge Two Sorted Lists")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-two-sorted-lists "Merge Two Sorted Lists")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists "Merge k Sorted Lists")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-k-sorted-lists "Merge k Sorted Lists")
 
 ## [22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses "括号生成")
 
@@ -29,9 +29,9 @@ For example, given <i>n</i> = 3, a solution set is:
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
-  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) (Easy)
+  1. [Letter Combinations of a Phone Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
+  1. [Valid Parentheses](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-parentheses) (Easy)

@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-peak-element "Find Peak Element")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-peak-element "Find Peak Element")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-gap "Maximum Gap")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-gap "Maximum Gap")
 
 ## [163. Missing Ranges (Medium)](https://leetcode.com/problems/missing-ranges "缺失的区间")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Summary Ranges](https://github.com/openset/leetcode/tree/master/problems/summary-ranges) (Medium)
+  1. [Summary Ranges](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/summary-ranges) (Medium)

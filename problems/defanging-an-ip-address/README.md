@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/new-users-daily-count "New Users Daily Count")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/new-users-daily-count "New Users Daily Count")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/corporate-flight-bookings "Corporate Flight Bookings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/corporate-flight-bookings "Corporate Flight Bookings")
 
 ## [1108. Defanging an IP Address (Easy)](https://leetcode.com/problems/defanging-an-ip-address "IP 地址无效化")
 
@@ -31,4 +31,4 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

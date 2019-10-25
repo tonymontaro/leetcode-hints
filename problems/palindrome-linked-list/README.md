@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one "Number of Digit One")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-digit-one "Number of Digit One")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree "Lowest Common Ancestor of a Binary Search Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree "Lowest Common Ancestor of a Binary Search Tree")
 
 ## [234. Palindrome Linked List (Easy)](https://leetcode.com/problems/palindrome-linked-list "回文链表")
 
@@ -29,10 +29,10 @@
 Could you do it in O(n) time and O(1) space?</p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Palindrome Number](https://github.com/openset/leetcode/tree/master/problems/palindrome-number) (Easy)
-  1. [Valid Palindrome](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome) (Easy)
-  1. [Reverse Linked List](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list) (Easy)
+  1. [Palindrome Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-number) (Easy)
+  1. [Valid Palindrome](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-palindrome) (Easy)
+  1. [Reverse Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-linked-list) (Easy)

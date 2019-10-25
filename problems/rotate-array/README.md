@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iv "Best Time to Buy and Sell Stock IV")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-time-to-buy-and-sell-stock-iv "Best Time to Buy and Sell Stock IV")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-bits "Reverse Bits")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-bits "Reverse Bits")
 
 ## [189. Rotate Array (Easy)](https://leetcode.com/problems/rotate-array "旋转数组")
 
@@ -42,8 +42,8 @@ rotate 2 steps to the right: [3,99,-1,-100]
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Rotate List](https://github.com/openset/leetcode/tree/master/problems/rotate-list) (Medium)
-  1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii) (Medium)
+  1. [Rotate List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotate-list) (Medium)
+  1. [Reverse Words in a String II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-words-in-a-string-ii) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/image-overlap "Image Overlap")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/image-overlap "Image Overlap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/new-21-game "New 21 Game")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/new-21-game "New 21 Game")
 
 ## [836. Rectangle Overlap (Easy)](https://leetcode.com/problems/rectangle-overlap "矩形重叠")
 
@@ -39,7 +39,7 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Rectangle Area](https://github.com/openset/leetcode/tree/master/problems/rectangle-area) (Medium)
+  1. [Rectangle Area](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rectangle-area) (Medium)

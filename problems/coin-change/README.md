@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/create-maximum-number "Create Maximum Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/create-maximum-number "Create Maximum Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-connected-components-in-an-undirected-graph "Number of Connected Components in an Undirected Graph")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-connected-components-in-an-undirected-graph "Number of Connected Components in an Undirected Graph")
 
 ## [322. Coin Change (Medium)](https://leetcode.com/problems/coin-change "零钱兑换")
 
@@ -31,7 +31,7 @@
 You may assume that you have an infinite number of each kind of coin.</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Minimum Cost For Tickets](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets) (Medium)
+  1. [Minimum Cost For Tickets](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-cost-for-tickets) (Medium)

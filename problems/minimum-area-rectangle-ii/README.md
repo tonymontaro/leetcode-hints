@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-width-ramp "Maximum Width Ramp")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-width-ramp "Maximum Width Ramp")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/least-operators-to-express-number "Least Operators to Express Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/least-operators-to-express-number "Least Operators to Express Number")
 
 ## [963. Minimum Area Rectangle II (Medium)](https://leetcode.com/problems/minimum-area-rectangle-ii "最小面积矩形 II")
 
@@ -76,5 +76,5 @@
 </ol>
 
 ### Related Topics
-  [[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Geometry](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/geometry/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

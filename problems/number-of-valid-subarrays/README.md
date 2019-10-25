@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-substring "Longest Repeating Substring")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-repeating-substring "Longest Repeating Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/fixed-point "Fixed Point")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fixed-point "Fixed Point")
 
 ## [1063. Number of Valid Subarrays (Hard)](https://leetcode.com/problems/number-of-valid-subarrays "有效子数组的数目")
 
@@ -51,7 +51,7 @@
 </ol>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
 
 ### Hints
 <details>

@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart "Rearrange String k Distance Apart")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rearrange-string-k-distance-apart "Rearrange String k Distance Apart")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-transformed-array "Sort Transformed Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-transformed-array "Sort Transformed Array")
 
 ## [359. Logger Rate Limiter (Easy)](https://leetcode.com/problems/logger-rate-limiter "日志速率限制器")
 
 
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Design Hit Counter](https://github.com/openset/leetcode/tree/master/problems/design-hit-counter) (Medium)
+  1. [Design Hit Counter](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-hit-counter) (Medium)

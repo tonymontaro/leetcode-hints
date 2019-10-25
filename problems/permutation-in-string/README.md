@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reshape-the-matrix "Reshape the Matrix")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reshape-the-matrix "Reshape the Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days "Maximum Vacation Days")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-vacation-days "Maximum Vacation Days")
 
 ## [567. Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string "字符串的排列")
 
@@ -40,12 +40,12 @@
 </ol>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)
-  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string) (Medium)
+  1. [Minimum Window Substring](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-window-substring) (Hard)
+  1. [Find All Anagrams in a String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-all-anagrams-in-a-string) (Medium)
 
 ### Hints
 <details>

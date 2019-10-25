@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-mutable "Range Sum Query 2D - Mutable")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-sum-query-2d-mutable "Range Sum Query 2D - Mutable")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-height-trees "Minimum Height Trees")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-height-trees "Minimum Height Trees")
 
 ## [309. Best Time to Buy and Sell Stock with Cooldown (Medium)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown "最佳买卖股票时机含冷冻期")
 
@@ -29,8 +29,8 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) (Easy)
-  1. [Best Time to Buy and Sell Stock II](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [Best Time to Buy and Sell Stock](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-time-to-buy-and-sell-stock) (Easy)
+  1. [Best Time to Buy and Sell Stock II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-time-to-buy-and-sell-stock-ii) (Easy)

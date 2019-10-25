@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-smallest-letter-greater-than-target "Find Smallest Letter Greater Than Target")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-smallest-letter-greater-than-target "Find Smallest Letter Greater Than Target")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs "Min Cost Climbing Stairs")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/min-cost-climbing-stairs "Min Cost Climbing Stairs")
 
 ## [745. Prefix and Suffix Search (Hard)](https://leetcode.com/problems/prefix-and-suffix-search "前缀和后缀搜索")
 
@@ -39,10 +39,10 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // returns -1
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Trie](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/trie/README.md)]
 
 ### Similar Questions
-  1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) (Medium)
+  1. [Add and Search Word - Data structure design](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-and-search-word-data-structure-design) (Medium)
 
 ### Hints
 <details>

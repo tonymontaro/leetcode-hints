@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node-ii "Populating Next Right Pointers in Each Node II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/populating-next-right-pointers-in-each-node-ii "Populating Next Right Pointers in Each Node II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle-ii "Pascal's Triangle II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/pascals-triangle-ii "Pascal's Triangle II")
 
 ## [118. Pascal's Triangle (Easy)](https://leetcode.com/problems/pascals-triangle "杨辉三角")
 
@@ -31,7 +31,7 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Pascal's Triangle II](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle-ii) (Easy)
+  1. [Pascal's Triangle II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/pascals-triangle-ii) (Easy)

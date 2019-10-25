@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray "Maximum Product Subarray")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-product-subarray "Maximum Product Subarray")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array-ii "Find Minimum in Rotated Sorted Array II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-minimum-in-rotated-sorted-array-ii "Find Minimum in Rotated Sorted Array II")
 
 ## [153. Find Minimum in Rotated Sorted Array (Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array "寻找旋转排序数组中的最小值")
 
@@ -34,12 +34,12 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Search in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array) (Medium)
-  1. [Find Minimum in Rotated Sorted Array II](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array-ii) (Hard)
+  1. [Search in Rotated Sorted Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-in-rotated-sorted-array) (Medium)
+  1. [Find Minimum in Rotated Sorted Array II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-minimum-in-rotated-sorted-array-ii) (Hard)
 
 ### Hints
 <details>

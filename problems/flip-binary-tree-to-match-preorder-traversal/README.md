@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/powerful-integers "Powerful Integers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/powerful-integers "Powerful Integers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers "Equal Rational Numbers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/equal-rational-numbers "Equal Rational Numbers")
 
 ## [971. Flip Binary Tree To Match Preorder Traversal (Medium)](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal "翻转二叉树以匹配先序遍历")
 
@@ -69,5 +69,5 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]

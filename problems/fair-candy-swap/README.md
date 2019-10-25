@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/super-egg-drop "Super Egg Drop")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/super-egg-drop "Super Egg Drop")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-postorder-traversal "Construct Binary Tree from Preorder and Postorder Traversal")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/construct-binary-tree-from-preorder-and-postorder-traversal "Construct Binary Tree from Preorder and Postorder Traversal")
 
 ## [888. Fair Candy Swap (Easy)](https://leetcode.com/problems/fair-candy-swap "公平的糖果交换")
 
@@ -71,4 +71,4 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-and-say "Count and Say")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-and-say "Count and Say")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii "Combination Sum II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum-ii "Combination Sum II")
 
 ## [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum "组合总和")
 
@@ -46,13 +46,13 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
-  1. [Combination Sum II](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii) (Medium)
-  1. [Combinations](https://github.com/openset/leetcode/tree/master/problems/combinations) (Medium)
-  1. [Combination Sum III](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iii) (Medium)
-  1. [Factor Combinations](https://github.com/openset/leetcode/tree/master/problems/factor-combinations) (Medium)
-  1. [Combination Sum IV](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv) (Medium)
+  1. [Letter Combinations of a Phone Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
+  1. [Combination Sum II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum-ii) (Medium)
+  1. [Combinations](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combinations) (Medium)
+  1. [Combination Sum III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum-iii) (Medium)
+  1. [Factor Combinations](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/factor-combinations) (Medium)
+  1. [Combination Sum IV](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum-iv) (Medium)

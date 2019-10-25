@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/goat-latin "Goat Latin")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/goat-latin "Goat Latin")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/most-profit-assigning-work "Most Profit Assigning Work")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/most-profit-assigning-work "Most Profit Assigning Work")
 
 ## [825. Friends Of Appropriate Ages (Medium)](https://leetcode.com/problems/friends-of-appropriate-ages "适龄的朋友")
 
@@ -60,4 +60,4 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

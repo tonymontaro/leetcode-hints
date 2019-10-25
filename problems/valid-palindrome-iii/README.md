@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stepping-numbers "Stepping Numbers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/stepping-numbers "Stepping Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/play-with-chips "Play with Chips")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/play-with-chips "Play with Chips")
 
 ## [1216. Valid Palindrome III (Hard)](https://leetcode.com/problems/valid-palindrome-iii "验证回文字符串 III")
 
@@ -34,8 +34,8 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree "Maximum Depth of N-ary Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-depth-of-n-ary-tree "Maximum Depth of N-ary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/array-partition-i "Array Partition I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/array-partition-i "Array Partition I")
 
 ## [560. Subarray Sum Equals K (Medium)](https://leetcode.com/problems/subarray-sum-equals-k "和为K的子数组")
 
@@ -28,15 +28,15 @@
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
-  1. [Continuous Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum) (Medium)
-  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k) (Medium)
-  1. [Find Pivot Index](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index) (Easy)
-  1. [Subarray Sums Divisible by K](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k) (Medium)
+  1. [Two Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum) (Easy)
+  1. [Continuous Subarray Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/continuous-subarray-sum) (Medium)
+  1. [Subarray Product Less Than K](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subarray-product-less-than-k) (Medium)
+  1. [Find Pivot Index](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-pivot-index) (Easy)
+  1. [Subarray Sums Divisible by K](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subarray-sums-divisible-by-k) (Medium)
 
 ### Hints
 <details>

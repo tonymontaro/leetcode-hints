@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sliding-window-median "Sliding Window Median")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sliding-window-median "Sliding Window Median")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/license-key-formatting "License Key Formatting")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/license-key-formatting "License Key Formatting")
 
 ## [481. Magical String (Medium)](https://leetcode.com/problems/magical-string "神奇字符串")
 

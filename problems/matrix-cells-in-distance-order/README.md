@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling "Two City Scheduling")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-city-scheduling "Two City Scheduling")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays "Maximum Sum of Two Non-Overlapping Subarrays")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays "Maximum Sum of Two Non-Overlapping Subarrays")
 
 ## [1030. Matrix Cells in Distance Order (Easy)](https://leetcode.com/problems/matrix-cells-in-distance-order "距离顺序排列矩阵单元格")
 
@@ -63,4 +63,4 @@ There are other answers that would also be accepted as correct, such as [[1,2],[
 </div>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]

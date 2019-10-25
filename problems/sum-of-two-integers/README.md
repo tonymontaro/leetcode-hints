@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/range-addition "Range Addition")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-addition "Range Addition")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/super-pow "Super Pow")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/super-pow "Super Pow")
 
 ## [371. Sum of Two Integers (Easy)](https://leetcode.com/problems/sum-of-two-integers "两整数之和")
 
@@ -32,7 +32,7 @@
 </div>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)
+  1. [Add Two Numbers](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-two-numbers) (Medium)

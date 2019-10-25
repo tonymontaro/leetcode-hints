@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii "Palindrome Partitioning II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-partitioning-ii "Palindrome Partitioning II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/gas-station "Gas Station")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/gas-station "Gas Station")
 
 ## [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph "克隆图")
 
@@ -42,9 +42,9 @@ Node 4&#39;s value is 4, and it has two neighbors: Node 1 and 3.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Copy List with Random Pointer](https://github.com/openset/leetcode/tree/master/problems/copy-list-with-random-pointer) (Medium)
+  1. [Copy List with Random Pointer](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/copy-list-with-random-pointer) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles "Random Point in Non-overlapping Rectangles")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-point-in-non-overlapping-rectangles "Random Point in Non-overlapping Rectangles")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/the-maze-iii "The Maze III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-maze-iii "The Maze III")
 
 ## [498. Diagonal Traverse (Medium)](https://leetcode.com/problems/diagonal-traverse "对角线遍历")
 

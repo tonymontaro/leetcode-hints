@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/prime-number-of-set-bits-in-binary-representation "Prime Number of Set Bits in Binary Representation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/prime-number-of-set-bits-in-binary-representation "Prime Number of Set Bits in Binary Representation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-plus-sign "Largest Plus Sign")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-plus-sign "Largest Plus Sign")
 
 ## [763. Partition Labels (Medium)](https://leetcode.com/problems/partition-labels "划分字母区间")
 
@@ -32,11 +32,11 @@ A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits 
 </ol></p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
+  1. [Merge Intervals](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-intervals) (Medium)
 
 ### Hints
 <details>

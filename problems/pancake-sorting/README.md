@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras "Binary Tree Cameras")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-cameras "Binary Tree Cameras")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/powerful-integers "Powerful Integers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/powerful-integers "Powerful Integers")
 
 ## [969. Pancake Sorting (Medium)](https://leetcode.com/problems/pancake-sorting "煎饼排序")
 
@@ -52,5 +52,5 @@ Note that other answers, such as [3, 3], would also be accepted.
 </ol>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

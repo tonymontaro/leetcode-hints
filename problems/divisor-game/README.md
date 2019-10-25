@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/video-stitching "Video Stitching")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/video-stitching "Video Stitching")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor "Maximum Difference Between Node and Ancestor")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-difference-between-node-and-ancestor "Maximum Difference Between Node and Ancestor")
 
 ## [1025. Divisor Game (Easy)](https://leetcode.com/problems/divisor-game "除数博弈")
 
@@ -58,8 +58,8 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

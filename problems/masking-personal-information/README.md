@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/positions-of-large-groups "Positions of Large Groups")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/positions-of-large-groups "Positions of Large Groups")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flipping-an-image "Flipping an Image")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flipping-an-image "Flipping an Image")
 
 ## [831. Masking Personal Information (Medium)](https://leetcode.com/problems/masking-personal-information "隐藏个人信息")
 
@@ -89,4 +89,4 @@
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

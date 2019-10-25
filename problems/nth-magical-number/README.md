@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stone-game "Stone Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/stone-game "Stone Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/profitable-schemes "Profitable Schemes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/profitable-schemes "Profitable Schemes")
 
 ## [878. Nth Magical Number (Hard)](https://leetcode.com/problems/nth-magical-number "第 N 个神奇数字")
 
@@ -67,5 +67,5 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]

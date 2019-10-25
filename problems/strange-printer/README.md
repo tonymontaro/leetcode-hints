@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/equal-tree-partition "Equal Tree Partition")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/equal-tree-partition "Equal Tree Partition")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/non-decreasing-array "Non-decreasing Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/non-decreasing-array "Non-decreasing Array")
 
 ## [664. Strange Printer (Hard)](https://leetcode.com/problems/strange-printer "奇怪的打印机")
 
@@ -44,8 +44,8 @@ Given a string consists of lower English letters only, your job is to count the 
 <p><b>Hint</b>: Length of the given string will not exceed 100.</p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Remove Boxes](https://github.com/openset/leetcode/tree/master/problems/remove-boxes) (Hard)
+  1. [Remove Boxes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-boxes) (Hard)

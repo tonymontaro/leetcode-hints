@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/prime-palindrome "Prime Palindrome")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/prime-palindrome "Prime Palindrome")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-gap "Binary Gap")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-gap "Binary Gap")
 
 ## [867. Transpose Matrix (Easy)](https://leetcode.com/problems/transpose-matrix "转置矩阵")
 
@@ -45,4 +45,4 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

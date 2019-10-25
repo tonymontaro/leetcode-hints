@@ -2,17 +2,17 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/russian-doll-envelopes "Russian Doll Envelopes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/russian-doll-envelopes "Russian Doll Envelopes")
 
 ## [353. Design Snake Game (Medium)](https://leetcode.com/problems/design-snake-game "贪吃蛇")
 
 
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[Queue](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/queue/README.md)]

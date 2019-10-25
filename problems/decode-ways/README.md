@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subsets-ii "Subsets II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subsets-ii "Subsets II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list-ii "Reverse Linked List II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-linked-list-ii "Reverse Linked List II")
 
 ## [91. Decode Ways (Medium)](https://leetcode.com/problems/decode-ways "解码方法")
 
@@ -38,8 +38,8 @@
 <strong>Explanation:</strong>&nbsp;It could be decoded as &quot;BZ&quot; (2 26), &quot;VF&quot; (22 6), or &quot;BBF&quot; (2 2 6).</pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Decode Ways II](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii) (Hard)
+  1. [Decode Ways II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decode-ways-ii) (Hard)

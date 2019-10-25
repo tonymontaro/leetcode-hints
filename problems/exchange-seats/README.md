@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-factorization "Minimum Factorization")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-factorization "Minimum Factorization")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/swap-salary "Swap Salary")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/swap-salary "Swap Salary")
 
 ## [626. Exchange Seats (Medium)](https://leetcode.com/problems/exchange-seats "换座位")
 

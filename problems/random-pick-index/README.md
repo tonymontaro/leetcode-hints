@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/integer-replacement "Integer Replacement")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/integer-replacement "Integer Replacement")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/evaluate-division "Evaluate Division")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/evaluate-division "Evaluate Division")
 
 ## [398. Random Pick Index (Medium)](https://leetcode.com/problems/random-pick-index "随机数索引")
 
@@ -30,9 +30,9 @@ solution.pick(1);
 </pre>
 
 ### Related Topics
-  [[Reservoir Sampling](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
+  [[Reservoir Sampling](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/reservoir-sampling/README.md)]
 
 ### Similar Questions
-  1. [Linked List Random Node](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node) (Medium)
-  1. [Random Pick with Blacklist](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist) (Hard)
-  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight) (Medium)
+  1. [Linked List Random Node](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-random-node) (Medium)
+  1. [Random Pick with Blacklist](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-with-blacklist) (Hard)
+  1. [Random Pick with Weight](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-with-weight) (Medium)

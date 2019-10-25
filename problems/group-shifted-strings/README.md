@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii "Strobogrammatic Number III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/strobogrammatic-number-iii "Strobogrammatic Number III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-univalue-subtrees "Count Univalue Subtrees")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-univalue-subtrees "Count Univalue Subtrees")
 
 ## [249. Group Shifted Strings (Medium)](https://leetcode.com/problems/group-shifted-strings "移位字符串分组")
 
 
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Group Anagrams](https://github.com/openset/leetcode/tree/master/problems/group-anagrams) (Medium)
+  1. [Group Anagrams](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/group-anagrams) (Medium)

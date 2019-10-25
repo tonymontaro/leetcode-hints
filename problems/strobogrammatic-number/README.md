@@ -2,22 +2,22 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-iii "Shortest Word Distance III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance-iii "Shortest Word Distance III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii "Strobogrammatic Number II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/strobogrammatic-number-ii "Strobogrammatic Number II")
 
 ## [246. Strobogrammatic Number (Easy)](https://leetcode.com/problems/strobogrammatic-number "中心对称数")
 
 
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Strobogrammatic Number II](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii) (Medium)
-  1. [Strobogrammatic Number III](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii) (Hard)
-  1. [Confusing Number](https://github.com/openset/leetcode/tree/master/problems/confusing-number) (Easy)
+  1. [Strobogrammatic Number II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/strobogrammatic-number-ii) (Medium)
+  1. [Strobogrammatic Number III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/strobogrammatic-number-iii) (Hard)
+  1. [Confusing Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/confusing-number) (Easy)

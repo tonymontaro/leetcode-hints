@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/exam-room "Exam Room")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/exam-room "Exam Room")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-hire-k-workers "Minimum Cost to Hire K Workers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-cost-to-hire-k-workers "Minimum Cost to Hire K Workers")
 
 ## [856. Score of Parentheses (Medium)](https://leetcode.com/problems/score-of-parentheses "括号的分数")
 
@@ -67,5 +67,5 @@
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

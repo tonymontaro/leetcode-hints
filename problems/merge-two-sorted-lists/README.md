@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses "Valid Parentheses")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-parentheses "Valid Parentheses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses "Generate Parentheses")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/generate-parentheses "Generate Parentheses")
 
 ## [21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists "合并两个有序链表")
 
@@ -21,10 +21,10 @@
 </p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Merge k Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists) (Hard)
-  1. [Merge Sorted Array](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array) (Easy)
-  1. [Sort List](https://github.com/openset/leetcode/tree/master/problems/sort-list) (Medium)
-  1. [Shortest Word Distance II](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-ii) (Medium)
+  1. [Merge k Sorted Lists](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-k-sorted-lists) (Hard)
+  1. [Merge Sorted Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-sorted-array) (Easy)
+  1. [Sort List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-list) (Medium)
+  1. [Shortest Word Distance II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance-ii) (Medium)

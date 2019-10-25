@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/island-perimeter "Island Perimeter")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/island-perimeter "Island Perimeter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/optimal-account-balancing "Optimal Account Balancing")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/optimal-account-balancing "Optimal Account Balancing")
 
 ## [464. Can I Win (Medium)](https://leetcode.com/problems/can-i-win "我能赢吗")
 
@@ -41,10 +41,10 @@ Same with other integers chosen by the first player, the second player will alwa
 </p>
 
 ### Related Topics
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Minimax](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/minimax/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
-  1. [Predict the Winner](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner) (Medium)
+  1. [Flip Game II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-game-ii) (Medium)
+  1. [Guess Number Higher or Lower II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
+  1. [Predict the Winner](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/predict-the-winner) (Medium)

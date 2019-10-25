@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flatten-binary-tree-to-linked-list "Flatten Binary Tree to Linked List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flatten-binary-tree-to-linked-list "Flatten Binary Tree to Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node "Populating Next Right Pointers in Each Node")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/populating-next-right-pointers-in-each-node "Populating Next Right Pointers in Each Node")
 
 ## [115. Distinct Subsequences (Hard)](https://leetcode.com/problems/distinct-subsequences "不同的子序列")
 
@@ -56,5 +56,5 @@ As shown below, there are 5 ways you can generate &quot;bag&quot; from S.
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

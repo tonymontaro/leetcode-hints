@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k "Maximum Size Subarray Sum Equals k")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-size-subarray-sum-equals-k "Maximum Size Subarray Sum Equals k")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum "Count of Range Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-of-range-sum "Count of Range Sum")
 
 ## [326. Power of Three (Easy)](https://leetcode.com/problems/power-of-three "3的幂")
 
@@ -42,8 +42,8 @@
 Could you do it without using any loop / recursion?</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Power of Two](https://github.com/openset/leetcode/tree/master/problems/power-of-two) (Easy)
-  1. [Power of Four](https://github.com/openset/leetcode/tree/master/problems/power-of-four) (Easy)
+  1. [Power of Two](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/power-of-two) (Easy)
+  1. [Power of Four](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/power-of-four) (Easy)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string "Valid Parenthesis String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-parenthesis-string "Valid Parenthesis String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-ii "Valid Palindrome II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-palindrome-ii "Valid Palindrome II")
 
 ## [679. 24 Game (Hard)](https://leetcode.com/problems/24-game "24 点游戏")
 
@@ -40,4 +40,4 @@ You have 4 cards each containing a number from 1 to 9.  You need to judge whethe
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]

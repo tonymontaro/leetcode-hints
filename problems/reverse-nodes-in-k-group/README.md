@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-nodes-in-pairs "Swap Nodes in Pairs")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/swap-nodes-in-pairs "Swap Nodes in Pairs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array "Remove Duplicates from Sorted Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicates-from-sorted-array "Remove Duplicates from Sorted Array")
 
 ## [25. Reverse Nodes in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group "K 个一组翻转链表")
 
@@ -34,7 +34,7 @@
 </ul>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Swap Nodes in Pairs](https://github.com/openset/leetcode/tree/master/problems/swap-nodes-in-pairs) (Medium)
+  1. [Swap Nodes in Pairs](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/swap-nodes-in-pairs) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/circular-array-loop "Circular Array Loop")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/circular-array-loop "Circular Array Loop")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern "Repeated Substring Pattern")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/repeated-substring-pattern "Repeated Substring Pattern")
 
 ## [458. Poor Pigs (Hard)](https://leetcode.com/problems/poor-pigs "可怜的小猪")
 
@@ -32,7 +32,7 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

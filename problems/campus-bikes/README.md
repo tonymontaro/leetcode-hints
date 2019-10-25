@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/confusing-number "Confusing Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/confusing-number "Confusing Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-rounding-error-to-meet-target "Minimize Rounding Error to Meet Target")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimize-rounding-error-to-meet-target "Minimize Rounding Error to Meet Target")
 
 ## [1057. Campus Bikes (Medium)](https://leetcode.com/problems/campus-bikes "校园自行车分配")
 
@@ -54,11 +54,11 @@ Worker 0 grabs Bike 0 at first. Worker 1 and Worker 2 share the same distance to
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
 
 ### Similar Questions
-  1. [Campus Bikes II](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii) (Medium)
+  1. [Campus Bikes II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/campus-bikes-ii) (Medium)
 
 ### Hints
 <details>

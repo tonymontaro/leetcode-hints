@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii "My Calendar II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/my-calendar-ii "My Calendar II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flood-fill "Flood Fill")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flood-fill "Flood Fill")
 
 ## [732. My Calendar III (Hard)](https://leetcode.com/problems/my-calendar-iii "我的日程安排表 III")
 
@@ -50,12 +50,12 @@ eg. [10, 20), [10, 40), and [5, 15) are still triple booked.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Segment Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/segment-tree/README.md)]
+  [[Ordered Map](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/ordered-map/README.md)]
 
 ### Similar Questions
-  1. [My Calendar I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) (Medium)
-  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii) (Medium)
+  1. [My Calendar I](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/my-calendar-i) (Medium)
+  1. [My Calendar II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/my-calendar-ii) (Medium)
 
 ### Hints
 <details>

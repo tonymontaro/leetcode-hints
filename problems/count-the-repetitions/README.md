@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/optimal-account-balancing "Optimal Account Balancing")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/optimal-account-balancing "Optimal Account Balancing")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-substrings-in-wraparound-string "Unique Substrings in Wraparound String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-substrings-in-wraparound-string "Unique Substrings in Wraparound String")
 
 ## [466. Count The Repetitions (Hard)](https://leetcode.com/problems/count-the-repetitions "统计重复个数")
 
@@ -27,4 +27,4 @@ Return:
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

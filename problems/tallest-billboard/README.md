@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-ii "Delete Columns to Make Sorted II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-columns-to-make-sorted-ii "Delete Columns to Make Sorted II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/prison-cells-after-n-days "Prison Cells After N Days")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/prison-cells-after-n-days "Prison Cells After N Days")
 
 ## [956. Tallest Billboard (Hard)](https://leetcode.com/problems/tallest-billboard "最高的广告牌")
 
@@ -58,4 +58,4 @@
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

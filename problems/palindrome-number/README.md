@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi "String to Integer (atoi)")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-to-integer-atoi "String to Integer (atoi)")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching "Regular Expression Matching")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/regular-expression-matching "Regular Expression Matching")
 
 ## [9. Palindrome Number (Easy)](https://leetcode.com/problems/palindrome-number "回文数")
 
@@ -41,10 +41,10 @@
 <p>Coud you solve&nbsp;it without converting the integer to a string?</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list) (Easy)
+  1. [Palindrome Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-linked-list) (Easy)
 
 ### Hints
 <details>

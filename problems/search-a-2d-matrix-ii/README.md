@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum "Sliding Window Maximum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sliding-window-maximum "Sliding Window Maximum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses "Different Ways to Add Parentheses")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/different-ways-to-add-parentheses "Different Ways to Add Parentheses")
 
 ## [240. Search a 2D Matrix II (Medium)](https://leetcode.com/problems/search-a-2d-matrix-ii "搜索二维矩阵 II")
 
@@ -37,8 +37,8 @@
 <p>Given&nbsp;target&nbsp;=&nbsp;<code>20</code>, return&nbsp;<code>false</code>.</p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Search a 2D Matrix](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix) (Medium)
+  1. [Search a 2D Matrix](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-a-2d-matrix) (Medium)

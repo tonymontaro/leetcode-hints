@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence "Longest Arithmetic Sequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-arithmetic-sequence "Longest Arithmetic Sequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling "Two City Scheduling")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-city-scheduling "Two City Scheduling")
 
 ## [1028. Recover a Tree From Preorder Traversal (Hard)](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal "从先序遍历还原二叉树")
 
@@ -65,8 +65,8 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

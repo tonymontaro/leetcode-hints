@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sales-person "Sales Person")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sales-person "Sales Person")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-file-in-system "Find Duplicate File in System")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-duplicate-file-in-system "Find Duplicate File in System")
 
 ## [608. Tree Node (Medium)](https://leetcode.com/problems/tree-node "树节点")
 

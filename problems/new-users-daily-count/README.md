@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/parsing-a-boolean-expression "Parsing A Boolean Expression")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/parsing-a-boolean-expression "Parsing A Boolean Expression")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/defanging-an-ip-address "Defanging an IP Address")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/defanging-an-ip-address "Defanging an IP Address")
 
 ## [1107. New Users Daily Count (Medium)](https://leetcode.com/problems/new-users-daily-count "每日新用户统计")
 

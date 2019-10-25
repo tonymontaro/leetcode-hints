@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/make-array-strictly-increasing "Make Array Strictly Increasing")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/make-array-strictly-increasing "Make Array Strictly Increasing")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons "Maximum Number of Balloons")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-number-of-balloons "Maximum Number of Balloons")
 
 ## [1188. Design Bounded Blocking Queue (Medium)](https://leetcode.com/problems/design-bounded-blocking-queue "设计有限阻塞队列")
 

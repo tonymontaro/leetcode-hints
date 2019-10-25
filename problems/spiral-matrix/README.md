@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray "Maximum Subarray")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-subarray "Maximum Subarray")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/jump-game "Jump Game")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/jump-game "Jump Game")
 
 ## [54. Spiral Matrix (Medium)](https://leetcode.com/problems/spiral-matrix "螺旋矩阵")
 
@@ -37,7 +37,7 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Spiral Matrix II](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-ii) (Medium)
+  1. [Spiral Matrix II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/spiral-matrix-ii) (Medium)

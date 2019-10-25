@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/digit-count-in-range "Digit Count in Range")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/digit-count-in-range "Digit Count in Range")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/product-sales-analysis-ii "Product Sales Analysis II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/product-sales-analysis-ii "Product Sales Analysis II")
 
 ## [1068. Product Sales Analysis I (Easy)](https://leetcode.com/problems/product-sales-analysis-i "产品销售分析 I")
 

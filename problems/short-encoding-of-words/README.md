@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/most-common-word "Most Common Word")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/most-common-word "Most Common Word")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-a-character "Shortest Distance to a Character")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-to-a-character "Shortest Distance to a Character")
 
 ## [820. Short Encoding of Words (Medium)](https://leetcode.com/problems/short-encoding-of-words "单词的压缩编码")
 

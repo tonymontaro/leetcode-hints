@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/divisor-game "Divisor Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/divisor-game "Divisor Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence "Longest Arithmetic Sequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-arithmetic-sequence "Longest Arithmetic Sequence")
 
 ## [1026. Maximum Difference Between Node and Ancestor (Medium)](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor "节点与其祖先之间的最大差值")
 
@@ -43,8 +43,8 @@ Among all possible differences, the maximum value of 7 is obtained by |8 - 1| = 
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

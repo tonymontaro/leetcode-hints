@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/decode-string "Decode String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decode-string "Decode String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rotate-function "Rotate Function")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotate-function "Rotate Function")
 
 ## [395. Longest Substring with At Least K Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters "至少有K个重复字符的最长子串")
 

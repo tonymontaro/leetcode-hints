@@ -2,21 +2,21 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/counting-bits "Counting Bits")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/counting-bits "Counting Bits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters "Longest Substring with At Most K Distinct Characters")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-with-at-most-k-distinct-characters "Longest Substring with At Most K Distinct Characters")
 
 ## [339. Nested List Weight Sum (Easy)](https://leetcode.com/problems/nested-list-weight-sum "嵌套列表权重和")
 
 
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Nested List Weight Sum II](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum-ii) (Medium)
-  1. [Array Nesting](https://github.com/openset/leetcode/tree/master/problems/array-nesting) (Medium)
-  1. [Employee Importance](https://github.com/openset/leetcode/tree/master/problems/employee-importance) (Easy)
+  1. [Nested List Weight Sum II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nested-list-weight-sum-ii) (Medium)
+  1. [Array Nesting](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/array-nesting) (Medium)
+  1. [Employee Importance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/employee-importance) (Easy)

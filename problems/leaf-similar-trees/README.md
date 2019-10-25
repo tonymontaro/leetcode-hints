@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-refueling-stops "Minimum Number of Refueling Stops")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-number-of-refueling-stops "Minimum Number of Refueling Stops")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/length-of-longest-fibonacci-subsequence "Length of Longest Fibonacci Subsequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/length-of-longest-fibonacci-subsequence "Length of Longest Fibonacci Subsequence")
 
 ## [872. Leaf-Similar Trees (Easy)](https://leetcode.com/problems/leaf-similar-trees "叶子相似的树")
 
@@ -30,5 +30,5 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]

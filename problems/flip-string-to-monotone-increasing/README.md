@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/long-pressed-name "Long Pressed Name")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/long-pressed-name "Long Pressed Name")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/three-equal-parts "Three Equal Parts")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/three-equal-parts "Three Equal Parts")
 
 ## [926. Flip String to Monotone Increasing (Medium)](https://leetcode.com/problems/flip-string-to-monotone-increasing "将字符串翻转到单调递增")
 
@@ -59,4 +59,4 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

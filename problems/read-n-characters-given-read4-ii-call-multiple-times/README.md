@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4 "Read N Characters Given Read4")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/read-n-characters-given-read4 "Read N Characters Given Read4")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters "Longest Substring with At Most Two Distinct Characters")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-with-at-most-two-distinct-characters "Longest Substring with At Most Two Distinct Characters")
 
 ## [158. Read N Characters Given Read4 II - Call multiple times (Hard)](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times "用 Read4 读取 N 个字符 II")
 
 
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Read N Characters Given Read4](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4) (Easy)
+  1. [Read N Characters Given Read4](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/read-n-characters-given-read4) (Easy)

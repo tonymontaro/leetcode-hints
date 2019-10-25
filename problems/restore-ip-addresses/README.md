@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list-ii "Reverse Linked List II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-linked-list-ii "Reverse Linked List II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal "Binary Tree Inorder Traversal")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-inorder-traversal "Binary Tree Inorder Traversal")
 
 ## [93. Restore IP Addresses (Medium)](https://leetcode.com/problems/restore-ip-addresses "复原IP地址")
 
@@ -21,8 +21,8 @@
 </code></pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [IP to CIDR](https://github.com/openset/leetcode/tree/master/problems/ip-to-cidr) (Easy)
+  1. [IP to CIDR](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ip-to-cidr) (Easy)

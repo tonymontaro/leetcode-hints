@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction "K-th Smallest Prime Fraction")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-th-smallest-prime-fraction "K-th Smallest Prime Fraction")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rotated-digits "Rotated Digits")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotated-digits "Rotated Digits")
 
 ## [787. Cheapest Flights Within K Stops (Medium)](https://leetcode.com/problems/cheapest-flights-within-k-stops "K 站中转内最便宜的航班")
 
@@ -51,9 +51,9 @@ The cheapest price from city <code>0</code> to city <code>2</code> with at most 
 </ul>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Maximum Vacation Days](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days) (Hard)
+  1. [Maximum Vacation Days](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-vacation-days) (Hard)

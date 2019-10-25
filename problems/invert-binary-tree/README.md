@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/implement-stack-using-queues "Implement Stack using Queues")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-stack-using-queues "Implement Stack using Queues")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-ii "Basic Calculator II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/basic-calculator-ii "Basic Calculator II")
 
 ## [226. Invert Binary Tree (Easy)](https://leetcode.com/problems/invert-binary-tree "翻转二叉树")
 
@@ -39,4 +39,4 @@ This problem was inspired by <a href="https://twitter.com/mxcl/status/6086820162
 <blockquote>Google: 90% of our engineers use the software you wrote (Homebrew), but you can&rsquo;t invert a binary tree on a whiteboard so f*** off.</blockquote>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver "Sudoku Solver")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sudoku-solver "Sudoku Solver")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/combination-sum "Combination Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum "Combination Sum")
 
 ## [38. Count and Say (Easy)](https://leetcode.com/problems/count-and-say "报数")
 
@@ -45,11 +45,11 @@
 <b>Output:</b> &quot;1211&quot;</pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
-  1. [String Compression](https://github.com/openset/leetcode/tree/master/problems/string-compression) (Easy)
+  1. [Encode and Decode Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/encode-and-decode-strings) (Medium)
+  1. [String Compression](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-compression) (Easy)
 
 ### Hints
 <details>

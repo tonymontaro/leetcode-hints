@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rle-iterator "RLE Iterator")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rle-iterator "RLE Iterator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/numbers-at-most-n-given-digit-set "Numbers At Most N Given Digit Set")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/numbers-at-most-n-given-digit-set "Numbers At Most N Given Digit Set")
 
 ## [901. Online Stock Span (Medium)](https://leetcode.com/problems/online-stock-span "股票价格跨度")
 
@@ -52,4 +52,4 @@ Note that (for example) S.next(75) returned 4, because the last 4 prices
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]

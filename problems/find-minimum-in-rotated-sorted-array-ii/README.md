@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array "Find Minimum in Rotated Sorted Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-minimum-in-rotated-sorted-array "Find Minimum in Rotated Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/min-stack "Min Stack")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/min-stack "Min Stack")
 
 ## [154. Find Minimum in Rotated Sorted Array II (Hard)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii "寻找旋转排序数组中的最小值 II")
 
@@ -39,8 +39,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Find Minimum in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array) (Medium)
+  1. [Find Minimum in Rotated Sorted Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-minimum-in-rotated-sorted-array) (Medium)

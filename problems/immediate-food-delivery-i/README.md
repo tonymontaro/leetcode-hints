@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/dinner-plate-stacks "Dinner Plate Stacks")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/dinner-plate-stacks "Dinner Plate Stacks")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/immediate-food-delivery-ii "Immediate Food Delivery II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/immediate-food-delivery-ii "Immediate Food Delivery II")
 
 ## [1173. Immediate Food Delivery I (Easy)](https://leetcode.com/problems/immediate-food-delivery-i "")
 

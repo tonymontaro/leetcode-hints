@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-islands-ii "Number of Islands II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-islands-ii "Number of Islands II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-mutable "Range Sum Query - Mutable")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-sum-query-mutable "Range Sum Query - Mutable")
 
 ## [306. Additive Number (Medium)](https://leetcode.com/problems/additive-number "累加数")
 
@@ -50,7 +50,7 @@
 How would you handle overflow for very large input integers?</p>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Split Array into Fibonacci Sequence](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence) (Medium)
+  1. [Split Array into Fibonacci Sequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-array-into-fibonacci-sequence) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target "Number of Submatrices That Sum to Target")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-submatrices-that-sum-to-target "Number of Submatrices That Sum to Target")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/project-employees-ii "Project Employees II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/project-employees-ii "Project Employees II")
 
 ## [1075. Project Employees I (Easy)](https://leetcode.com/problems/project-employees-i "项目员工 I")
 

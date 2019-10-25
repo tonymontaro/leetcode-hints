@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator "Peeking Iterator")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/peeking-iterator "Peeking Iterator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates "Walls and Gates")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/walls-and-gates "Walls and Gates")
 
 ## [285. Inorder Successor in BST (Medium)](https://leetcode.com/problems/inorder-successor-in-bst "二叉搜索树中的顺序后继")
 
@@ -41,9 +41,9 @@
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
-  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
-  1. [Inorder Successor in BST II](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii) (Medium)
+  1. [Binary Tree Inorder Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-inorder-traversal) (Medium)
+  1. [Binary Search Tree Iterator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-search-tree-iterator) (Medium)
+  1. [Inorder Successor in BST II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/inorder-successor-in-bst-ii) (Medium)

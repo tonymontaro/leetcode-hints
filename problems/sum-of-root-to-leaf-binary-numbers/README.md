@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-outermost-parentheses "Remove Outermost Parentheses")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-outermost-parentheses "Remove Outermost Parentheses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching "Camelcase Matching")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/camelcase-matching "Camelcase Matching")
 
 ## [1022. Sum of Root To Leaf Binary Numbers (Easy)](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers "从根到叶的二进制数之和")
 
@@ -40,7 +40,7 @@
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Hints
 <details>

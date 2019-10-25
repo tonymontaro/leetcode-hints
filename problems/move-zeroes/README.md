@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators "Expression Add Operators")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/expression-add-operators "Expression Add Operators")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator "Peeking Iterator")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/peeking-iterator "Peeking Iterator")
 
 ## [283. Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes "移动零")
 
@@ -27,8 +27,8 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Remove Element](https://github.com/openset/leetcode/tree/master/problems/remove-element) (Easy)
+  1. [Remove Element](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-element) (Easy)

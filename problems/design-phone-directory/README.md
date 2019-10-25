@@ -2,17 +2,17 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix "Kth Smallest Element in a Sorted Matrix")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-smallest-element-in-a-sorted-matrix "Kth Smallest Element in a Sorted Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1 "Insert Delete GetRandom O(1)")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insert-delete-getrandom-o1 "Insert Delete GetRandom O(1)")
 
 ## [379. Design Phone Directory (Medium)](https://leetcode.com/problems/design-phone-directory "电话目录管理系统")
 
 
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]

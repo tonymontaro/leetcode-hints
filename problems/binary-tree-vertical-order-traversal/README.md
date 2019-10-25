@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number "Super Ugly Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/super-ugly-number "Super Ugly Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self "Count of Smaller Numbers After Self")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-of-smaller-numbers-after-self "Count of Smaller Numbers After Self")
 
 ## [314. Binary Tree Vertical Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-vertical-order-traversal "二叉树的垂直遍历")
 
 
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
+  1. [Binary Tree Level Order Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-level-order-traversal) (Medium)

@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii "Inorder Successor in BST II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/inorder-successor-in-bst-ii "Inorder Successor in BST II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii "Game Play Analysis II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-play-analysis-ii "Game Play Analysis II")
 
 ## [511. Game Play Analysis I (Easy)](https://leetcode.com/problems/game-play-analysis-i "游戏玩法分析 I")
 
 
 
 ### Similar Questions
-  1. [Game Play Analysis II](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii) (Easy)
+  1. [Game Play Analysis II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-play-analysis-ii) (Easy)

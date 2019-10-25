@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/single-row-keyboard "Single-Row Keyboard")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-row-keyboard "Single-Row Keyboard")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-connect-sticks "Minimum Cost to Connect Sticks")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-cost-to-connect-sticks "Minimum Cost to Connect Sticks")
 
 ## [1166. Design File System (Medium)](https://leetcode.com/problems/design-file-system "设计文件系统")
 
 
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Hints
 <details>

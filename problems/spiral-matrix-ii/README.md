@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/length-of-last-word "Length of Last Word")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/length-of-last-word "Length of Last Word")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/permutation-sequence "Permutation Sequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutation-sequence "Permutation Sequence")
 
 ## [59. Spiral Matrix II (Medium)](https://leetcode.com/problems/spiral-matrix-ii "螺旋矩阵 II")
 
@@ -26,7 +26,7 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Spiral Matrix](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix) (Medium)
+  1. [Spiral Matrix](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/spiral-matrix) (Medium)

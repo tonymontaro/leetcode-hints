@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/n-queens-ii "N-Queens II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-queens-ii "N-Queens II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix "Spiral Matrix")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/spiral-matrix "Spiral Matrix")
 
 ## [53. Maximum Subarray (Easy)](https://leetcode.com/problems/maximum-subarray "最大子序和")
 
@@ -26,12 +26,12 @@
 <p>If you have figured out the O(<em>n</em>) solution, try coding another solution using the divide and conquer approach, which is more subtle.</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) (Easy)
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)
-  1. [Degree of an Array](https://github.com/openset/leetcode/tree/master/problems/degree-of-an-array) (Easy)
-  1. [Longest Turbulent Subarray](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray) (Medium)
+  1. [Best Time to Buy and Sell Stock](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-time-to-buy-and-sell-stock) (Easy)
+  1. [Maximum Product Subarray](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-product-subarray) (Medium)
+  1. [Degree of an Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/degree-of-an-array) (Easy)
+  1. [Longest Turbulent Subarray](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-turbulent-subarray) (Medium)

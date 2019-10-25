@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-component-size-by-common-factor "Largest Component Size by Common Factor")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-component-size-by-common-factor "Largest Component Size by Common Factor")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/array-of-doubled-pairs "Array of Doubled Pairs")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/array-of-doubled-pairs "Array of Doubled Pairs")
 
 ## [953. Verifying an Alien Dictionary (Easy)](https://leetcode.com/problems/verifying-an-alien-dictionary "验证外星语词典")
 
@@ -59,4 +59,4 @@
 </div>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/knight-dialer "Knight Dialer")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/knight-dialer "Knight Dialer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reorder-data-in-log-files "Reorder Data in Log Files")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reorder-data-in-log-files "Reorder Data in Log Files")
 
 ## [936. Stamping The Sequence (Hard)](https://leetcode.com/problems/stamping-the-sequence "戳印序列")
 
@@ -56,5 +56,5 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

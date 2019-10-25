@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence "Longest Continuous Increasing Subsequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-continuous-increasing-subsequence "Longest Continuous Increasing Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary "Implement Magic Dictionary")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-magic-dictionary "Implement Magic Dictionary")
 
 ## [675. Cut Off Trees for Golf Event (Hard)](https://leetcode.com/problems/cut-off-trees-for-golf-event "为高尔夫比赛砍树")
 
@@ -73,4 +73,4 @@
 <p><b>Hint</b>: size of the given matrix will not exceed 50x50.</p>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]

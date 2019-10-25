@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges "Rotting Oranges")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotting-oranges "Rotting Oranges")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays "Number of Squareful Arrays")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-squareful-arrays "Number of Squareful Arrays")
 
 ## [995. Minimum Number of K Consecutive Bit Flips (Hard)](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips "K 连续位的最小翻转次数")
 
@@ -58,8 +58,8 @@ Flip A[5],A[6],A[7]:&nbsp;A becomes [1,1,1,1,1,1,1,1]
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Bulb Switcher](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher) (Medium)
+  1. [Bulb Switcher](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bulb-switcher) (Medium)

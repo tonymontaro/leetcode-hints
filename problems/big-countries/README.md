@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-harmonious-subsequence "Longest Harmonious Subsequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-harmonious-subsequence "Longest Harmonious Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students "Classes More Than 5 Students")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/classes-more-than-5-students "Classes More Than 5 Students")
 
 ## [595. Big Countries (Easy)](https://leetcode.com/problems/big-countries "大的国家")
 

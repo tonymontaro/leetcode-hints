@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-labels "Partition Labels")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/partition-labels "Partition Labels")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands "Couples Holding Hands")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/couples-holding-hands "Couples Holding Hands")
 
 ## [764. Largest Plus Sign (Medium)](https://leetcode.com/problems/largest-plus-sign "最大加号标志")
 
@@ -74,10 +74,10 @@ There is no plus sign, so return 0.
 </ol></p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Maximal Square](https://github.com/openset/leetcode/tree/master/problems/maximal-square) (Medium)
+  1. [Maximal Square](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximal-square) (Medium)
 
 ### Hints
 <details>

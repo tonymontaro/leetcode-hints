@@ -2,25 +2,25 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression "Parse Lisp Expression")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/parse-lisp-expression "Parse Lisp Expression")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits "Monotone Increasing Digits")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/monotone-increasing-digits "Monotone Increasing Digits")
 
 ## [737. Sentence Similarity II (Medium)](https://leetcode.com/problems/sentence-similarity-ii "句子相似性 II")
 
 
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/problems/friend-circles) (Medium)
-  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/problems/accounts-merge) (Medium)
-  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity) (Easy)
+  1. [Friend Circles](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/friend-circles) (Medium)
+  1. [Accounts Merge](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/accounts-merge) (Medium)
+  1. [Sentence Similarity](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sentence-similarity) (Easy)
 
 ### Hints
 <details>

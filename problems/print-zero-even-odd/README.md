@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/print-foobar-alternately "Print FooBar Alternately")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/print-foobar-alternately "Print FooBar Alternately")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/building-h2o "Building H2O")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/building-h2o "Building H2O")
 
 ## [1116. Print Zero Even Odd (Medium)](https://leetcode.com/problems/print-zero-even-odd "打印零与奇偶数")
 
@@ -50,4 +50,4 @@ class ZeroEvenOdd {
 </pre>
 
 ### Similar Questions
-  1. [Print FooBar Alternately](https://github.com/openset/leetcode/tree/master/problems/print-foobar-alternately) (Medium)
+  1. [Print FooBar Alternately](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/print-foobar-alternately) (Medium)

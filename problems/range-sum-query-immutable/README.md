@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-rectangle-enclosing-black-pixels "Smallest Rectangle Enclosing Black Pixels")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-rectangle-enclosing-black-pixels "Smallest Rectangle Enclosing Black Pixels")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-immutable "Range Sum Query 2D - Immutable")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-sum-query-2d-immutable "Range Sum Query 2D - Immutable")
 
 ## [303. Range Sum Query - Immutable (Easy)](https://leetcode.com/problems/range-sum-query-immutable "区域和检索 - 数组不可变")
 
@@ -31,9 +31,9 @@ sumRange(0, 5) -> -3
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Range Sum Query 2D - Immutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-immutable) (Medium)
-  1. [Range Sum Query - Mutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-mutable) (Medium)
-  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [Range Sum Query 2D - Immutable](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-sum-query-2d-immutable) (Medium)
+  1. [Range Sum Query - Mutable](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-sum-query-mutable) (Medium)
+  1. [Maximum Size Subarray Sum Equals k](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-size-subarray-sum-equals-k) (Medium)

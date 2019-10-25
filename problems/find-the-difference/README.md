@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-absolute-file-path "Longest Absolute File Path")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-absolute-file-path "Longest Absolute File Path")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/elimination-game "Elimination Game")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/elimination-game "Elimination Game")
 
 ## [389. Find the Difference (Easy)](https://leetcode.com/problems/find-the-difference "找不同")
 
@@ -32,8 +32,8 @@ Explanation:
 </pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
+  1. [Single Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number) (Easy)

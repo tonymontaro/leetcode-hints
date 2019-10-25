@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted "Two Sum II - Input array is sorted")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-ii-input-array-is-sorted "Two Sum II - Input array is sorted")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/majority-element "Majority Element")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/majority-element "Majority Element")
 
 ## [168. Excel Sheet Column Title (Easy)](https://leetcode.com/problems/excel-sheet-column-title "Excel表列名称")
 
@@ -48,7 +48,7 @@
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Excel Sheet Column Number](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-number) (Easy)
+  1. [Excel Sheet Column Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/excel-sheet-column-number) (Easy)

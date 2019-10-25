@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes "Set Matrix Zeroes")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/set-matrix-zeroes "Set Matrix Zeroes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-colors "Sort Colors")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-colors "Sort Colors")
 
 ## [74. Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix "搜索二维矩阵")
 
@@ -44,8 +44,8 @@ target = 13
 <strong>Output:</strong> false</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Search a 2D Matrix II](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix-ii) (Medium)
+  1. [Search a 2D Matrix II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-a-2d-matrix-ii) (Medium)

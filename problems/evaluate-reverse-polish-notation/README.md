@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-points-on-a-line "Max Points on a Line")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-points-on-a-line "Max Points on a Line")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string "Reverse Words in a String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-words-in-a-string "Reverse Words in a String")
 
 ## [150. Evaluate Reverse Polish Notation (Medium)](https://leetcode.com/problems/evaluate-reverse-polish-notation "逆波兰表达式求值")
 
@@ -54,8 +54,8 @@
 </pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
 
 ### Similar Questions
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/problems/basic-calculator) (Hard)
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators) (Hard)
+  1. [Basic Calculator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/basic-calculator) (Hard)
+  1. [Expression Add Operators](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/expression-add-operators) (Hard)

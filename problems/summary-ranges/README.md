@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-ii "Basic Calculator II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/basic-calculator-ii "Basic Calculator II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii "Majority Element II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/majority-element-ii "Majority Element II")
 
 ## [228. Summary Ranges (Medium)](https://leetcode.com/problems/summary-ranges "汇总区间")
 
@@ -30,8 +30,8 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Missing Ranges](https://github.com/openset/leetcode/tree/master/problems/missing-ranges) (Medium)
-  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)
+  1. [Missing Ranges](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/missing-ranges) (Medium)
+  1. [Data Stream as Disjoint Intervals](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)

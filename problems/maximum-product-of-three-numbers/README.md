@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-salary "Swap Salary")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/swap-salary "Swap Salary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array "K Inverse Pairs Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-inverse-pairs-array "K Inverse Pairs Array")
 
 ## [628. Maximum Product of Three Numbers (Easy)](https://leetcode.com/problems/maximum-product-of-three-numbers "三个数的最大乘积")
 
@@ -41,8 +41,8 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)
+  1. [Maximum Product Subarray](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-product-subarray) (Medium)

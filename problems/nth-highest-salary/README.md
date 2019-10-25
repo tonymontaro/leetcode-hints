@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/second-highest-salary "Second Highest Salary")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/second-highest-salary "Second Highest Salary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rank-scores "Rank Scores")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rank-scores "Rank Scores")
 
 ## [177. Nth Highest Salary (Medium)](https://leetcode.com/problems/nth-highest-salary "第N高的薪水")
 

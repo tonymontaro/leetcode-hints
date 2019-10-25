@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bus-routes "Bus Routes")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bus-routes "Bus Routes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/linked-list-components "Linked List Components")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-components "Linked List Components")
 
 ## [816. Ambiguous Coordinates (Medium)](https://leetcode.com/problems/ambiguous-coordinates "模糊坐标")
 
@@ -57,4 +57,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

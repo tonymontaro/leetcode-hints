@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/decode-ways "Decode Ways")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decode-ways "Decode Ways")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/restore-ip-addresses "Restore IP Addresses")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/restore-ip-addresses "Restore IP Addresses")
 
 ## [92. Reverse Linked List II (Medium)](https://leetcode.com/problems/reverse-linked-list-ii "反转链表 II")
 
@@ -23,7 +23,7 @@
 </pre>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Reverse Linked List](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list) (Easy)
+  1. [Reverse Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-linked-list) (Easy)

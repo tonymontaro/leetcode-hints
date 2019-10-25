@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching "Camelcase Matching")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/camelcase-matching "Camelcase Matching")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/divisor-game "Divisor Game")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/divisor-game "Divisor Game")
 
 ## [1024. Video Stitching (Medium)](https://leetcode.com/problems/video-stitching "视频拼接")
 
@@ -69,7 +69,7 @@ Notice you can have extra video after the event ends.
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

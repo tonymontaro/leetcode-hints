@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee "Best Time to Buy and Sell Stock with Transaction Fee")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee "Best Time to Buy and Sell Stock with Transaction Fee")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-stack "Max Stack")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-stack "Max Stack")
 
 ## [715. Range Module (Hard)](https://leetcode.com/problems/range-module "Range 模块")
 
@@ -40,13 +40,13 @@
 </p>
 
 ### Related Topics
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Segment Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/segment-tree/README.md)]
+  [[Ordered Map](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/ordered-map/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Insert Interval](https://github.com/openset/leetcode/tree/master/problems/insert-interval) (Hard)
-  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)
+  1. [Merge Intervals](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-intervals) (Medium)
+  1. [Insert Interval](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insert-interval) (Hard)
+  1. [Data Stream as Disjoint Intervals](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)
 
 ### Hints
 <details>

@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subtree "Maximum Average Subtree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-average-subtree "Maximum Average Subtree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array "Relative Sort Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/relative-sort-array "Relative Sort Array")
 
 ## [1121. Divide Array Into Increasing Sequences (Hard)](https://leetcode.com/problems/divide-array-into-increasing-sequences "将数组分成几个递增序列")
 
 
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

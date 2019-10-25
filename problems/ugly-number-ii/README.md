@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ugly-number "Ugly Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number "Ugly Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii "Paint House II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-house-ii "Paint House II")
 
 ## [264. Ugly Number II (Medium)](https://leetcode.com/problems/ugly-number-ii "丑数 II")
 
@@ -30,16 +30,16 @@
 </ol>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Merge k Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists) (Hard)
-  1. [Count Primes](https://github.com/openset/leetcode/tree/master/problems/count-primes) (Easy)
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/problems/ugly-number) (Easy)
-  1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/problems/perfect-squares) (Medium)
-  1. [Super Ugly Number](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number) (Medium)
+  1. [Merge k Sorted Lists](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-k-sorted-lists) (Hard)
+  1. [Count Primes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-primes) (Easy)
+  1. [Ugly Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number) (Easy)
+  1. [Perfect Squares](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/perfect-squares) (Medium)
+  1. [Super Ugly Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/super-ugly-number) (Medium)
 
 ### Hints
 <details>

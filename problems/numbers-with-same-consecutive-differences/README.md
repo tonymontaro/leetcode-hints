@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker "Vowel Spellchecker")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/vowel-spellchecker "Vowel Spellchecker")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras "Binary Tree Cameras")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-cameras "Binary Tree Cameras")
 
 ## [967. Numbers With Same Consecutive Differences (Medium)](https://leetcode.com/problems/numbers-with-same-consecutive-differences "连续差相同的数字")
 
@@ -45,4 +45,4 @@
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

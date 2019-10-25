@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/keyboard-row "Keyboard Row")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/keyboard-row "Keyboard Row")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ipo "IPO")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ipo "IPO")
 
 ## [501. Find Mode in Binary Search Tree (Easy)](https://leetcode.com/problems/find-mode-in-binary-search-tree "二叉搜索树中的众数")
 
@@ -43,7 +43,7 @@ Given BST <code>[1,null,2,2]</code>,</p>
 <p><b>Follow up:</b> Could you do that without using any extra space? (Assume that the implicit stack space incurred due to recursion does not count).</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Validate Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/validate-binary-search-tree) (Medium)
+  1. [Validate Binary Search Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/validate-binary-search-tree) (Medium)

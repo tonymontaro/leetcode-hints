@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/string-transforms-into-another-string "String Transforms Into Another String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-transforms-into-another-string "String Transforms Into Another String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-dice-rolls-with-target-sum "Number of Dice Rolls With Target Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-dice-rolls-with-target-sum "Number of Dice Rolls With Target Sum")
 
 ## [1154. Day of the Year (Easy)](https://leetcode.com/problems/day-of-the-year "一年中的第几天")
 
@@ -53,7 +53,7 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

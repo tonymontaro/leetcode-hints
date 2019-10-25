@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/online-election "Online Election")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/online-election "Online Election")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse "Cat and Mouse")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/cat-and-mouse "Cat and Mouse")
 
 ## [912. Sort an Array (Medium)](https://leetcode.com/problems/sort-an-array "排序数组")
 

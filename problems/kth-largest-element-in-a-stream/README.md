@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/search-in-a-sorted-array-of-unknown-size "Search in a Sorted Array of Unknown Size")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-in-a-sorted-array-of-unknown-size "Search in a Sorted Array of Unknown Size")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-search "Binary Search")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-search "Binary Search")
 
 ## [703. Kth Largest Element in a Stream (Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream "数据流中的第K大元素")
 
@@ -32,7 +32,7 @@ kthLargest.add(4);&nbsp; &nbsp;// returns 8
 You may assume that&nbsp;<code>nums</code>&#39; length&nbsp;&ge;&nbsp;<code>k-1</code>&nbsp;and <code>k</code> &ge;&nbsp;1.</p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
 
 ### Similar Questions
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)
+  1. [Kth Largest Element in an Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-largest-element-in-an-array) (Medium)

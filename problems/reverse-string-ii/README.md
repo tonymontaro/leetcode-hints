@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/single-element-in-a-sorted-array "Single Element in a Sorted Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-element-in-a-sorted-array "Single Element in a Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/01-matrix "01 Matrix")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/01-matrix "01 Matrix")
 
 ## [541. Reverse String II (Easy)](https://leetcode.com/problems/reverse-string-ii "反转字符串 II")
 
@@ -29,8 +29,8 @@ Given a string and an integer k, you need to reverse the first k characters for 
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Reverse String](https://github.com/openset/leetcode/tree/master/problems/reverse-string) (Easy)
-  1. [Reverse Words in a String III](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-iii) (Easy)
+  1. [Reverse String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-string) (Easy)
+  1. [Reverse Words in a String III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-words-in-a-string-iii) (Easy)

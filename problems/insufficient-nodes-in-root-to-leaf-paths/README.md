@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/letter-tile-possibilities "Letter Tile Possibilities")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/letter-tile-possibilities "Letter Tile Possibilities")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters "Smallest Subsequence of Distinct Characters")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-subsequence-of-distinct-characters "Smallest Subsequence of Distinct Characters")
 
 ## [1080. Insufficient Nodes in Root to Leaf Paths (Medium)](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths "根到叶路径上的不足节点")
 
@@ -63,7 +63,7 @@ Output: </strong><span>[1,null,-3,4]</span></pre>
 </div>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

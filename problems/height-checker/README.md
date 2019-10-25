@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/actors-and-directors-who-cooperated-at-least-three-times "Actors and Directors Who Cooperated At Least Three Times")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/actors-and-directors-who-cooperated-at-least-three-times "Actors and Directors Who Cooperated At Least Three Times")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner "Grumpy Bookstore Owner")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/grumpy-bookstore-owner "Grumpy Bookstore Owner")
 
 ## [1051. Height Checker (Easy)](https://leetcode.com/problems/height-checker "高度检查器")
 
@@ -36,7 +36,7 @@ Students with heights 4, 3 and the last 1 are not standing in the right position
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-snake-game "Design Snake Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-snake-game "Design Snake Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-twitter "Design Twitter")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-twitter "Design Twitter")
 
 ## [354. Russian Doll Envelopes (Hard)](https://leetcode.com/problems/russian-doll-envelopes "俄罗斯套娃信封问题")
 
@@ -29,8 +29,8 @@ Rotation is not allowed.</p>
 </div>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)
+  1. [Longest Increasing Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-increasing-subsequence) (Medium)

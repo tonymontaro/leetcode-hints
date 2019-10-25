@@ -2,24 +2,24 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings "Encode and Decode Strings")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/encode-and-decode-strings "Encode and Decode Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/integer-to-english-words "Integer to English Words")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/integer-to-english-words "Integer to English Words")
 
 ## [272. Closest Binary Search Tree Value II (Hard)](https://leetcode.com/problems/closest-binary-search-tree-value-ii "最接近的二叉搜索树值 II")
 
 
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
-  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) (Easy)
+  1. [Binary Tree Inorder Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-inorder-traversal) (Medium)
+  1. [Closest Binary Search Tree Value](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/closest-binary-search-tree-value) (Easy)
 
 ### Hints
 <details>

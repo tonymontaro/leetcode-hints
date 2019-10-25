@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii "Palindrome Permutation II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-permutation-ii "Palindrome Permutation II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/alien-dictionary "Alien Dictionary")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/alien-dictionary "Alien Dictionary")
 
 ## [268. Missing Number (Easy)](https://leetcode.com/problems/missing-number "缺失数字")
 
@@ -31,12 +31,12 @@
 Your algorithm should run in linear runtime complexity. Could you implement it using only constant extra space complexity?</p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number) (Medium)
-  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands) (Hard)
+  1. [First Missing Positive](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/first-missing-positive) (Hard)
+  1. [Single Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number) (Easy)
+  1. [Find the Duplicate Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-duplicate-number) (Medium)
+  1. [Couples Holding Hands](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/couples-holding-hands) (Hard)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence "Increasing Triplet Subsequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/increasing-triplet-subsequence "Increasing Triplet Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs "Palindrome Pairs")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-pairs "Palindrome Pairs")
 
 ## [335. Self Crossing (Hard)](https://leetcode.com/problems/self-crossing "路径交叉")
 
@@ -54,4 +54,4 @@ Input:</strong> <code>[1,1,1,1]</code>
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

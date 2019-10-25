@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/move-zeroes "Move Zeroes")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/move-zeroes "Move Zeroes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst "Inorder Successor in BST")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/inorder-successor-in-bst "Inorder Successor in BST")
 
 ## [284. Peeking Iterator (Medium)](https://leetcode.com/problems/peeking-iterator "顶端迭代器")
 
@@ -27,12 +27,12 @@ Calling <strong><code>hasNext()</code></strong> after that should return <strong
 <p><b>Follow up</b>: How would you extend your design to be generic and work with all types, not just integer?</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
-  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector) (Medium)
-  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/problems/zigzag-iterator) (Medium)
+  1. [Binary Search Tree Iterator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-search-tree-iterator) (Medium)
+  1. [Flatten 2D Vector](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flatten-2d-vector) (Medium)
+  1. [Zigzag Iterator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/zigzag-iterator) (Medium)
 
 ### Hints
 <details>

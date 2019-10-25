@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/product-sales-analysis-iii "Product Sales Analysis III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/product-sales-analysis-iii "Product Sales Analysis III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows "Flip Columns For Maximum Number of Equal Rows")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows "Flip Columns For Maximum Number of Equal Rows")
 
 ## [1071. Greatest Common Divisor of Strings (Easy)](https://leetcode.com/problems/greatest-common-divisor-of-strings "字符串的最大公因子")
 
@@ -49,7 +49,7 @@
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

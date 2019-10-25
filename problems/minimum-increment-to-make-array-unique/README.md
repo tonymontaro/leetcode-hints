@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted "Delete Columns to Make Sorted")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-columns-to-make-sorted "Delete Columns to Make Sorted")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/validate-stack-sequences "Validate Stack Sequences")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/validate-stack-sequences "Validate Stack Sequences")
 
 ## [945. Minimum Increment to Make Array Unique (Medium)](https://leetcode.com/problems/minimum-increment-to-make-array-unique "使数组唯一的最小增量")
 
@@ -50,4 +50,4 @@ It can be shown with 5 or less moves that it is impossible for the array to have
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

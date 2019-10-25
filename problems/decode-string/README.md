@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/utf-8-validation "UTF-8 Validation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/utf-8-validation "UTF-8 Validation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-least-k-repeating-characters "Longest Substring with At Least K Repeating Characters")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-with-at-least-k-repeating-characters "Longest Substring with At Least K Repeating Characters")
 
 ## [394. Decode String (Medium)](https://leetcode.com/problems/decode-string "字符串解码")
 
@@ -30,10 +30,10 @@ s = &quot;2[abc]3[cd]ef&quot;, return &quot;abcabccdcdcdef&quot;.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length) (Hard)
-  1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) (Hard)
-  1. [Brace Expansion](https://github.com/openset/leetcode/tree/master/problems/brace-expansion) (Medium)
+  1. [Encode String with Shortest Length](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/encode-string-with-shortest-length) (Hard)
+  1. [Number of Atoms](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-atoms) (Hard)
+  1. [Brace Expansion](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/brace-expansion) (Medium)

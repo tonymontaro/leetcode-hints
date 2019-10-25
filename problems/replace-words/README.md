@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings "Palindromic Substrings")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindromic-substrings "Palindromic Substrings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/dota2-senate "Dota2 Senate")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/dota2-senate "Dota2 Senate")
 
 ## [648. Replace Words (Medium)](https://leetcode.com/problems/replace-words "单词替换")
 
@@ -40,8 +40,8 @@ sentence = &quot;the cattle was rattled by the battery&quot;
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Trie](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/trie/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)
+  1. [Implement Trie (Prefix Tree)](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-trie-prefix-tree) (Medium)

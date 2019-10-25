@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reconstruct-itinerary "Reconstruct Itinerary")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reconstruct-itinerary "Reconstruct Itinerary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence "Increasing Triplet Subsequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/increasing-triplet-subsequence "Increasing Triplet Subsequence")
 
 ## [333. Largest BST Subtree (Medium)](https://leetcode.com/problems/largest-bst-subtree "最大 BST 子树")
 
 
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Hints
 <details>

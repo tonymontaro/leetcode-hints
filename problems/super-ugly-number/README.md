@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/burst-balloons "Burst Balloons")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/burst-balloons "Burst Balloons")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-vertical-order-traversal "Binary Tree Vertical Order Traversal")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-vertical-order-traversal "Binary Tree Vertical Order Traversal")
 
 ## [313. Super Ugly Number (Medium)](https://leetcode.com/problems/super-ugly-number "超级丑数")
 
@@ -33,8 +33,8 @@
 </ul>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)
+  1. [Ugly Number II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number-ii) (Medium)

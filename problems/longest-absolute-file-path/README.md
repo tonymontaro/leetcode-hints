@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string "First Unique Character in a String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/first-unique-character-in-a-string "First Unique Character in a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-difference "Find the Difference")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-difference "Find the Difference")
 
 ## [388. Longest Absolute File Path (Medium)](https://leetcode.com/problems/longest-absolute-file-path "文件的最长绝对路径")
 

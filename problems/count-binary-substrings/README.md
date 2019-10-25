@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island "Max Area of Island")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-area-of-island "Max Area of Island")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/degree-of-an-array "Degree of an Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/degree-of-an-array "Degree of an Array")
 
 ## [696. Count Binary Substrings (Easy)](https://leetcode.com/problems/count-binary-substrings "计数二进制子串")
 
@@ -39,10 +39,10 @@
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
+  1. [Encode and Decode Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/encode-and-decode-strings) (Medium)
 
 ### Hints
 <details>

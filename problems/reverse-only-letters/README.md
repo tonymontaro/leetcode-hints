@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-subsets "Word Subsets")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-subsets "Word Subsets")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-circular-subarray "Maximum Sum Circular Subarray")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-sum-circular-subarray "Maximum Sum Circular Subarray")
 
 ## [917. Reverse Only Letters (Easy)](https://leetcode.com/problems/reverse-only-letters "仅仅反转字母")
 
@@ -64,4 +64,4 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

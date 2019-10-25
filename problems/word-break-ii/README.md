@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-break "Word Break")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-break "Word Break")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle "Linked List Cycle")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-cycle "Linked List Cycle")
 
 ## [140. Word Break II (Hard)](https://leetcode.com/problems/word-break-ii "单词拆分 II")
 
@@ -58,9 +58,9 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 </strong>[]</pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Break](https://github.com/openset/leetcode/tree/master/problems/word-break) (Medium)
-  1. [Concatenated Words](https://github.com/openset/leetcode/tree/master/problems/concatenated-words) (Hard)
+  1. [Word Break](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-break) (Medium)
+  1. [Concatenated Words](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/concatenated-words) (Hard)

@@ -2,22 +2,22 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher "Bulb Switcher")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bulb-switcher "Bulb Switcher")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/create-maximum-number "Create Maximum Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/create-maximum-number "Create Maximum Number")
 
 ## [320. Generalized Abbreviation (Medium)](https://leetcode.com/problems/generalized-abbreviation "列举单词的全部缩写")
 
 
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Subsets](https://github.com/openset/leetcode/tree/master/problems/subsets) (Medium)
-  1. [Unique Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/unique-word-abbreviation) (Medium)
-  1. [Minimum Unique Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation) (Hard)
+  1. [Subsets](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subsets) (Medium)
+  1. [Unique Word Abbreviation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-word-abbreviation) (Medium)
+  1. [Minimum Unique Word Abbreviation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-unique-word-abbreviation) (Hard)

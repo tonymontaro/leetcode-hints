@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fraction-to-recurring-decimal "Fraction to Recurring Decimal")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fraction-to-recurring-decimal "Fraction to Recurring Decimal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-title "Excel Sheet Column Title")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/excel-sheet-column-title "Excel Sheet Column Title")
 
 ## [167. Two Sum II - Input array is sorted (Easy)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted "两数之和 II - 输入有序数组")
 
@@ -30,11 +30,11 @@
 <strong>Explanation:</strong> The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
-  1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst) (Easy)
-  1. [Two Sum Less Than K](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) (Easy)
+  1. [Two Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum) (Easy)
+  1. [Two Sum IV - Input is a BST](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-iv-input-is-a-bst) (Easy)
+  1. [Two Sum Less Than K](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-less-than-k) (Easy)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimize-malware-spread "Minimize Malware Spread")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimize-malware-spread "Minimize Malware Spread")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flip-string-to-monotone-increasing "Flip String to Monotone Increasing")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-string-to-monotone-increasing "Flip String to Monotone Increasing")
 
 ## [925. Long Pressed Name (Easy)](https://leetcode.com/problems/long-pressed-name "长按键入")
 
@@ -75,5 +75,5 @@
 </div>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

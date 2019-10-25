@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k "Subarray Sums Divisible by K")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subarray-sums-divisible-by-k "Subarray Sums Divisible by K")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle "Largest Perimeter Triangle")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-perimeter-triangle "Largest Perimeter Triangle")
 
 ## [975. Odd Even Jump (Hard)](https://leetcode.com/problems/odd-even-jump "奇偶跳")
 
@@ -87,6 +87,6 @@ We can reach the end from starting indexes 1, 2, and 4.
 </ol>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
+  [[Ordered Map](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/ordered-map/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-mode-in-binary-search-tree "Find Mode in Binary Search Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-mode-in-binary-search-tree "Find Mode in Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii "Next Greater Element II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-greater-element-ii "Next Greater Element II")
 
 ## [502. IPO (Hard)](https://leetcode.com/problems/ipo "IPO")
 
@@ -46,5 +46,5 @@ To sum up, pick a list of at most <b>k</b> distinct projects from given projects
 </p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]

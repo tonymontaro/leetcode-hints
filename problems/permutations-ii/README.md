@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/permutations "Permutations")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations "Permutations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rotate-image "Rotate Image")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotate-image "Rotate Image")
 
 ## [47. Permutations II (Medium)](https://leetcode.com/problems/permutations-ii "全排列 II")
 
@@ -26,10 +26,10 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/problems/next-permutation) (Medium)
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)
-  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii) (Medium)
-  1. [Number of Squareful Arrays](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) (Hard)
+  1. [Next Permutation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-permutation) (Medium)
+  1. [Permutations](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations) (Medium)
+  1. [Palindrome Permutation II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-permutation-ii) (Medium)
+  1. [Number of Squareful Arrays](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-squareful-arrays) (Hard)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator "Binary Search Tree Iterator")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-search-tree-iterator "Binary Search Tree Iterator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables "Combine Two Tables")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combine-two-tables "Combine Two Tables")
 
 ## [174. Dungeon Game (Hard)](https://leetcode.com/problems/dungeon-game "地下城游戏")
 
@@ -55,10 +55,10 @@
 </ul>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
-  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) (Medium)
-  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup) (Hard)
+  1. [Unique Paths](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-paths) (Medium)
+  1. [Minimum Path Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-path-sum) (Medium)
+  1. [Cherry Pickup](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/cherry-pickup) (Hard)

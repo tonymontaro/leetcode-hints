@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/boundary-of-binary-tree "Boundary of Binary Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/boundary-of-binary-tree "Boundary of Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/friend-circles "Friend Circles")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/friend-circles "Friend Circles")
 
 ## [546. Remove Boxes (Hard)](https://leetcode.com/problems/remove-boxes "移除盒子")
 
@@ -40,8 +40,8 @@ The number of boxes <code>n</code> would not exceed 100.
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Strange Printer](https://github.com/openset/leetcode/tree/master/problems/strange-printer) (Hard)
+  1. [Strange Printer](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/strange-printer) (Hard)

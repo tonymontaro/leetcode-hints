@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/missing-element-in-sorted-array "Missing Element in Sorted Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/missing-element-in-sorted-array "Missing Element in Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-substring "Longest Repeating Substring")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-repeating-substring "Longest Repeating Substring")
 
 ## [1061. Lexicographically Smallest Equivalent String (Medium)](https://leetcode.com/problems/lexicographically-smallest-equivalent-string "按字典序排列最小的等效字符串")
 
@@ -62,8 +62,8 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters "Smallest Subsequence of Distinct Characters")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-subsequence-of-distinct-characters "Smallest Subsequence of Distinct Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-ii "Sales Analysis II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sales-analysis-ii "Sales Analysis II")
 
 ## [1082. Sales Analysis I (Easy)](https://leetcode.com/problems/sales-analysis-i "销售分析 I ")
 

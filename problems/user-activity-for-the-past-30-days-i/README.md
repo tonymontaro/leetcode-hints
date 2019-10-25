@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stone-game-ii "Stone Game II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/stone-game-ii "Stone Game II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/user-activity-for-the-past-30-days-ii "User Activity for the Past 30 Days II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/user-activity-for-the-past-30-days-ii "User Activity for the Past 30 Days II")
 
 ## [1141. User Activity for the Past 30 Days I (Easy)](https://leetcode.com/problems/user-activity-for-the-past-30-days-i "")
 

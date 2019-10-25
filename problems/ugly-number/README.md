@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/trips-and-users "Trips and Users")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/trips-and-users "Trips and Users")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii "Ugly Number II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number-ii "Ugly Number II")
 
 ## [263. Ugly Number (Easy)](https://leetcode.com/problems/ugly-number "丑数")
 
@@ -46,9 +46,9 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)
-  1. [Count Primes](https://github.com/openset/leetcode/tree/master/problems/count-primes) (Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)
+  1. [Happy Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/happy-number) (Easy)
+  1. [Count Primes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-primes) (Easy)
+  1. [Ugly Number II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number-ii) (Medium)

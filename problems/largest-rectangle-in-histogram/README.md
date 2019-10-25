@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list "Remove Duplicates from Sorted List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicates-from-sorted-list "Remove Duplicates from Sorted List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle "Maximal Rectangle")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximal-rectangle "Maximal Rectangle")
 
 ## [84. Largest Rectangle in Histogram (Hard)](https://leetcode.com/problems/largest-rectangle-in-histogram "柱状图中最大的矩形")
 
@@ -33,8 +33,8 @@
 </pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Maximal Rectangle](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle) (Hard)
+  1. [Maximal Rectangle](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximal-rectangle) (Hard)

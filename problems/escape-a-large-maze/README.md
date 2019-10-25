@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines "Uncrossed Lines")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/uncrossed-lines "Uncrossed Lines")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-boomerang "Valid Boomerang")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-boomerang "Valid Boomerang")
 
 ## [1036. Escape a Large Maze (Hard)](https://leetcode.com/problems/escape-a-large-maze "逃离大迷宫")
 
@@ -51,7 +51,7 @@ Because there are no blocked cells, it&#39;s possible to reach the target square
 </ol>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

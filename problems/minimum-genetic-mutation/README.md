@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure "All O`one Data Structure")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/all-oone-data-structure "All O`one Data Structure")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-segments-in-a-string "Number of Segments in a String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-segments-in-a-string "Number of Segments in a String")
 
 ## [433. Minimum Genetic Mutation (Medium)](https://leetcode.com/problems/minimum-genetic-mutation "最小基因变化")
 
@@ -68,4 +68,4 @@ return: 3
 <p>&nbsp;</p>
 
 ### Similar Questions
-  1. [Word Ladder](https://github.com/openset/leetcode/tree/master/problems/word-ladder) (Medium)
+  1. [Word Ladder](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-ladder) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/matrix-cells-in-distance-order "Matrix Cells in Distance Order")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/matrix-cells-in-distance-order "Matrix Cells in Distance Order")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/stream-of-characters "Stream of Characters")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/stream-of-characters "Stream of Characters")
 
 ## [1031. Maximum Sum of Two Non-Overlapping Subarrays (Medium)](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays "两个非重叠子数组的最大和")
 
@@ -67,7 +67,7 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate "Contains Duplicate")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contains-duplicate "Contains Duplicate")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-ii "Contains Duplicate II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contains-duplicate-ii "Contains Duplicate II")
 
 ## [218. The Skyline Problem (Hard)](https://leetcode.com/problems/the-skyline-problem "天际线问题")
 
@@ -32,11 +32,11 @@
 </ul>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Binary Indexed Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-indexed-tree/README.md)]
+  [[Segment Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/segment-tree/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]
+  [[Line Sweep](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/line-sweep/README.md)]
 
 ### Similar Questions
-  1. [Falling Squares](https://github.com/openset/leetcode/tree/master/problems/falling-squares) (Hard)
+  1. [Falling Squares](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/falling-squares) (Hard)

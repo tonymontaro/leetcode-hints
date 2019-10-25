@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/transpose-file "Transpose File")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/transpose-file "Transpose File")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-duplicate-emails "Delete Duplicate Emails")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-duplicate-emails "Delete Duplicate Emails")
 
 ## [195. Tenth Line (Easy)](https://leetcode.com/problems/tenth-line "第十行")
 

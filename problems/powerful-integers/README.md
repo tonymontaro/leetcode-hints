@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting "Pancake Sorting")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/pancake-sorting "Pancake Sorting")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal "Flip Binary Tree To Match Preorder Traversal")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-binary-tree-to-match-preorder-traversal "Flip Binary Tree To Match Preorder Traversal")
 
 ## [970. Powerful Integers (Easy)](https://leetcode.com/problems/powerful-integers "强整数")
 
@@ -56,5 +56,5 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

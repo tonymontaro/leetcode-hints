@@ -2,22 +2,22 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements "Top K Frequent Elements")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/top-k-frequent-elements "Top K Frequent Elements")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays "Intersection of Two Arrays")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/intersection-of-two-arrays "Intersection of Two Arrays")
 
 ## [348. Design Tic-Tac-Toe (Medium)](https://leetcode.com/problems/design-tic-tac-toe "判定井字棋胜负")
 
 
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [Valid Tic-Tac-Toe State](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state) (Medium)
+  1. [Valid Tic-Tac-Toe State](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-tic-tac-toe-state) (Medium)
 
 ### Hints
 <details>

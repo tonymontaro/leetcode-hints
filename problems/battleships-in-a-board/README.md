@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sentence-screen-fitting "Sentence Screen Fitting")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sentence-screen-fitting "Sentence Screen Fitting")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/strong-password-checker "Strong Password Checker")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/strong-password-checker "Strong Password Checker")
 
 ## [419. Battleships in a Board (Medium)](https://leetcode.com/problems/battleships-in-a-board "甲板上的战舰")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-pairs "Reverse Pairs")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-pairs "Reverse Pairs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking "Teemo Attacking")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/teemo-attacking "Teemo Attacking")
 
 ## [494. Target Sum (Medium)](https://leetcode.com/problems/target-sum "目标和")
 
@@ -43,8 +43,8 @@ There are 5 ways to assign symbols to make the sum of nums be target 3.
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators) (Hard)
+  1. [Expression Add Operators](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/expression-add-operators) (Hard)

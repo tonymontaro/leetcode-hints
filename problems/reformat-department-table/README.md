@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle "Number of Valid Words for Each Puzzle")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-valid-words-for-each-puzzle "Number of Valid Words for Each Puzzle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-substrings-with-only-one-distinct-letter "Count Substrings with Only One Distinct Letter")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-substrings-with-only-one-distinct-letter "Count Substrings with Only One Distinct Letter")
 
 ## [1179. Reformat Department Table (Easy)](https://leetcode.com/problems/reformat-department-table "重新格式化部门表")
 

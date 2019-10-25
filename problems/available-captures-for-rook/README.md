@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii "Maximum Binary Tree II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-binary-tree-ii "Maximum Binary Tree II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones "Minimum Cost to Merge Stones")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-cost-to-merge-stones "Minimum Cost to Merge Stones")
 
 ## [999. Available Captures for Rook (Easy)](https://leetcode.com/problems/available-captures-for-rook "车的可用捕获量")
 
@@ -63,4 +63,4 @@ The rook can capture the pawns at positions b5, d6 and f5.
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

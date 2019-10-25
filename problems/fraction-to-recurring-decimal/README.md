@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/compare-version-numbers "Compare Version Numbers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/compare-version-numbers "Compare Version Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted "Two Sum II - Input array is sorted")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-ii-input-array-is-sorted "Two Sum II - Input array is sorted")
 
 ## [166. Fraction to Recurring Decimal (Medium)](https://leetcode.com/problems/fraction-to-recurring-decimal "分数到小数")
 
@@ -36,8 +36,8 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

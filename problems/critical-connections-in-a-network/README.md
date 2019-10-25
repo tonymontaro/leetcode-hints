@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum "K-Concatenation Maximum Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-concatenation-maximum-sum "K-Concatenation Maximum Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/monthly-transactions-i "Monthly Transactions I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/monthly-transactions-i "Monthly Transactions I")
 
 ## [1192. Critical Connections in a Network (Hard)](https://leetcode.com/problems/critical-connections-in-a-network "查找集群内的「关键连接」")
 
@@ -39,7 +39,7 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

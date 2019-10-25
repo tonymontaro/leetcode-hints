@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-closest-palindrome "Find the Closest Palindrome")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-closest-palindrome "Find the Closest Palindrome")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reshape-the-matrix "Reshape the Matrix")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reshape-the-matrix "Reshape the Matrix")
 
 ## [565. Array Nesting (Medium)](https://leetcode.com/problems/array-nesting "数组嵌套")
 
@@ -40,9 +40,9 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Nested List Weight Sum](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum) (Easy)
-  1. [Flatten Nested List Iterator](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator) (Medium)
-  1. [Nested List Weight Sum II](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum-ii) (Medium)
+  1. [Nested List Weight Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nested-list-weight-sum) (Easy)
+  1. [Flatten Nested List Iterator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flatten-nested-list-iterator) (Medium)
+  1. [Nested List Weight Sum II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nested-list-weight-sum-ii) (Medium)

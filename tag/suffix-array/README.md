@@ -2,10 +2,10 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > Suffix Array
+## [话题分类](https://github.com/tonymontaro/leetcode-hints/blob/master/tag/README.md) > Suffix Array
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |

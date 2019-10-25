@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings "Split a String in Balanced Strings")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-a-string-in-balanced-strings "Split a String in Balanced Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/dice-roll-simulation "Dice Roll Simulation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/dice-roll-simulation "Dice Roll Simulation")
 
 ## [1222. Queens That Can Attack the King (Medium)](https://leetcode.com/problems/queens-that-can-attack-the-king "可以攻击国王的皇后")
 
@@ -63,7 +63,7 @@ The queen at [2,4] can&#39;t attack the king cause it&#39;s not in the same row/
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

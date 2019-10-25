@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/analyze-user-website-visit-pattern "Analyze User Website Visit Pattern")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/analyze-user-website-visit-pattern "Analyze User Website Visit Pattern")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/day-of-the-year "Day of the Year")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/day-of-the-year "Day of the Year")
 
 ## [1153. String Transforms Into Another String (Hard)](https://leetcode.com/problems/string-transforms-into-another-string "字符串转化")
 
 
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team "Smallest Sufficient Team")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-sufficient-team "Smallest Sufficient Team")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/user-purchase-platform "User Purchase Platform")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/user-purchase-platform "User Purchase Platform")
 
 ## [1126. Active Businesses (Medium)](https://leetcode.com/problems/active-businesses "")
 

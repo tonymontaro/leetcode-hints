@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rabbits-in-forest "Rabbits in Forest")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rabbits-in-forest "Rabbits in Forest")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes "Minimum Distance Between BST Nodes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-distance-between-bst-nodes "Minimum Distance Between BST Nodes")
 
 ## [782. Transform to Chessboard (Hard)](https://leetcode.com/problems/transform-to-chessboard "变为棋盘")
 
@@ -54,5 +54,5 @@ No matter what sequence of moves you make, you cannot end with a valid chessboar
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

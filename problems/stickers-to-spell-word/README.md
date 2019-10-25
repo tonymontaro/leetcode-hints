@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/employee-importance "Employee Importance")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/employee-importance "Employee Importance")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words "Top K Frequent Words")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/top-k-frequent-words "Top K Frequent Words")
 
 ## [691. Stickers to Spell Word (Hard)](https://leetcode.com/problems/stickers-to-spell-word "贴纸拼词")
 
@@ -58,11 +58,11 @@ We can't form the target "basicbasic" from cutting letters from the given sticke
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Ransom Note](https://github.com/openset/leetcode/tree/master/problems/ransom-note) (Easy)
+  1. [Ransom Note](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ransom-note) (Easy)
 
 ### Hints
 <details>

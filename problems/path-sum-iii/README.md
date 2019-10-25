@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-right-interval "Find Right Interval")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-right-interval "Find Right Interval")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string "Find All Anagrams in a String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-all-anagrams-in-a-string "Find All Anagrams in a String")
 
 ## [437. Path Sum III (Easy)](https://leetcode.com/problems/path-sum-iii "路径总和 III")
 
@@ -41,10 +41,10 @@ Return 3. The paths that sum to 8 are:
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Path Sum](https://github.com/openset/leetcode/tree/master/problems/path-sum) (Easy)
-  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii) (Medium)
-  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) (Medium)
-  1. [Longest Univalue Path](https://github.com/openset/leetcode/tree/master/problems/longest-univalue-path) (Easy)
+  1. [Path Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-sum) (Easy)
+  1. [Path Sum II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-sum-ii) (Medium)
+  1. [Path Sum IV](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-sum-iv) (Medium)
+  1. [Longest Univalue Path](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-univalue-path) (Easy)

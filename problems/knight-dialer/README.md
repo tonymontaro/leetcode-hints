@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-bridge "Shortest Bridge")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-bridge "Shortest Bridge")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence "Stamping The Sequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/stamping-the-sequence "Stamping The Sequence")
 
 ## [935. Knight Dialer (Medium)](https://leetcode.com/problems/knight-dialer "骑士拨号器")
 
@@ -66,4 +66,4 @@
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

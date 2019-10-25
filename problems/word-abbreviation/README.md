@@ -2,21 +2,21 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement "Beautiful Arrangement")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/beautiful-arrangement "Beautiful Arrangement")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight "Random Pick with Weight")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-with-weight "Random Pick with Weight")
 
 ## [527. Word Abbreviation (Hard)](https://leetcode.com/problems/word-abbreviation "单词缩写")
 
 
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Valid Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/valid-word-abbreviation) (Easy)
-  1. [Minimum Unique Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation) (Hard)
+  1. [Valid Word Abbreviation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-word-abbreviation) (Easy)
+  1. [Minimum Unique Word Abbreviation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-unique-word-abbreviation) (Hard)

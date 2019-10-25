@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/filling-bookcase-shelves "Filling Bookcase Shelves")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/filling-bookcase-shelves "Filling Bookcase Shelves")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/new-users-daily-count "New Users Daily Count")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/new-users-daily-count "New Users Daily Count")
 
 ## [1106. Parsing A Boolean Expression (Hard)](https://leetcode.com/problems/parsing-a-boolean-expression "解析布尔表达式")
 
@@ -62,7 +62,7 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

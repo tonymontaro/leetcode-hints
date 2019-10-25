@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-line-of-consecutive-one-in-matrix "Longest Line of Consecutive One in Matrix")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-line-of-consecutive-one-in-matrix "Longest Line of Consecutive One in Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-closest-palindrome "Find the Closest Palindrome")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-closest-palindrome "Find the Closest Palindrome")
 
 ## [563. Binary Tree Tilt (Easy)](https://leetcode.com/problems/binary-tree-tilt "二叉树的坡度")
 
@@ -40,7 +40,7 @@ Tilt of binary tree : 0 + 0 + 1 = 1
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Hints
 <details>

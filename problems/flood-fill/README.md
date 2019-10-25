@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii "My Calendar III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/my-calendar-iii "My Calendar III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity "Sentence Similarity")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sentence-similarity "Sentence Similarity")
 
 ## [733. Flood Fill (Easy)](https://leetcode.com/problems/flood-fill "图像渲染")
 
@@ -41,10 +41,10 @@ to the starting pixel.
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/problems/island-perimeter) (Easy)
+  1. [Island Perimeter](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/island-perimeter) (Easy)
 
 ### Hints
 <details>

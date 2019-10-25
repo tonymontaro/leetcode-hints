@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number "Fibonacci Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fibonacci-number "Fibonacci Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-i "Game Play Analysis I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-play-analysis-i "Game Play Analysis I")
 
 ## [510. Inorder Successor in BST II (Medium)](https://leetcode.com/problems/inorder-successor-in-bst-ii "二叉搜索树中的中序后继 II")
 
 
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Inorder Successor in BST](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst) (Medium)
+  1. [Inorder Successor in BST](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/inorder-successor-in-bst) (Medium)

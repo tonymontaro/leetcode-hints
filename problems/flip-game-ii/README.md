@@ -2,23 +2,23 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flip-game "Flip Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-game "Flip Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-median-from-data-stream "Find Median from Data Stream")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-median-from-data-stream "Find Median from Data Stream")
 
 ## [294. Flip Game II (Medium)](https://leetcode.com/problems/flip-game-ii "翻转游戏 II")
 
 
 
 ### Related Topics
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Minimax](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/minimax/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Nim Game](https://github.com/openset/leetcode/tree/master/problems/nim-game) (Easy)
-  1. [Flip Game](https://github.com/openset/leetcode/tree/master/problems/flip-game) (Easy)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
-  1. [Can I Win](https://github.com/openset/leetcode/tree/master/problems/can-i-win) (Medium)
+  1. [Nim Game](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nim-game) (Easy)
+  1. [Flip Game](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-game) (Easy)
+  1. [Guess Number Higher or Lower II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
+  1. [Can I Win](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/can-i-win) (Medium)

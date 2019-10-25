@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/article-views-i "Article Views I")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/article-views-i "Article Views I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array "Check If a Number Is Majority Element in a Sorted Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array "Check If a Number Is Majority Element in a Sorted Array")
 
 ## [1149. Article Views II (Medium)](https://leetcode.com/problems/article-views-ii "")
 

@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/friend-circles "Friend Circles")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/friend-circles "Friend Circles")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence-ii "Binary Tree Longest Consecutive Sequence II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-longest-consecutive-sequence-ii "Binary Tree Longest Consecutive Sequence II")
 
 ## [548. Split Array with Equal Sum (Medium)](https://leetcode.com/problems/split-array-with-equal-sum "将数组分割成和相等的子数组")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

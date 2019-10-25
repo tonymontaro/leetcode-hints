@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits "Numbers With Repeated Digits")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/numbers-with-repeated-digits "Numbers With Repeated Digits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/best-sightseeing-pair "Best Sightseeing Pair")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-sightseeing-pair "Best Sightseeing Pair")
 
 ## [1013. Partition Array Into Three Parts With Equal Sum (Easy)](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum "将数组分成和相等的三个部分")
 
@@ -54,7 +54,7 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

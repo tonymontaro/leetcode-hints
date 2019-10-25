@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-i "Lonely Pixel I")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lonely-pixel-i "Lonely Pixel I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-ii "Lonely Pixel II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lonely-pixel-ii "Lonely Pixel II")
 
 ## [532. K-diff Pairs in an Array (Easy)](https://leetcode.com/problems/k-diff-pairs-in-an-array "数组中的K-diff数对")
 
@@ -49,8 +49,8 @@ Given an array of integers and an integer <b>k</b>, you need to find the number 
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Minimum Absolute Difference in BST](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst) (Easy)
+  1. [Minimum Absolute Difference in BST](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-absolute-difference-in-bst) (Easy)

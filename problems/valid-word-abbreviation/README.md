@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water-ii "Trapping Rain Water II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/trapping-rain-water-ii "Trapping Rain Water II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-palindrome "Longest Palindrome")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-palindrome "Longest Palindrome")
 
 ## [408. Valid Word Abbreviation (Easy)](https://leetcode.com/problems/valid-word-abbreviation "有效单词缩写")
 
 
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Minimum Unique Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation) (Hard)
-  1. [Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/word-abbreviation) (Hard)
+  1. [Minimum Unique Word Abbreviation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-unique-word-abbreviation) (Hard)
+  1. [Word Abbreviation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-abbreviation) (Hard)

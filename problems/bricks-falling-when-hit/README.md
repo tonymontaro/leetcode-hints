@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-eventual-safe-states "Find Eventual Safe States")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-eventual-safe-states "Find Eventual Safe States")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-morse-code-words "Unique Morse Code Words")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-morse-code-words "Unique Morse Code Words")
 
 ## [803. Bricks Falling When Hit (Hard)](https://leetcode.com/problems/bricks-falling-when-hit "打砖块")
 
@@ -47,4 +47,4 @@ When we erase the brick at (1, 0), the brick at (1, 1) has already disappeared d
 </ul>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]

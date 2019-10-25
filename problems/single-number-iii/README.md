@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller "3Sum Smaller")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/3sum-smaller "3Sum Smaller")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree "Graph Valid Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/graph-valid-tree "Graph Valid Tree")
 
 ## [260. Single Number III (Medium)](https://leetcode.com/problems/single-number-iii "只出现一次的数字 III")
 
@@ -27,8 +27,8 @@
 </ol>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
-  1. [Single Number II](https://github.com/openset/leetcode/tree/master/problems/single-number-ii) (Medium)
+  1. [Single Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number) (Easy)
+  1. [Single Number II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number-ii) (Medium)

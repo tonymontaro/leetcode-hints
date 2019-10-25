@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii "Word Ladder II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-ladder-ii "Word Ladder II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-consecutive-sequence "Longest Consecutive Sequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-consecutive-sequence "Longest Consecutive Sequence")
 
 ## [127. Word Ladder (Medium)](https://leetcode.com/problems/word-ladder "单词接龙")
 
@@ -59,8 +59,8 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Word Ladder II](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii) (Hard)
-  1. [Minimum Genetic Mutation](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation) (Medium)
+  1. [Word Ladder II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-ladder-ii) (Hard)
+  1. [Minimum Genetic Mutation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-genetic-mutation) (Medium)

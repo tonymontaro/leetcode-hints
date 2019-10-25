@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/baseball-game "Baseball Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/baseball-game "Baseball Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/redundant-connection "Redundant Connection")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/redundant-connection "Redundant Connection")
 
 ## [683. K Empty Slots (Hard)](https://leetcode.com/problems/k-empty-slots "K 个空花盆")
 
 
 
 ### Related Topics
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Ordered Map](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/ordered-map/README.md)]

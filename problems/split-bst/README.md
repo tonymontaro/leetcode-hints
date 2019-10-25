@@ -2,23 +2,23 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/global-and-local-inversions "Global and Local Inversions")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/global-and-local-inversions "Global and Local Inversions")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/swap-adjacent-in-lr-string "Swap Adjacent in LR String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/swap-adjacent-in-lr-string "Swap Adjacent in LR String")
 
 ## [776. Split BST (Medium)](https://leetcode.com/problems/split-bst "拆分二叉搜索树")
 
 
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Recursion](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/recursion/README.md)]
 
 ### Similar Questions
-  1. [Delete Node in a BST](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-bst) (Medium)
+  1. [Delete Node in a BST](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-node-in-a-bst) (Medium)
 
 ### Hints
 <details>

@@ -2,22 +2,22 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string "Find All Anagrams in a String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-all-anagrams-in-a-string "Find All Anagrams in a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-in-lexicographical-order "K-th Smallest in Lexicographical Order")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-th-smallest-in-lexicographical-order "K-th Smallest in Lexicographical Order")
 
 ## [439. Ternary Expression Parser (Medium)](https://leetcode.com/problems/ternary-expression-parser "三元表达式解析器")
 
 
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/problems/mini-parser) (Medium)
-  1. [Remove Comments](https://github.com/openset/leetcode/tree/master/problems/remove-comments) (Medium)
-  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression) (Hard)
+  1. [Mini Parser](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/mini-parser) (Medium)
+  1. [Remove Comments](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-comments) (Medium)
+  1. [Parse Lisp Expression](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/parse-lisp-expression) (Hard)

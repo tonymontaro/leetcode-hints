@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/jump-game "Jump Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/jump-game "Jump Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insert-interval "Insert Interval")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insert-interval "Insert Interval")
 
 ## [56. Merge Intervals (Medium)](https://leetcode.com/problems/merge-intervals "合并区间")
 
@@ -31,16 +31,16 @@
 <p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Insert Interval](https://github.com/openset/leetcode/tree/master/problems/insert-interval) (Hard)
-  1. [Meeting Rooms](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms) (Easy)
-  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii) (Medium)
-  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking) (Medium)
-  1. [Add Bold Tag in String](https://github.com/openset/leetcode/tree/master/problems/add-bold-tag-in-string) (Medium)
-  1. [Range Module](https://github.com/openset/leetcode/tree/master/problems/range-module) (Hard)
-  1. [Employee Free Time](https://github.com/openset/leetcode/tree/master/problems/employee-free-time) (Hard)
-  1. [Partition Labels](https://github.com/openset/leetcode/tree/master/problems/partition-labels) (Medium)
-  1. [Interval List Intersections](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections) (Medium)
+  1. [Insert Interval](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insert-interval) (Hard)
+  1. [Meeting Rooms](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/meeting-rooms) (Easy)
+  1. [Meeting Rooms II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/meeting-rooms-ii) (Medium)
+  1. [Teemo Attacking](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/teemo-attacking) (Medium)
+  1. [Add Bold Tag in String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-bold-tag-in-string) (Medium)
+  1. [Range Module](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-module) (Hard)
+  1. [Employee Free Time](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/employee-free-time) (Hard)
+  1. [Partition Labels](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/partition-labels) (Medium)
+  1. [Interval List Intersections](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/interval-list-intersections) (Medium)

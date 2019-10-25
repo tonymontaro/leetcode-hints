@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-way-to-form-string "Shortest Way to Form String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-way-to-form-string "Shortest Way to Form String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/campus-bikes "Campus Bikes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/campus-bikes "Campus Bikes")
 
 ## [1056. Confusing Number (Easy)](https://leetcode.com/problems/confusing-number "易混淆数")
 
@@ -71,11 +71,11 @@ We get an invalid number after rotating <code>25</code>.
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Strobogrammatic Number](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number) (Easy)
-  1. [Confusing Number II](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii) (Hard)
+  1. [Strobogrammatic Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/strobogrammatic-number) (Easy)
+  1. [Confusing Number II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/confusing-number-ii) (Hard)
 
 ### Hints
 <details>

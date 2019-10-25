@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1-duplicates-allowed "Insert Delete GetRandom O(1) - Duplicates allowed")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insert-delete-getrandom-o1-duplicates-allowed "Insert Delete GetRandom O(1) - Duplicates allowed")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ransom-note "Ransom Note")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ransom-note "Ransom Note")
 
 ## [382. Linked List Random Node (Medium)](https://leetcode.com/problems/linked-list-random-node "链表随机节点")
 
@@ -31,7 +31,7 @@ solution.getRandom();
 </p>
 
 ### Related Topics
-  [[Reservoir Sampling](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
+  [[Reservoir Sampling](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/reservoir-sampling/README.md)]
 
 ### Similar Questions
-  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/problems/random-pick-index) (Medium)
+  1. [Random Pick Index](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-index) (Medium)

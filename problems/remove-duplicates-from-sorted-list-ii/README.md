@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array-ii "Search in Rotated Sorted Array II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-in-rotated-sorted-array-ii "Search in Rotated Sorted Array II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list "Remove Duplicates from Sorted List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicates-from-sorted-list "Remove Duplicates from Sorted List")
 
 ## [82. Remove Duplicates from Sorted List II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii "删除排序链表中的重复元素 II")
 
@@ -28,7 +28,7 @@
 </pre>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted List](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list) (Easy)
+  1. [Remove Duplicates from Sorted List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicates-from-sorted-list) (Easy)

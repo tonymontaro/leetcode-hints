@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance "Shortest Word Distance")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance "Shortest Word Distance")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-iii "Shortest Word Distance III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance-iii "Shortest Word Distance III")
 
 ## [244. Shortest Word Distance II (Medium)](https://leetcode.com/problems/shortest-word-distance-ii "最短单词距离 II")
 
@@ -27,10 +27,10 @@ Assume that words = <code>[&quot;practice&quot;, &quot;makes&quot;, &quot;perfec
 You may assume that <em>word1</em> <strong>does not equal to</strong> <em>word2</em>, and <em>word1</em> and <em>word2</em> are both in the list.</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)
-  1. [Shortest Word Distance](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance) (Easy)
-  1. [Shortest Word Distance III](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-iii) (Medium)
+  1. [Merge Two Sorted Lists](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-two-sorted-lists) (Easy)
+  1. [Shortest Word Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance) (Easy)
+  1. [Shortest Word Distance III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance-iii) (Medium)

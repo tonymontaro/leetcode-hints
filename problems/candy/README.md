@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/gas-station "Gas Station")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/gas-station "Gas Station")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/single-number "Single Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number "Single Number")
 
 ## [135. Candy (Hard)](https://leetcode.com/problems/candy "分发糖果")
 
@@ -40,4 +40,4 @@
 </pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]

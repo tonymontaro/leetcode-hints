@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rotated-digits "Rotated Digits")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotated-digits "Rotated Digits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/domino-and-tromino-tiling "Domino and Tromino Tiling")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/domino-and-tromino-tiling "Domino and Tromino Tiling")
 
 ## [789. Escape The Ghosts (Medium)](https://leetcode.com/problems/escape-the-ghosts "逃脱阻碍者")
 
@@ -57,4 +57,4 @@ The ghost can reach the target at the same time as you.
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

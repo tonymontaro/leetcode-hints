@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-student-number-in-departments "Count Student Number in Departments")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-student-number-in-departments "Count Student Number in Departments")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/kill-process "Kill Process")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kill-process "Kill Process")
 
 ## [581. Shortest Unsorted Continuous Subarray (Easy)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray "最短无序连续子数组")
 
@@ -31,4 +31,4 @@
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

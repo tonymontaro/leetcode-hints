@@ -2,21 +2,21 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-squares "Word Squares")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-squares "Word Squares")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/construct-quad-tree "Construct Quad Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/construct-quad-tree "Construct Quad Tree")
 
 ## [426. Convert Binary Search Tree to Sorted Doubly Linked List (Medium)](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list "将二叉搜索树转化为排序的双向链表")
 
 
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-inorder-traversal) (Medium)

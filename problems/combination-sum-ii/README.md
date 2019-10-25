@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/combination-sum "Combination Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum "Combination Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive "First Missing Positive")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/first-missing-positive "First Missing Positive")
 
 ## [40. Combination Sum II (Medium)](https://leetcode.com/problems/combination-sum-ii "组合总和 II")
 
@@ -47,8 +47,8 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)
+  1. [Combination Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum) (Medium)

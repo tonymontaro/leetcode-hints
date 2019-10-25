@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimize-malware-spread-ii "Minimize Malware Spread II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimize-malware-spread-ii "Minimize Malware Spread II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-subarrays-with-sum "Binary Subarrays With Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-subarrays-with-sum "Binary Subarrays With Sum")
 
 ## [929. Unique Email Addresses (Easy)](https://leetcode.com/problems/unique-email-addresses "独特的电子邮件地址")
 
@@ -50,4 +50,4 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

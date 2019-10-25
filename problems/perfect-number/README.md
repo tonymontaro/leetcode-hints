@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/relative-ranks "Relative Ranks")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/relative-ranks "Relative Ranks")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum "Most Frequent Subtree Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/most-frequent-subtree-sum "Most Frequent Subtree Sum")
 
 ## [507. Perfect Number (Easy)](https://leetcode.com/problems/perfect-number "完美数")
 
@@ -29,7 +29,7 @@ The input number <b>n</b> will not exceed 100,000,000. (1e8)
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Self Dividing Numbers](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers) (Easy)
+  1. [Self Dividing Numbers](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/self-dividing-numbers) (Easy)

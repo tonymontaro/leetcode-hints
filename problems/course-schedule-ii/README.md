@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum "Minimum Size Subarray Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-size-subarray-sum "Minimum Size Subarray Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
 
 ## [210. Course Schedule II (Medium)](https://leetcode.com/problems/course-schedule-ii "课程表 II")
 
@@ -44,17 +44,17 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
+  [[Topological Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/topological-sort/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
-  1. [Alien Dictionary](https://github.com/openset/leetcode/tree/master/problems/alien-dictionary) (Hard)
-  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/problems/minimum-height-trees) (Medium)
-  1. [Sequence Reconstruction](https://github.com/openset/leetcode/tree/master/problems/sequence-reconstruction) (Medium)
-  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii) (Hard)
+  1. [Course Schedule](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule) (Medium)
+  1. [Alien Dictionary](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/alien-dictionary) (Hard)
+  1. [Minimum Height Trees](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-height-trees) (Medium)
+  1. [Sequence Reconstruction](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sequence-reconstruction) (Medium)
+  1. [Course Schedule III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule-iii) (Hard)
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/friends-of-appropriate-ages "Friends Of Appropriate Ages")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/friends-of-appropriate-ages "Friends Of Appropriate Ages")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/making-a-large-island "Making A Large Island")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/making-a-large-island "Making A Large Island")
 
 ## [826. Most Profit Assigning Work (Medium)](https://leetcode.com/problems/most-profit-assigning-work "安排工作以达到最大收益")
 
@@ -37,4 +37,4 @@
 </ul>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]

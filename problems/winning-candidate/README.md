@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/squirrel-simulation "Squirrel Simulation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/squirrel-simulation "Squirrel Simulation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/distribute-candies "Distribute Candies")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/distribute-candies "Distribute Candies")
 
 ## [574. Winning Candidate (Medium)](https://leetcode.com/problems/winning-candidate "当选者")
 

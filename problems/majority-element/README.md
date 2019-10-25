@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-title "Excel Sheet Column Title")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/excel-sheet-column-title "Excel Sheet Column Title")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-iii-data-structure-design "Two Sum III - Data structure design")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-iii-data-structure-design "Two Sum III - Data structure design")
 
 ## [169. Majority Element (Easy)](https://leetcode.com/problems/majority-element "求众数")
 
@@ -29,10 +29,10 @@
 </pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Majority Element II](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii) (Medium)
-  1. [Check If a Number Is Majority Element in a Sorted Array](https://github.com/openset/leetcode/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array) (Easy)
+  1. [Majority Element II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/majority-element-ii) (Medium)
+  1. [Check If a Number Is Majority Element in a Sorted Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array) (Easy)

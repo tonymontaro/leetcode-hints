@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence "Minimum Window Subsequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-window-subsequence "Minimum Window Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i "My Calendar I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/my-calendar-i "My Calendar I")
 
 ## [728. Self Dividing Numbers (Easy)](https://leetcode.com/problems/self-dividing-numbers "自除数")
 
@@ -33,10 +33,10 @@ left = 1, right = 22
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Perfect Number](https://github.com/openset/leetcode/tree/master/problems/perfect-number) (Easy)
+  1. [Perfect Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/perfect-number) (Easy)
 
 ### Hints
 <details>

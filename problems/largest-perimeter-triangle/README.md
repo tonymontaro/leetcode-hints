@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump "Odd Even Jump")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/odd-even-jump "Odd Even Jump")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array "Squares of a Sorted Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/squares-of-a-sorted-array "Squares of a Sorted Array")
 
 ## [976. Largest Perimeter Triangle (Easy)](https://leetcode.com/problems/largest-perimeter-triangle "三角形的最大周长")
 
@@ -66,8 +66,8 @@
 </div>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Largest Triangle Area](https://github.com/openset/leetcode/tree/master/problems/largest-triangle-area) (Easy)
+  1. [Largest Triangle Area](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-triangle-area) (Easy)

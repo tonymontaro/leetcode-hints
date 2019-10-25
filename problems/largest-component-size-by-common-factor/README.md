@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flip-equivalent-binary-trees "Flip Equivalent Binary Trees")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-equivalent-binary-trees "Flip Equivalent Binary Trees")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/verifying-an-alien-dictionary "Verifying an Alien Dictionary")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/verifying-an-alien-dictionary "Verifying an Alien Dictionary")
 
 ## [952. Largest Component Size by Common Factor (Hard)](https://leetcode.com/problems/largest-component-size-by-common-factor "按公因数计算最大组件大小")
 
@@ -63,5 +63,5 @@
 </div>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

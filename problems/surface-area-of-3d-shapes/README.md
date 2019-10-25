@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-subsequence-widths "Sum of Subsequence Widths")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-subsequence-widths "Sum of Subsequence Widths")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/groups-of-special-equivalent-strings "Groups of Special-Equivalent Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/groups-of-special-equivalent-strings "Groups of Special-Equivalent Strings")
 
 ## [892. Surface Area of 3D Shapes (Easy)](https://leetcode.com/problems/surface-area-of-3d-shapes "三维形体的表面积")
 
@@ -83,5 +83,5 @@
 </div>
 
 ### Related Topics
-  [[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Geometry](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/geometry/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-bits "Reverse Bits")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-bits "Reverse Bits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-frequency "Word Frequency")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-frequency "Word Frequency")
 
 ## [191. Number of 1 Bits (Easy)](https://leetcode.com/problems/number-of-1-bits "位1的个数")
 
@@ -54,13 +54,13 @@
 <p>If this function is called many times, how would you optimize it?</p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Reverse Bits](https://github.com/openset/leetcode/tree/master/problems/reverse-bits) (Easy)
-  1. [Power of Two](https://github.com/openset/leetcode/tree/master/problems/power-of-two) (Easy)
-  1. [Counting Bits](https://github.com/openset/leetcode/tree/master/problems/counting-bits) (Medium)
-  1. [Binary Watch](https://github.com/openset/leetcode/tree/master/problems/binary-watch) (Easy)
-  1. [Hamming Distance](https://github.com/openset/leetcode/tree/master/problems/hamming-distance) (Easy)
-  1. [Binary Number with Alternating Bits](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits) (Easy)
-  1. [Prime Number of Set Bits in Binary Representation](https://github.com/openset/leetcode/tree/master/problems/prime-number-of-set-bits-in-binary-representation) (Easy)
+  1. [Reverse Bits](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-bits) (Easy)
+  1. [Power of Two](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/power-of-two) (Easy)
+  1. [Counting Bits](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/counting-bits) (Medium)
+  1. [Binary Watch](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-watch) (Easy)
+  1. [Hamming Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/hamming-distance) (Easy)
+  1. [Binary Number with Alternating Bits](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-number-with-alternating-bits) (Easy)
+  1. [Prime Number of Set Bits in Binary Representation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/prime-number-of-set-bits-in-binary-representation) (Easy)

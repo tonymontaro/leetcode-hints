@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/robot-room-cleaner "Robot Room Cleaner")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/robot-room-cleaner "Robot Room Cleaner")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/increasing-subsequences "Increasing Subsequences")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/increasing-subsequences "Increasing Subsequences")
 
 ## [490. The Maze (Medium)](https://leetcode.com/problems/the-maze "迷宫")
 
@@ -69,9 +69,9 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [The Maze III](https://github.com/openset/leetcode/tree/master/problems/the-maze-iii) (Hard)
-  1. [The Maze II](https://github.com/openset/leetcode/tree/master/problems/the-maze-ii) (Medium)
+  1. [The Maze III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-maze-iii) (Hard)
+  1. [The Maze II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-maze-ii) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-reach-target-with-rotations "Minimum Moves to Reach Target with Rotations")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-moves-to-reach-target-with-rotations "Minimum Moves to Reach Target with Rotations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/team-scores-in-football-tournament "Team Scores in Football Tournament")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/team-scores-in-football-tournament "Team Scores in Football Tournament")
 
 ## [1211. Queries Quality and Percentage (Easy)](https://leetcode.com/problems/queries-quality-and-percentage "")
 

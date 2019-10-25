@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-list "Sort List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-list "Sort List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation "Evaluate Reverse Polish Notation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/evaluate-reverse-polish-notation "Evaluate Reverse Polish Notation")
 
 ## [149. Max Points on a Line (Hard)](https://leetcode.com/problems/max-points-on-a-line "直线上最多的点数")
 
@@ -47,8 +47,8 @@
 <p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Line Reflection](https://github.com/openset/leetcode/tree/master/problems/line-reflection) (Medium)
+  1. [Line Reflection](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/line-reflection) (Medium)

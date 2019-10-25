@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-boomerang "Valid Boomerang")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-boomerang "Valid Boomerang")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon "Minimum Score Triangulation of Polygon")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-score-triangulation-of-polygon "Minimum Score Triangulation of Polygon")
 
 ## [1038. Binary Search Tree to Greater Sum Tree (Medium)](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree "从二叉搜索树到更大和树")
 
@@ -51,7 +51,7 @@
 </div>
 
 ### Related Topics
-  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[Binary Search Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search-tree/README.md)]
 
 ### Hints
 <details>

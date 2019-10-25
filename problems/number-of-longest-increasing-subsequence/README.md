@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher-ii "Bulb Switcher II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bulb-switcher-ii "Bulb Switcher II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence "Longest Continuous Increasing Subsequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-continuous-increasing-subsequence "Longest Continuous Increasing Subsequence")
 
 ## [673. Number of Longest Increasing Subsequence (Medium)](https://leetcode.com/problems/number-of-longest-increasing-subsequence "最长递增子序列的个数")
 
@@ -36,8 +36,8 @@ Length of the given array will be not exceed 2000 and the answer is guaranteed t
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)
-  1. [Longest Continuous Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence) (Easy)
+  1. [Longest Increasing Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-increasing-subsequence) (Medium)
+  1. [Longest Continuous Increasing Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-continuous-increasing-subsequence) (Easy)

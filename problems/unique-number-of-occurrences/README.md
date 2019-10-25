@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-skiplist "Design Skiplist")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-skiplist "Design Skiplist")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/get-equal-substrings-within-budget "Get Equal Substrings Within Budget")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/get-equal-substrings-within-budget "Get Equal Substrings Within Budget")
 
 ## [1207. Unique Number of Occurrences (Easy)](https://leetcode.com/problems/unique-number-of-occurrences "独一无二的出现次数")
 
@@ -44,7 +44,7 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Hints
 <details>

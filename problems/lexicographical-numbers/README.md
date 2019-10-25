@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/mini-parser "Mini Parser")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/mini-parser "Mini Parser")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string "First Unique Character in a String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/first-unique-character-in-a-string "First Unique Character in a String")
 
 ## [386. Lexicographical Numbers (Medium)](https://leetcode.com/problems/lexicographical-numbers "字典序排数")
 

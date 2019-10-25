@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence "Binary Tree Longest Consecutive Sequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-longest-consecutive-sequence "Binary Tree Longest Consecutive Sequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence "Longest Increasing Subsequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-increasing-subsequence "Longest Increasing Subsequence")
 
 ## [299. Bulls and Cows (Easy)](https://leetcode.com/problems/bulls-and-cows "猜数字游戏")
 
@@ -38,4 +38,4 @@
 <p><strong>Note: </strong>You may assume that the secret number and your friend&#39;s guess only contain digits, and their lengths are always equal.</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]

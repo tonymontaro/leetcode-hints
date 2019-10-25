@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum-bsts "Two Sum BSTs")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-bsts "Two Sum BSTs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii "Valid Palindrome III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-palindrome-iii "Valid Palindrome III")
 
 ## [1215. Stepping Numbers (Medium)](https://leetcode.com/problems/stepping-numbers "步进数")
 
@@ -28,7 +28,7 @@
 </ul>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Hints
 <details>

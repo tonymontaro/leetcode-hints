@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows "Flip Columns For Maximum Number of Equal Rows")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows "Flip Columns For Maximum Number of Equal Rows")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target "Number of Submatrices That Sum to Target")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-submatrices-that-sum-to-target "Number of Submatrices That Sum to Target")
 
 ## [1073. Adding Two Negabinary Numbers (Medium)](https://leetcode.com/problems/adding-two-negabinary-numbers "负二进制数相加")
 
@@ -40,7 +40,7 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

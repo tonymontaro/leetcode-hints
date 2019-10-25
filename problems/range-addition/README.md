@@ -2,22 +2,22 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/plus-one-linked-list "Plus One Linked List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/plus-one-linked-list "Plus One Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers "Sum of Two Integers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-two-integers "Sum of Two Integers")
 
 ## [370. Range Addition (Medium)](https://leetcode.com/problems/range-addition "区间加法")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Range Addition II](https://github.com/openset/leetcode/tree/master/problems/range-addition-ii) (Easy)
+  1. [Range Addition II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-addition-ii) (Easy)
 
 ### Hints
 <details>

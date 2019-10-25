@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-an-array "Sort an Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-an-array "Sort an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/x-of-a-kind-in-a-deck-of-cards "X of a Kind in a Deck of Cards")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/x-of-a-kind-in-a-deck-of-cards "X of a Kind in a Deck of Cards")
 
 ## [913. Cat and Mouse (Hard)](https://leetcode.com/problems/cat-and-mouse "猫和老鼠")
 
@@ -62,5 +62,5 @@
 </div>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Minimax](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/minimax/README.md)]

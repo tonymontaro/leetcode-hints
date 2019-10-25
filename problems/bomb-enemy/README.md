@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-transformed-array "Sort Transformed Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-transformed-array "Sort Transformed Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-hit-counter "Design Hit Counter")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-hit-counter "Design Hit Counter")
 
 ## [361. Bomb Enemy (Medium)](https://leetcode.com/problems/bomb-enemy "轰炸敌人")
 
 
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

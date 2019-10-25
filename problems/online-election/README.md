@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-range-ii "Smallest Range II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-range-ii "Smallest Range II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-an-array "Sort an Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-an-array "Sort an Array")
 
 ## [911. Online Election (Medium)](https://leetcode.com/problems/online-election "在线选举")
 
@@ -46,4 +46,4 @@ This continues for 3 more queries at time 15, 24, and 8.
 </div>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]

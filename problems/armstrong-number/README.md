@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-unique-number "Largest Unique Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-unique-number "Largest Unique Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/connecting-cities-with-minimum-cost "Connecting Cities With Minimum Cost")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/connecting-cities-with-minimum-cost "Connecting Cities With Minimum Cost")
 
 ## [1134. Armstrong Number (Easy)](https://leetcode.com/problems/armstrong-number "阿姆斯特朗数")
 
 
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-number "Palindrome Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-number "Palindrome Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/container-with-most-water "Container With Most Water")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/container-with-most-water "Container With Most Water")
 
 ## [10. Regular Expression Matching (Hard)](https://leetcode.com/problems/regular-expression-matching "正则表达式匹配")
 
@@ -77,9 +77,9 @@ p = &quot;mis*is*p*.&quot;
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Wildcard Matching](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching) (Hard)
+  1. [Wildcard Matching](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wildcard-matching) (Hard)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference "Minimum Absolute Difference")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-absolute-difference "Minimum Absolute Difference")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-string-with-swaps "Smallest String With Swaps")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-string-with-swaps "Smallest String With Swaps")
 
 ## [1201. Ugly Number III (Medium)](https://leetcode.com/problems/ugly-number-iii "丑数 III")
 
@@ -56,8 +56,8 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Hints
 <details>

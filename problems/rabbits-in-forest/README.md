@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reaching-points "Reaching Points")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reaching-points "Reaching Points")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/transform-to-chessboard "Transform to Chessboard")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/transform-to-chessboard "Transform to Chessboard")
 
 ## [781. Rabbits in Forest (Medium)](https://leetcode.com/problems/rabbits-in-forest "森林中的兔子")
 
@@ -41,5 +41,5 @@ The smallest possible number of rabbits in the forest is therefore 5: 3 that ans
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

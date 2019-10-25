@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-ii "Contains Duplicate II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contains-duplicate-ii "Contains Duplicate II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximal-square "Maximal Square")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximal-square "Maximal Square")
 
 ## [220. Contains Duplicate III (Medium)](https://leetcode.com/problems/contains-duplicate-iii "存在重复元素 III")
 
@@ -41,12 +41,12 @@
 </div>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Ordered Map](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/ordered-map/README.md)]
 
 ### Similar Questions
-  1. [Contains Duplicate](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate) (Easy)
-  1. [Contains Duplicate II](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-ii) (Easy)
+  1. [Contains Duplicate](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contains-duplicate) (Easy)
+  1. [Contains Duplicate II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contains-duplicate-ii) (Easy)
 
 ### Hints
 <details>

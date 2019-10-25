@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/adding-two-negabinary-numbers "Adding Two Negabinary Numbers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/adding-two-negabinary-numbers "Adding Two Negabinary Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/project-employees-i "Project Employees I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/project-employees-i "Project Employees I")
 
 ## [1074. Number of Submatrices That Sum to Target (Hard)](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target "元素和为目标值的子矩阵数量")
 
@@ -49,9 +49,9 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-the-repetitions "Count The Repetitions")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-the-repetitions "Count The Repetitions")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address "Validate IP Address")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/validate-ip-address "Validate IP Address")
 
 ## [467. Unique Substrings in Wraparound String (Medium)](https://leetcode.com/problems/unique-substrings-in-wraparound-string "环绕字符串中唯一的子字符串")
 
@@ -43,7 +43,7 @@
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

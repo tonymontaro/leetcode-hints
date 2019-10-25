@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/how-many-apples-can-you-put-into-the-basket "How Many Apples Can You Put into the Basket")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/how-many-apples-can-you-put-into-the-basket "How Many Apples Can You Put into the Basket")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-smallest-common-element-in-all-rows "Find Smallest Common Element in All Rows")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-smallest-common-element-in-all-rows "Find Smallest Common Element in All Rows")
 
 ## [1197. Minimum Knight Moves (Medium)](https://leetcode.com/problems/minimum-knight-moves "进击的骑士")
 
 
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

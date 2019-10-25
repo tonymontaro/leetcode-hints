@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/clumsy-factorial "Clumsy Factorial")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/clumsy-factorial "Clumsy Factorial")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal "Construct Binary Search Tree from Preorder Traversal")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/construct-binary-search-tree-from-preorder-traversal "Construct Binary Search Tree from Preorder Traversal")
 
 ## [1007. Minimum Domino Rotations For Equal Row (Medium)](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row "行相等的最少多米诺旋转")
 
@@ -52,5 +52,5 @@ In this case, it is not possible to rotate the dominoes to make one row of value
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/guess-the-word "Guess the Word")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/guess-the-word "Guess the Word")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-mountain-in-array "Longest Mountain in Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-mountain-in-array "Longest Mountain in Array")
 
 ## [844. Backspace String Compare (Easy)](https://leetcode.com/problems/backspace-string-compare "比较含退格的字符串")
 
@@ -68,5 +68,5 @@
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]

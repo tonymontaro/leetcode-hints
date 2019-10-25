@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/duplicate-emails "Duplicate Emails")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/duplicate-emails "Duplicate Emails")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/department-highest-salary "Department Highest Salary")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/department-highest-salary "Department Highest Salary")
 
 ## [183. Customers Who Never Order (Easy)](https://leetcode.com/problems/customers-who-never-order "从不订购的客户")
 

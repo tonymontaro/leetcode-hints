@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-connected-components-in-an-undirected-graph "Number of Connected Components in an Undirected Graph")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-connected-components-in-an-undirected-graph "Number of Connected Components in an Undirected Graph")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k "Maximum Size Subarray Sum Equals k")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-size-subarray-sum-equals-k "Maximum Size Subarray Sum Equals k")
 
 ## [324. Wiggle Sort II (Medium)](https://leetcode.com/problems/wiggle-sort-ii "摆动排序 II")
 
@@ -32,9 +32,9 @@ You may assume all input has valid answer.</p>
 Can you do it in O(n) time and/or in-place with O(1) extra space?</p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
 
 ### Similar Questions
-  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/problems/sort-colors) (Medium)
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)
-  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort) (Medium)
+  1. [Sort Colors](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-colors) (Medium)
+  1. [Kth Largest Element in an Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-largest-element-in-an-array) (Medium)
+  1. [Wiggle Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wiggle-sort) (Medium)

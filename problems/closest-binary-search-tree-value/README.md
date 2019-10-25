@@ -2,22 +2,22 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/alien-dictionary "Alien Dictionary")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/alien-dictionary "Alien Dictionary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings "Encode and Decode Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/encode-and-decode-strings "Encode and Decode Strings")
 
 ## [270. Closest Binary Search Tree Value (Easy)](https://leetcode.com/problems/closest-binary-search-tree-value "最接近的二叉搜索树值")
 
 
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Count Complete Tree Nodes](https://github.com/openset/leetcode/tree/master/problems/count-complete-tree-nodes) (Medium)
-  1. [Closest Binary Search Tree Value II](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii) (Hard)
-  1. [Search in a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree) (Easy)
+  1. [Count Complete Tree Nodes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-complete-tree-nodes) (Medium)
+  1. [Closest Binary Search Tree Value II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/closest-binary-search-tree-value-ii) (Hard)
+  1. [Search in a Binary Search Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-in-a-binary-search-tree) (Easy)

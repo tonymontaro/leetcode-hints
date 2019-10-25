@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst "Serialize and Deserialize BST")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/serialize-and-deserialize-bst "Serialize and Deserialize BST")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-characters-by-frequency "Sort Characters By Frequency")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-characters-by-frequency "Sort Characters By Frequency")
 
 ## [450. Delete Node in a BST (Medium)](https://leetcode.com/problems/delete-node-in-a-bst "删除二叉搜索树中的节点")
 
@@ -54,7 +54,7 @@ Another valid answer is [5,2,6,null,4,null,7].
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Split BST](https://github.com/openset/leetcode/tree/master/problems/split-bst) (Medium)
+  1. [Split BST](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-bst) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-segments-in-a-string "Number of Segments in a String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-segments-in-a-string "Number of Segments in a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-right-interval "Find Right Interval")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-right-interval "Find Right Interval")
 
 ## [435. Non-overlapping Intervals (Medium)](https://leetcode.com/problems/non-overlapping-intervals "无重叠区间")
 
@@ -52,7 +52,7 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Minimum Number of Arrows to Burst Balloons](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)
+  1. [Minimum Number of Arrows to Burst Balloons](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)

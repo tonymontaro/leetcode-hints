@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers "Sum of Root To Leaf Binary Numbers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-root-to-leaf-binary-numbers "Sum of Root To Leaf Binary Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/video-stitching "Video Stitching")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/video-stitching "Video Stitching")
 
 ## [1023. Camelcase Matching (Medium)](https://leetcode.com/problems/camelcase-matching "驼峰式匹配")
 
@@ -58,8 +58,8 @@
 </ol>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Trie](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/trie/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

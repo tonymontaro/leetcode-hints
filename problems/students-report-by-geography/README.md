@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/merge-two-binary-trees "Merge Two Binary Trees")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-two-binary-trees "Merge Two Binary Trees")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/biggest-single-number "Biggest Single Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/biggest-single-number "Biggest Single Number")
 
 ## [618. Students Report By Geography (Hard)](https://leetcode.com/problems/students-report-by-geography "学生地理信息报告")
 

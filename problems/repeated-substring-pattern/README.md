@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/poor-pigs "Poor Pigs")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/poor-pigs "Poor Pigs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lfu-cache "LFU Cache")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lfu-cache "LFU Cache")
 
 ## [459. Repeated Substring Pattern (Easy)](https://leetcode.com/problems/repeated-substring-pattern "重复的子字符串")
 
@@ -39,8 +39,8 @@
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Implement strStr()](https://github.com/openset/leetcode/tree/master/problems/implement-strstr) (Easy)
-  1. [Repeated String Match](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match) (Easy)
+  1. [Implement strStr()](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-strstr) (Easy)
+  1. [Repeated String Match](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/repeated-string-match) (Easy)

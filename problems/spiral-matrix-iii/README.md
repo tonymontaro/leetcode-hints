@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/uncommon-words-from-two-sentences "Uncommon Words from Two Sentences")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/uncommon-words-from-two-sentences "Uncommon Words from Two Sentences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/possible-bipartition "Possible Bipartition")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/possible-bipartition "Possible Bipartition")
 
 ## [885. Spiral Matrix III (Medium)](https://leetcode.com/problems/spiral-matrix-iii "螺旋矩阵 III")
 
@@ -61,4 +61,4 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

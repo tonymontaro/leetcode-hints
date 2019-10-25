@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/regions-cut-by-slashes "Regions Cut By Slashes")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/regions-cut-by-slashes "Regions Cut By Slashes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-repeated-element-in-size-2n-array "N-Repeated Element in Size 2N Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-repeated-element-in-size-2n-array "N-Repeated Element in Size 2N Array")
 
 ## [960. Delete Columns to Make Sorted III (Hard)](https://leetcode.com/problems/delete-columns-to-make-sorted-iii "删列造序 III")
 
@@ -67,4 +67,4 @@ Note that A[0] &gt; A[1] - the array A isn&#39;t necessarily in lexicographic or
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

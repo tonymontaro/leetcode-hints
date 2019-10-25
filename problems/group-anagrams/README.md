@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rotate-image "Rotate Image")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotate-image "Rotate Image")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/powx-n "Pow(x, n)")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/powx-n "Pow(x, n)")
 
 ## [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams "字母异位词分组")
 
@@ -32,9 +32,9 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/problems/valid-anagram) (Easy)
-  1. [Group Shifted Strings](https://github.com/openset/leetcode/tree/master/problems/group-shifted-strings) (Medium)
+  1. [Valid Anagram](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-anagram) (Easy)
+  1. [Group Shifted Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/group-shifted-strings) (Medium)

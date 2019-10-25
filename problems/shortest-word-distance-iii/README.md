@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-ii "Shortest Word Distance II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance-ii "Shortest Word Distance II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number "Strobogrammatic Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/strobogrammatic-number "Strobogrammatic Number")
 
 ## [245. Shortest Word Distance III (Medium)](https://leetcode.com/problems/shortest-word-distance-iii "最短单词距离 III")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Shortest Word Distance](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance) (Easy)
-  1. [Shortest Word Distance II](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-ii) (Medium)
+  1. [Shortest Word Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance) (Easy)
+  1. [Shortest Word Distance II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance-ii) (Medium)

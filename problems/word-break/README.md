@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/copy-list-with-random-pointer "Copy List with Random Pointer")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/copy-list-with-random-pointer "Copy List with Random Pointer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-break-ii "Word Break II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-break-ii "Word Break II")
 
 ## [139. Word Break (Medium)](https://leetcode.com/problems/word-break "单词拆分")
 
@@ -45,7 +45,7 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Word Break II](https://github.com/openset/leetcode/tree/master/problems/word-break-ii) (Hard)
+  1. [Word Break II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-break-ii) (Hard)

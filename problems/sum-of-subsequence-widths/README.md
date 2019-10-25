@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-pattern "Find and Replace Pattern")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-and-replace-pattern "Find and Replace Pattern")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes "Surface Area of 3D Shapes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/surface-area-of-3d-shapes "Surface Area of 3D Shapes")
 
 ## [891. Sum of Subsequence Widths (Hard)](https://leetcode.com/problems/sum-of-subsequence-widths "子序列宽度之和")
 
@@ -44,5 +44,5 @@ The sum of these widths is 6.
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

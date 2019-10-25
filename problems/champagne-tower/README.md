@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-rotation-with-highest-score "Smallest Rotation with Highest Score")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-rotation-with-highest-score "Smallest Rotation with Highest Score")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/similar-rgb-color "Similar RGB Color")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/similar-rgb-color "Similar RGB Color")
 
 ## [799. Champagne Tower (Medium)](https://leetcode.com/problems/champagne-tower "香槟塔")
 

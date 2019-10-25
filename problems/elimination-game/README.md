@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-difference "Find the Difference")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-difference "Find the Difference")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/perfect-rectangle "Perfect Rectangle")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/perfect-rectangle "Perfect Rectangle")
 
 ## [390. Elimination Game (Medium)](https://leetcode.com/problems/elimination-game "消除游戏")
 

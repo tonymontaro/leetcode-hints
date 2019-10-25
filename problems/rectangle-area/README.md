@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-complete-tree-nodes "Count Complete Tree Nodes")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-complete-tree-nodes "Count Complete Tree Nodes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/basic-calculator "Basic Calculator")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/basic-calculator "Basic Calculator")
 
 ## [223. Rectangle Area (Medium)](https://leetcode.com/problems/rectangle-area "矩形面积")
 
@@ -28,7 +28,7 @@
 <p>Assume that the total area is never beyond the maximum possible value of <strong>int</strong>.</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Rectangle Overlap](https://github.com/openset/leetcode/tree/master/problems/rectangle-overlap) (Easy)
+  1. [Rectangle Overlap](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rectangle-overlap) (Easy)

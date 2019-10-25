@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence "Number of Longest Increasing Subsequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-longest-increasing-subsequence "Number of Longest Increasing Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/cut-off-trees-for-golf-event "Cut Off Trees for Golf Event")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/cut-off-trees-for-golf-event "Cut Off Trees for Golf Event")
 
 ## [674. Longest Continuous Increasing Subsequence (Easy)](https://leetcode.com/problems/longest-continuous-increasing-subsequence "最长连续递增序列")
 
@@ -37,8 +37,8 @@ Length of the array will not exceed 10,000.
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence) (Medium)
-  1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence) (Hard)
+  1. [Number of Longest Increasing Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-longest-increasing-subsequence) (Medium)
+  1. [Minimum Window Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-window-subsequence) (Hard)

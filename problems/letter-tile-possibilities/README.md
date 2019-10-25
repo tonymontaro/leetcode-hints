@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/occurrences-after-bigram "Occurrences After Bigram")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/occurrences-after-bigram "Occurrences After Bigram")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths "Insufficient Nodes in Root to Leaf Paths")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths "Insufficient Nodes in Root to Leaf Paths")
 
 ## [1079. Letter Tile Possibilities (Medium)](https://leetcode.com/problems/letter-tile-possibilities "活字印刷")
 
@@ -42,7 +42,7 @@
 </ol>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Hints
 <details>

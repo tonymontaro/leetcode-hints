@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree "Graph Valid Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/graph-valid-tree "Graph Valid Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ugly-number "Ugly Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number "Ugly Number")
 
 ## [262. Trips and Users (Hard)](https://leetcode.com/problems/trips-and-users "行程和用户")
 

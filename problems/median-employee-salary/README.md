@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days "Maximum Vacation Days")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-vacation-days "Maximum Vacation Days")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/managers-with-at-least-5-direct-reports "Managers with at Least 5 Direct Reports")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/managers-with-at-least-5-direct-reports "Managers with at Least 5 Direct Reports")
 
 ## [569. Median Employee Salary (Hard)](https://leetcode.com/problems/median-employee-salary "员工薪水中位数")
 
@@ -52,7 +52,7 @@
 </pre>
 
 ### Similar Questions
-  1. [Find Median Given Frequency of Numbers](https://github.com/openset/leetcode/tree/master/problems/find-median-given-frequency-of-numbers) (Hard)
+  1. [Find Median Given Frequency of Numbers](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-median-given-frequency-of-numbers) (Hard)
 
 ### Hints
 <details>

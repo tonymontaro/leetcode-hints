@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands-ii "Number of Distinct Islands II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-distinct-islands-ii "Number of Distinct Islands II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k "Subarray Product Less Than K")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subarray-product-less-than-k "Subarray Product Less Than K")
 
 ## [712. Minimum ASCII Delete Sum for Two Strings (Medium)](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings "两个字符串的最小ASCII删除和")
 
@@ -40,12 +40,12 @@ If instead we turned both strings into "lee" or "eet", we would get answers of 4
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Edit Distance](https://github.com/openset/leetcode/tree/master/problems/edit-distance) (Hard)
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)
-  1. [Delete Operation for Two Strings](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings) (Medium)
+  1. [Edit Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/edit-distance) (Hard)
+  1. [Longest Increasing Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-increasing-subsequence) (Medium)
+  1. [Delete Operation for Two Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-operation-for-two-strings) (Medium)
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-binary-search-tree-to-sorted-doubly-linked-list "Convert Binary Search Tree to Sorted Doubly Linked List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/convert-binary-search-tree-to-sorted-doubly-linked-list "Convert Binary Search Tree to Sorted Doubly Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-n-ary-tree "Serialize and Deserialize N-ary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/serialize-and-deserialize-n-ary-tree "Serialize and Deserialize N-ary Tree")
 
 ## [427. Construct Quad Tree (Medium)](https://leetcode.com/problems/construct-quad-tree "建立四叉树")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word "Stickers to Spell Word")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/stickers-to-spell-word "Stickers to Spell Word")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits "Binary Number with Alternating Bits")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-number-with-alternating-bits "Binary Number with Alternating Bits")
 
 ## [692. Top K Frequent Words (Medium)](https://leetcode.com/problems/top-k-frequent-words "前K个高频单词")
 
@@ -46,10 +46,10 @@
 </p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Trie](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/trie/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)
-  1. [K Closest Points to Origin](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) (Medium)
+  1. [Top K Frequent Elements](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/top-k-frequent-elements) (Medium)
+  1. [K Closest Points to Origin](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-closest-points-to-origin) (Medium)

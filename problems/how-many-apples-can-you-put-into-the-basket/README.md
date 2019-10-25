@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz-multithreaded "Fizz Buzz Multithreaded")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fizz-buzz-multithreaded "Fizz Buzz Multithreaded")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-knight-moves "Minimum Knight Moves")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-knight-moves "Minimum Knight Moves")
 
 ## [1196. How Many Apples Can You Put into the Basket (Easy)](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket "最多可以买到的苹果数量")
 
 
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/walking-robot-simulation "Walking Robot Simulation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/walking-robot-simulation "Walking Robot Simulation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/middle-of-the-linked-list "Middle of the Linked List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/middle-of-the-linked-list "Middle of the Linked List")
 
 ## [875. Koko Eating Bananas (Medium)](https://leetcode.com/problems/koko-eating-bananas "爱吃香蕉的珂珂")
 
@@ -62,7 +62,7 @@
 </div>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Minimize Max Distance to Gas Station](https://github.com/openset/leetcode/tree/master/problems/minimize-max-distance-to-gas-station) (Hard)
+  1. [Minimize Max Distance to Gas Station](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimize-max-distance-to-gas-station) (Hard)

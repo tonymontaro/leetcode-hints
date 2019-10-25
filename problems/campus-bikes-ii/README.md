@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/index-pairs-of-a-string "Index Pairs of a String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/index-pairs-of-a-string "Index Pairs of a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/digit-count-in-range "Digit Count in Range")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/digit-count-in-range "Digit Count in Range")
 
 ## [1066. Campus Bikes II (Medium)](https://leetcode.com/problems/campus-bikes-ii "校园自行车分配 II")
 
@@ -54,11 +54,11 @@ We first assign bike 0 to worker 0, then assign bike 1 to worker 1 or worker 2, 
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Campus Bikes](https://github.com/openset/leetcode/tree/master/problems/campus-bikes) (Medium)
+  1. [Campus Bikes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/campus-bikes) (Medium)
 
 ### Hints
 <details>

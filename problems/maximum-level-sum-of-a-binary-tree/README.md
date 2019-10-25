@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters "Find Words That Can Be Formed by Characters")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-words-that-can-be-formed-by-characters "Find Words That Can Be Formed by Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible "As Far from Land as Possible")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/as-far-from-land-as-possible "As Far from Land as Possible")
 
 ## [1161. Maximum Level Sum of a Binary Tree (Medium)](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree "最大层内元素和")
 
@@ -41,7 +41,7 @@ So we return the level with the maximum sum which is level 2.
 </ol>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Hints
 <details>

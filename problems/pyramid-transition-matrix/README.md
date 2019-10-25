@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/pour-water "Pour Water")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/pour-water "Pour Water")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/set-intersection-size-at-least-two "Set Intersection Size At Least Two")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/set-intersection-size-at-least-two "Set Intersection Size At Least Two")
 
 ## [756. Pyramid Transition Matrix (Medium)](https://leetcode.com/problems/pyramid-transition-matrix "金字塔转换矩阵")
 
@@ -59,5 +59,5 @@ Note that there could be allowed triples (A, B, C) and (A, B, D) with C != D.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]

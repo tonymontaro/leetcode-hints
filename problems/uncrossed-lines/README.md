@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border "Coloring A Border")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/coloring-a-border "Coloring A Border")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze "Escape a Large Maze")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/escape-a-large-maze "Escape a Large Maze")
 
 ## [1035. Uncrossed Lines (Medium)](https://leetcode.com/problems/uncrossed-lines "不相交的线")
 
@@ -63,10 +63,10 @@ We cannot draw 3 uncrossed lines, because the line from A[1]=4 to B[2]=4 will in
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Edit Distance](https://github.com/openset/leetcode/tree/master/problems/edit-distance) (Hard)
+  1. [Edit Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/edit-distance) (Hard)
 
 ### Hints
 <details>

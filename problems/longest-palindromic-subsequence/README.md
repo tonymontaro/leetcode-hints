@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-largest-value-in-each-tree-row "Find Largest Value in Each Tree Row")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-largest-value-in-each-tree-row "Find Largest Value in Each Tree Row")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/super-washing-machines "Super Washing Machines")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/super-washing-machines "Super Washing Machines")
 
 ## [516. Longest Palindromic Subsequence (Medium)](https://leetcode.com/problems/longest-palindromic-subsequence "最长回文子序列")
 
@@ -40,9 +40,9 @@ One possible longest palindromic subsequence is "bb".
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)
-  1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings) (Medium)
-  1. [Count Different Palindromic Subsequences](https://github.com/openset/leetcode/tree/master/problems/count-different-palindromic-subsequences) (Hard)
+  1. [Longest Palindromic Substring](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-palindromic-substring) (Medium)
+  1. [Palindromic Substrings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindromic-substrings) (Medium)
+  1. [Count Different Palindromic Subsequences](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-different-palindromic-subsequences) (Hard)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight "Last Stone Weight")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/last-stone-weight "Last Stone Weight")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain "Longest String Chain")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-string-chain "Longest String Chain")
 
 ## [1047. Remove All Adjacent Duplicates In String (Easy)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string "删除字符串中的所有相邻重复项")
 
@@ -38,7 +38,7 @@ For example, in &quot;abbaca&quot; we could remove &quot;bb&quot; since the lett
 </ol>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
 
 ### Hints
 <details>

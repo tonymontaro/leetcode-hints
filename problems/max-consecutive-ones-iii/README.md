@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions "Check If Word Is Valid After Substitutions")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/check-if-word-is-valid-after-substitutions "Check If Word Is Valid After Substitutions")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximize-sum-of-array-after-k-negations "Maximize Sum Of Array After K Negations")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximize-sum-of-array-after-k-negations "Maximize Sum Of Array After K Negations")
 
 ## [1004. Max Consecutive Ones III (Medium)](https://leetcode.com/problems/max-consecutive-ones-iii "最大连续1的个数 III")
 
@@ -51,11 +51,11 @@ Bolded numbers were flipped from 0 to 1.  The longest subarray is underlined.
 </div>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Longest Substring with At Most K Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
-  1. [Longest Repeating Character Replacement](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-character-replacement) (Medium)
-  1. [Max Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones) (Easy)
-  1. [Max Consecutive Ones II](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-ii) (Medium)
+  1. [Longest Substring with At Most K Distinct Characters](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Longest Repeating Character Replacement](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-repeating-character-replacement) (Medium)
+  1. [Max Consecutive Ones](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-consecutive-ones) (Easy)
+  1. [Max Consecutive Ones II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-consecutive-ones-ii) (Medium)

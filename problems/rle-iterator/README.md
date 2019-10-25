@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/orderly-queue "Orderly Queue")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/orderly-queue "Orderly Queue")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/online-stock-span "Online Stock Span")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/online-stock-span "Online Stock Span")
 
 ## [900. RLE Iterator (Medium)](https://leetcode.com/problems/rle-iterator "RLE 迭代器")
 
@@ -53,4 +53,4 @@ but the second term did not exist.  Since the last term exhausted does not exist
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

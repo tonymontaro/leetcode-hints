@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ones-and-zeroes "Ones and Zeroes")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ones-and-zeroes "Ones and Zeroes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-complement "Number Complement")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-complement "Number Complement")
 
 ## [475. Heaters (Easy)](https://leetcode.com/problems/heaters "供暖器")
 
@@ -49,4 +49,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]

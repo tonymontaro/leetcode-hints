@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices "Arithmetic Slices")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/arithmetic-slices "Arithmetic Slices")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-strings "Add Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-strings "Add Strings")
 
 ## [414. Third Maximum Number (Easy)](https://leetcode.com/problems/third-maximum-number "第三大的数")
 
@@ -45,7 +45,7 @@ Both numbers with value 2 are both considered as second maximum.
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)
+  1. [Kth Largest Element in an Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-largest-element-in-an-array) (Medium)

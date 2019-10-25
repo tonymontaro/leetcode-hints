@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-shortest-superstring "Find the Shortest Superstring")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-shortest-superstring "Find the Shortest Superstring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-increment-to-make-array-unique "Minimum Increment to Make Array Unique")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-increment-to-make-array-unique "Minimum Increment to Make Array Unique")
 
 ## [944. Delete Columns to Make Sorted (Easy)](https://leetcode.com/problems/delete-columns-to-make-sorted "删列造序")
 
@@ -65,4 +65,4 @@ If we chose D = {}, then a column [&quot;b&quot;,&quot;a&quot;,&quot;h&quot;] wo
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-trees-with-factors "Binary Trees With Factors")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-trees-with-factors "Binary Trees With Factors")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/friends-of-appropriate-ages "Friends Of Appropriate Ages")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/friends-of-appropriate-ages "Friends Of Appropriate Ages")
 
 ## [824. Goat Latin (Easy)](https://leetcode.com/problems/goat-latin "山羊拉丁文")
 
@@ -56,4 +56,4 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

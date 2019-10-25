@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bulls-and-cows "Bulls and Cows")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bulls-and-cows "Bulls and Cows")
 
 ## [298. Binary Tree Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence "二叉树最长连续序列")
 
 
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/problems/longest-consecutive-sequence) (Hard)
-  1. [Binary Tree Longest Consecutive Sequence II](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence-ii) (Medium)
+  1. [Longest Consecutive Sequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-consecutive-sequence) (Hard)
+  1. [Binary Tree Longest Consecutive Sequence II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-longest-consecutive-sequence-ii) (Medium)

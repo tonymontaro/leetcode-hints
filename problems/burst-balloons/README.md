@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sparse-matrix-multiplication "Sparse Matrix Multiplication")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sparse-matrix-multiplication "Sparse Matrix Multiplication")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number "Super Ugly Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/super-ugly-number "Super Ugly Number")
 
 ## [312. Burst Balloons (Hard)](https://leetcode.com/problems/burst-balloons "戳气球")
 
@@ -32,8 +32,8 @@
 </pre>
 
 ### Related Topics
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Minimum Cost to Merge Stones](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones) (Hard)
+  1. [Minimum Cost to Merge Stones](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-cost-to-merge-stones) (Hard)

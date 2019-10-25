@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-cyclic-sorted-list "Insert into a Cyclic Sorted List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insert-into-a-cyclic-sorted-list "Insert into a Cyclic Sorted List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist "Random Pick with Blacklist")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-with-blacklist "Random Pick with Blacklist")
 
 ## [709. To Lower Case (Easy)](https://leetcode.com/problems/to-lower-case "转换成小写字母")
 
@@ -43,4 +43,4 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

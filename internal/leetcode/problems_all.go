@@ -63,7 +63,7 @@ type difficultyType struct {
 type paidType bool
 
 func (problem *StatStatusPairsType) WriteRow(buf *bytes.Buffer) {
-	format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
+	format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/%s) | %s |\n"
 	id := problem.Stat.FrontendQuestionId
 	stat := problem.Stat
 	title := strings.TrimSpace(problem.Stat.QuestionTitle)

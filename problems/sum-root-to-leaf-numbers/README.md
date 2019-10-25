@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-consecutive-sequence "Longest Consecutive Sequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-consecutive-sequence "Longest Consecutive Sequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/surrounded-regions "Surrounded Regions")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/surrounded-regions "Surrounded Regions")
 
 ## [129. Sum Root to Leaf Numbers (Medium)](https://leetcode.com/problems/sum-root-to-leaf-numbers "求根到叶子节点数字之和")
 
@@ -49,10 +49,10 @@ The root-to-leaf path <code>4-&gt;0</code> represents the number 40.
 Therefore, sum = 495 + 491 + 40 = <code>1026</code>.</pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Path Sum](https://github.com/openset/leetcode/tree/master/problems/path-sum) (Easy)
-  1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum) (Hard)
-  1. [Smallest String Starting From Leaf](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) (Medium)
+  1. [Path Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-sum) (Easy)
+  1. [Binary Tree Maximum Path Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-maximum-path-sum) (Hard)
+  1. [Smallest String Starting From Leaf](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-string-starting-from-leaf) (Medium)

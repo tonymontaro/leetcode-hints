@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-iii "Contains Duplicate III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contains-duplicate-iii "Contains Duplicate III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-complete-tree-nodes "Count Complete Tree Nodes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-complete-tree-nodes "Count Complete Tree Nodes")
 
 ## [221. Maximal Square (Medium)](https://leetcode.com/problems/maximal-square "最大正方形")
 
@@ -27,8 +27,8 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Maximal Rectangle](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle) (Hard)
-  1. [Largest Plus Sign](https://github.com/openset/leetcode/tree/master/problems/largest-plus-sign) (Medium)
+  1. [Maximal Rectangle](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximal-rectangle) (Hard)
+  1. [Largest Plus Sign](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-plus-sign) (Medium)

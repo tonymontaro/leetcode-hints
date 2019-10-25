@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle-ii "Minimum Area Rectangle II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-area-rectangle-ii "Minimum Area Rectangle II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/univalued-binary-tree "Univalued Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/univalued-binary-tree "Univalued Binary Tree")
 
 ## [964. Least Operators to Express Number (Hard)](https://leetcode.com/problems/least-operators-to-express-number "表示数字的最少运算符")
 
@@ -71,5 +71,5 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

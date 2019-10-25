@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/group-anagrams "Group Anagrams")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/group-anagrams "Group Anagrams")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-queens "N-Queens")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-queens "N-Queens")
 
 ## [50. Pow(x, n) (Medium)](https://leetcode.com/problems/powx-n "Pow(x, n)")
 
@@ -43,9 +43,9 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/problems/sqrtx) (Easy)
-  1. [Super Pow](https://github.com/openset/leetcode/tree/master/problems/super-pow) (Medium)
+  1. [Sqrt(x)](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sqrtx) (Easy)
+  1. [Super Pow](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/super-pow) (Medium)

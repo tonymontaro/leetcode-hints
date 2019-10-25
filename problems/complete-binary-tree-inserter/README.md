@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-circular-subarray "Maximum Sum Circular Subarray")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-sum-circular-subarray "Maximum Sum Circular Subarray")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-music-playlists "Number of Music Playlists")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-music-playlists "Number of Music Playlists")
 
 ## [919. Complete Binary Tree Inserter (Medium)](https://leetcode.com/problems/complete-binary-tree-inserter "完全二叉树插入器")
 
@@ -62,4 +62,4 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

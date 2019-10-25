@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reordered-power-of-2 "Reordered Power of 2")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reordered-power-of-2 "Reordered Power of 2")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-refueling-stops "Minimum Number of Refueling Stops")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-number-of-refueling-stops "Minimum Number of Refueling Stops")
 
 ## [870. Advantage Shuffle (Medium)](https://leetcode.com/problems/advantage-shuffle "优势洗牌")
 
@@ -46,5 +46,5 @@
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

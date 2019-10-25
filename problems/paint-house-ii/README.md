@@ -2,22 +2,22 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii "Ugly Number II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number-ii "Ugly Number II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation "Palindrome Permutation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-permutation "Palindrome Permutation")
 
 ## [265. Paint House II (Hard)](https://leetcode.com/problems/paint-house-ii "粉刷房子 II")
 
 
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self) (Medium)
-  1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum) (Hard)
-  1. [Paint House](https://github.com/openset/leetcode/tree/master/problems/paint-house) (Easy)
-  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/problems/paint-fence) (Easy)
+  1. [Product of Array Except Self](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/product-of-array-except-self) (Medium)
+  1. [Sliding Window Maximum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sliding-window-maximum) (Hard)
+  1. [Paint House](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-house) (Easy)
+  1. [Paint Fence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-fence) (Easy)

@@ -2,23 +2,23 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-digits "Add Digits")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-digits "Add Digits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/single-number-iii "Single Number III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number-iii "Single Number III")
 
 ## [259. 3Sum Smaller (Medium)](https://leetcode.com/problems/3sum-smaller "较小的三数之和")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
-  1. [3Sum Closest](https://github.com/openset/leetcode/tree/master/problems/3sum-closest) (Medium)
-  1. [Valid Triangle Number](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number) (Medium)
-  1. [Two Sum Less Than K](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) (Easy)
+  1. [3Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/3sum) (Medium)
+  1. [3Sum Closest](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/3sum-closest) (Medium)
+  1. [Valid Triangle Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-triangle-number) (Medium)
+  1. [Two Sum Less Than K](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-less-than-k) (Easy)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/game-of-life "Game of Life")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-of-life "Game of Life")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-pattern-ii "Word Pattern II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-pattern-ii "Word Pattern II")
 
 ## [290. Word Pattern (Easy)](https://leetcode.com/problems/word-pattern "单词规律")
 
@@ -43,8 +43,8 @@
 You may assume <code>pattern</code> contains only lowercase letters, and <code>str</code> contains lowercase letters that may be separated by a single space.</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Isomorphic Strings](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings) (Easy)
-  1. [Word Pattern II](https://github.com/openset/leetcode/tree/master/problems/word-pattern-ii) (Hard)
+  1. [Isomorphic Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/isomorphic-strings) (Easy)
+  1. [Word Pattern II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-pattern-ii) (Hard)

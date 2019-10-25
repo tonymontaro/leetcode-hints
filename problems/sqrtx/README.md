@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/text-justification "Text Justification")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/text-justification "Text Justification")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs "Climbing Stairs")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/climbing-stairs "Climbing Stairs")
 
 ## [69. Sqrt(x) (Easy)](https://leetcode.com/problems/sqrtx "x 的平方根")
 
@@ -34,12 +34,12 @@
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Pow(x, n)](https://github.com/openset/leetcode/tree/master/problems/powx-n) (Medium)
-  1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square) (Easy)
+  1. [Pow(x, n)](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/powx-n) (Medium)
+  1. [Valid Perfect Square](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-perfect-square) (Easy)
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/market-analysis-i "Market Analysis I")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/market-analysis-i "Market Analysis I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters "Find Words That Can Be Formed by Characters")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-words-that-can-be-formed-by-characters "Find Words That Can Be Formed by Characters")
 
 ## [1159. Market Analysis II (Hard)](https://leetcode.com/problems/market-analysis-ii "")
 

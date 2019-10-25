@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal "Flip Binary Tree To Match Preorder Traversal")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-binary-tree-to-match-preorder-traversal "Flip Binary Tree To Match Preorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin "K Closest Points to Origin")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-closest-points-to-origin "K Closest Points to Origin")
 
 ## [972. Equal Rational Numbers (Hard)](https://leetcode.com/problems/equal-rational-numbers "相等的有理数")
 
@@ -71,4 +71,4 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

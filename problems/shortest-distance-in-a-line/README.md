@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-plane "Shortest Distance in a Plane")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-in-a-plane "Shortest Distance in a Plane")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/second-degree-follower "Second Degree Follower")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/second-degree-follower "Second Degree Follower")
 
 ## [613. Shortest Distance in a Line (Easy)](https://leetcode.com/problems/shortest-distance-in-a-line "直线上的最近距离")
 

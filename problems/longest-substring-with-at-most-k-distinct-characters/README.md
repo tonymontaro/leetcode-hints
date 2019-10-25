@@ -2,25 +2,25 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum "Nested List Weight Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nested-list-weight-sum "Nested List Weight Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator "Flatten Nested List Iterator")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flatten-nested-list-iterator "Flatten Nested List Iterator")
 
 ## [340. Longest Substring with At Most K Distinct Characters (Hard)](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters "至多包含 K 个不同字符的最长子串")
 
 
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Longest Substring Without Repeating Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters) (Medium)
-  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
-  1. [Longest Repeating Character Replacement](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-character-replacement) (Medium)
-  1. [Subarrays with K Different Integers](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers) (Hard)
-  1. [Max Consecutive Ones III](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) (Medium)
+  1. [Longest Substring Without Repeating Characters](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-without-repeating-characters) (Medium)
+  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [Longest Repeating Character Replacement](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-repeating-character-replacement) (Medium)
+  1. [Subarrays with K Different Integers](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subarrays-with-k-different-integers) (Hard)
+  1. [Max Consecutive Ones III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-consecutive-ones-iii) (Medium)

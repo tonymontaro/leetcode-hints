@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/heaters "Heaters")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/heaters "Heaters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance "Total Hamming Distance")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/total-hamming-distance "Total Hamming Distance")
 
 ## [476. Number Complement (Easy)](https://leetcode.com/problems/number-complement "数字的补数")
 
@@ -37,4 +37,4 @@
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]

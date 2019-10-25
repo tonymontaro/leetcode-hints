@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/managers-with-at-least-5-direct-reports "Managers with at Least 5 Direct Reports")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/managers-with-at-least-5-direct-reports "Managers with at Least 5 Direct Reports")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree "Subtree of Another Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subtree-of-another-tree "Subtree of Another Tree")
 
 ## [571. Find Median Given Frequency of Numbers (Hard)](https://leetcode.com/problems/find-median-given-frequency-of-numbers "给定数字的频率查询中位数")
 
 
 
 ### Similar Questions
-  1. [Median Employee Salary](https://github.com/openset/leetcode/tree/master/problems/median-employee-salary) (Hard)
+  1. [Median Employee Salary](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/median-employee-salary) (Hard)

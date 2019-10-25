@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-ladder "Word Ladder")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-ladder "Word Ladder")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-root-to-leaf-numbers "Sum Root to Leaf Numbers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-root-to-leaf-numbers "Sum Root to Leaf Numbers")
 
 ## [128. Longest Consecutive Sequence (Hard)](https://leetcode.com/problems/longest-consecutive-sequence "最长连续序列")
 
@@ -24,8 +24,8 @@
 </pre>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence) (Medium)
+  1. [Binary Tree Longest Consecutive Sequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-longest-consecutive-sequence) (Medium)

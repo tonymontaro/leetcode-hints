@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii "Add Two Numbers II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-two-numbers-ii "Add Two Numbers II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-boomerangs "Number of Boomerangs")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-boomerangs "Number of Boomerangs")
 
 ## [446. Arithmetic Slices II - Subsequence (Hard)](https://leetcode.com/problems/arithmetic-slices-ii-subsequence "等差数列划分 II - 子序列")
 
@@ -54,7 +54,7 @@ All arithmetic subsequence slices are:
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Arithmetic Slices](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices) (Medium)
+  1. [Arithmetic Slices](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/arithmetic-slices) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/get-highest-answer-rate-question "Get Highest Answer Rate Question")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/get-highest-answer-rate-question "Get Highest Answer Rate Question")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-student-number-in-departments "Count Student Number in Departments")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-student-number-in-departments "Count Student Number in Departments")
 
 ## [579. Find Cumulative Salary of an Employee (Hard)](https://leetcode.com/problems/find-cumulative-salary-of-an-employee "查询员工的累计薪水")
 

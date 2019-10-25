@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network "Critical Connections in a Network")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/critical-connections-in-a-network "Critical Connections in a Network")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tournament-winners "Tournament Winners")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/tournament-winners "Tournament Winners")
 
 ## [1193. Monthly Transactions I (Medium)](https://leetcode.com/problems/monthly-transactions-i "每月交易 I")
 

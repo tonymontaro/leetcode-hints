@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-increase-to-keep-city-skyline "Max Increase to Keep City Skyline")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-increase-to-keep-city-skyline "Max Increase to Keep City Skyline")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/expressive-words "Expressive Words")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/expressive-words "Expressive Words")
 
 ## [808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings "分汤")
 
@@ -45,4 +45,4 @@ If we choose the first two operations, A will become empty first. For the third 
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

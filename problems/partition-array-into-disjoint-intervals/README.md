@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/x-of-a-kind-in-a-deck-of-cards "X of a Kind in a Deck of Cards")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/x-of-a-kind-in-a-deck-of-cards "X of a Kind in a Deck of Cards")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-subsets "Word Subsets")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-subsets "Word Subsets")
 
 ## [915. Partition Array into Disjoint Intervals (Medium)](https://leetcode.com/problems/partition-array-into-disjoint-intervals "分割数组")
 
@@ -56,4 +56,4 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-nodes-and-return-forest "Delete Nodes And Return Forest")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-nodes-and-return-forest "Delete Nodes And Return Forest")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student "Highest Grade For Each Student")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/highest-grade-for-each-student "Highest Grade For Each Student")
 
 ## [1111. Maximum Nesting Depth of Two Valid Parentheses Strings (Medium)](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings "有效括号的嵌套深度")
 
@@ -60,5 +60,5 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]

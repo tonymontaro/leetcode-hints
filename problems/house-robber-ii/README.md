@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-search-ii "Word Search II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-search-ii "Word Search II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome "Shortest Palindrome")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-palindrome "Shortest Palindrome")
 
 ## [213. House Robber II (Medium)](https://leetcode.com/problems/house-robber-ii "打家劫舍 II")
 
@@ -33,15 +33,15 @@
 &nbsp;            Total amount you can rob = 1 + 3 = 4.</pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
-  1. [Paint House](https://github.com/openset/leetcode/tree/master/problems/paint-house) (Easy)
-  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/problems/paint-fence) (Easy)
-  1. [House Robber III](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii) (Medium)
-  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) (Hard)
-  1. [Coin Path](https://github.com/openset/leetcode/tree/master/problems/coin-path) (Hard)
+  1. [House Robber](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/house-robber) (Easy)
+  1. [Paint House](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-house) (Easy)
+  1. [Paint Fence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-fence) (Easy)
+  1. [House Robber III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/house-robber-iii) (Medium)
+  1. [Non-negative Integers without Consecutive Ones](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/non-negative-integers-without-consecutive-ones) (Hard)
+  1. [Coin Path](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/coin-path) (Hard)
 
 ### Hints
 <details>

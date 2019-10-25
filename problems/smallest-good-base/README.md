@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/license-key-formatting "License Key Formatting")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/license-key-formatting "License Key Formatting")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-permutation "Find Permutation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-permutation "Find Permutation")
 
 ## [483. Smallest Good Base (Hard)](https://leetcode.com/problems/smallest-good-base "最小好进制")
 
@@ -55,5 +55,5 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]

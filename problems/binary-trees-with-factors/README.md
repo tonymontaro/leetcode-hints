@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/card-flipping-game "Card Flipping Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/card-flipping-game "Card Flipping Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/goat-latin "Goat Latin")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/goat-latin "Goat Latin")
 
 ## [823. Binary Trees With Factors (Medium)](https://leetcode.com/problems/binary-trees-with-factors "带因子的二叉树")
 

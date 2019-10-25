@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/before-and-after-puzzle "Before and After Puzzle")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/before-and-after-puzzle "Before and After Puzzle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-ones "Maximum Number of Ones")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-number-of-ones "Maximum Number of Ones")
 
 ## [1182. Shortest Distance to Target Color (Medium)](https://leetcode.com/problems/shortest-distance-to-target-color "与目标颜色间的最短距离")
 
 
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Hints
 <details>

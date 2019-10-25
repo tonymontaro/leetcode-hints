@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system "Design In-Memory File System")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-in-memory-file-system "Design In-Memory File System")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal "N-ary Tree Postorder Traversal")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-ary-tree-postorder-traversal "N-ary Tree Postorder Traversal")
 
 ## [589. N-ary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/n-ary-tree-preorder-traversal "N叉树的前序遍历")
 
@@ -30,9 +30,9 @@
 <p>Recursive solution is trivial, could you do it iteratively?</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-preorder-traversal) (Medium)
-  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal) (Easy)
-  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal) (Easy)
+  1. [Binary Tree Preorder Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-preorder-traversal) (Medium)
+  1. [N-ary Tree Level Order Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-ary-tree-level-order-traversal) (Easy)
+  1. [N-ary Tree Postorder Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-ary-tree-postorder-traversal) (Easy)

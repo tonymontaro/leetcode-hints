@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/product-price-at-a-given-date "Product Price at a Given Date")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/product-price-at-a-given-date "Product Price at a Given Date")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-file-system "Design File System")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-file-system "Design File System")
 
 ## [1165. Single-Row Keyboard (Easy)](https://leetcode.com/problems/single-row-keyboard "单行键盘")
 
 
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-cumulative-salary-of-an-employee "Find Cumulative Salary of an Employee")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-cumulative-salary-of-an-employee "Find Cumulative Salary of an Employee")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-unsorted-continuous-subarray "Shortest Unsorted Continuous Subarray")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-unsorted-continuous-subarray "Shortest Unsorted Continuous Subarray")
 
 ## [580. Count Student Number in Departments (Medium)](https://leetcode.com/problems/count-student-number-in-departments "统计各专业学生人数")
 

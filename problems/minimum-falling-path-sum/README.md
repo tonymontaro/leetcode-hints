@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-subarrays-with-sum "Binary Subarrays With Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-subarrays-with-sum "Binary Subarrays With Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/beautiful-array "Beautiful Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/beautiful-array "Beautiful Array")
 
 ## [931. Minimum Falling Path Sum (Medium)](https://leetcode.com/problems/minimum-falling-path-sum "下降路径最小和")
 
@@ -44,4 +44,4 @@ The possible falling paths are:
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

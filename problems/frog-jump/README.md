@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits "Remove K Digits")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-k-digits "Remove K Digits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-left-leaves "Sum of Left Leaves")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-left-leaves "Sum of Left Leaves")
 
 ## [403. Frog Jump (Hard)](https://leetcode.com/problems/frog-jump "青蛙过河")
 
@@ -52,4 +52,4 @@ the gap between the 5th and 6th stone is too large.
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

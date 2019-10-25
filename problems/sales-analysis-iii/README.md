@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-ii "Sales Analysis II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sales-analysis-ii "Sales Analysis II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number "Sum of Digits in the Minimum Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-digits-in-the-minimum-number "Sum of Digits in the Minimum Number")
 
 ## [1084. Sales Analysis III (Easy)](https://leetcode.com/problems/sales-analysis-iii "销售分析III")
 

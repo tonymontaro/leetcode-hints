@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/implement-strstr "Implement strStr()")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-strstr "Implement strStr()")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/substring-with-concatenation-of-all-words "Substring with Concatenation of All Words")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/substring-with-concatenation-of-all-words "Substring with Concatenation of All Words")
 
 ## [29. Divide Two Integers (Medium)](https://leetcode.com/problems/divide-two-integers "两数相除")
 
@@ -38,5 +38,5 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]

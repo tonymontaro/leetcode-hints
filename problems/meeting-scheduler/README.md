@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/missing-number-in-arithmetic-progression "Missing Number In Arithmetic Progression")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/missing-number-in-arithmetic-progression "Missing Number In Arithmetic Progression")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/toss-strange-coins "Toss Strange Coins")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/toss-strange-coins "Toss Strange Coins")
 
 ## [1229. Meeting Scheduler (Medium)](https://leetcode.com/problems/meeting-scheduler "安排会议日程")
 
 
 
 ### Related Topics
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[Line Sweep](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/line-sweep/README.md)]
 
 ### Hints
 <details>

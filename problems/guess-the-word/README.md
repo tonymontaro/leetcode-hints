@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence "Split Array into Fibonacci Sequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-array-into-fibonacci-sequence "Split Array into Fibonacci Sequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/backspace-string-compare "Backspace String Compare")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/backspace-string-compare "Backspace String Compare")
 
 ## [843. Guess the Word (Hard)](https://leetcode.com/problems/guess-the-word "猜猜这个单词")
 
@@ -41,4 +41,4 @@ We made 5 calls to&nbsp;master.guess and one of them was the secret, so we pass 
 <p><strong>Note:</strong>&nbsp; Any solutions that attempt to circumvent the judge&nbsp;will result in disqualification.</p>
 
 ### Related Topics
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
+  [[Minimax](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/minimax/README.md)]

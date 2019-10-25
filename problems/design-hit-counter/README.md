@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bomb-enemy "Bomb Enemy")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bomb-enemy "Bomb Enemy")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-sum-of-rectangle-no-larger-than-k "Max Sum of Rectangle No Larger Than K")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-sum-of-rectangle-no-larger-than-k "Max Sum of Rectangle No Larger Than K")
 
 ## [362. Design Hit Counter (Medium)](https://leetcode.com/problems/design-hit-counter "敲击计数器")
 
 
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [Logger Rate Limiter](https://github.com/openset/leetcode/tree/master/problems/logger-rate-limiter) (Easy)
+  1. [Logger Rate Limiter](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/logger-rate-limiter) (Easy)

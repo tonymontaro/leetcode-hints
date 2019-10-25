@@ -2,24 +2,24 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-median-from-data-stream "Find Median from Data Stream")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-median-from-data-stream "Find Median from Data Stream")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
 
 ## [296. Best Meeting Point (Hard)](https://leetcode.com/problems/best-meeting-point "最佳的碰头地点")
 
 
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Shortest Distance from All Buildings](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings) (Hard)
-  1. [Minimum Moves to Equal Array Elements II](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii) (Medium)
+  1. [Shortest Distance from All Buildings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-from-all-buildings) (Hard)
+  1. [Minimum Moves to Equal Array Elements II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-moves-to-equal-array-elements-ii) (Medium)
 
 ### Hints
 <details>

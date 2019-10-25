@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-derangement-of-an-array "Find the Derangement of An Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-derangement-of-an-array "Find the Derangement of An Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/exclusive-time-of-functions "Exclusive Time of Functions")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/exclusive-time-of-functions "Exclusive Time of Functions")
 
 ## [635. Design Log Storage System (Medium)](https://leetcode.com/problems/design-log-storage-system "设计日志存储系统")
 
 
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system) (Hard)
+  1. [Design In-Memory File System](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-in-memory-file-system) (Hard)

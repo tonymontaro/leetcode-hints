@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/possible-bipartition "Possible Bipartition")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/possible-bipartition "Possible Bipartition")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/fair-candy-swap "Fair Candy Swap")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fair-candy-swap "Fair Candy Swap")
 
 ## [887. Super Egg Drop (Hard)](https://leetcode.com/problems/super-egg-drop "鸡蛋掉落")
 
@@ -70,6 +70,6 @@ Hence, we needed 2 moves in the worst case to know what F is with certainty.
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

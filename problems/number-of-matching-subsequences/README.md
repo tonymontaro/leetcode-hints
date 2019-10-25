@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/custom-sort-string "Custom Sort String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/custom-sort-string "Custom Sort String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function "Preimage Size of Factorial Zeroes Function")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/preimage-size-of-factorial-zeroes-function "Preimage Size of Factorial Zeroes Function")
 
 ## [792. Number of Matching Subsequences (Medium)](https://leetcode.com/problems/number-of-matching-subsequences "匹配子序列的单词数")
 
@@ -32,7 +32,7 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/problems/is-subsequence) (Easy)
+  1. [Is Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/is-subsequence) (Easy)

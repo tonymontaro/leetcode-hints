@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii "Reverse Words in a String II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-words-in-a-string-ii "Reverse Words in a String II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iv "Best Time to Buy and Sell Stock IV")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-time-to-buy-and-sell-stock-iv "Best Time to Buy and Sell Stock IV")
 
 ## [187. Repeated DNA Sequences (Medium)](https://leetcode.com/problems/repeated-dna-sequences "重复的DNA序列")
 
@@ -24,5 +24,5 @@
 </pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/best-meeting-point "Best Meeting Point")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-meeting-point "Best Meeting Point")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence "Binary Tree Longest Consecutive Sequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-longest-consecutive-sequence "Binary Tree Longest Consecutive Sequence")
 
 ## [297. Serialize and Deserialize Binary Tree (Hard)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree "二叉树的序列化与反序列化")
 
@@ -34,11 +34,11 @@ as <code>&quot;[1,2,3,null,null,4,5]&quot;</code>
 <p><strong>Note:&nbsp;</strong>Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
-  1. [Serialize and Deserialize BST](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst) (Medium)
-  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees) (Medium)
-  1. [Serialize and Deserialize N-ary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-n-ary-tree) (Hard)
+  1. [Encode and Decode Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/encode-and-decode-strings) (Medium)
+  1. [Serialize and Deserialize BST](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/serialize-and-deserialize-bst) (Medium)
+  1. [Find Duplicate Subtrees](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-duplicate-subtrees) (Medium)
+  1. [Serialize and Deserialize N-ary Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/serialize-and-deserialize-n-ary-tree) (Hard)

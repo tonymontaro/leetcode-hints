@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/peak-index-in-a-mountain-array "Peak Index in a Mountain Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/peak-index-in-a-mountain-array "Peak Index in a Mountain Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings "K-Similar Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-similar-strings "K-Similar Strings")
 
 ## [853. Car Fleet (Medium)](https://leetcode.com/problems/car-fleet "车队")
 
@@ -52,4 +52,4 @@ Note that no other cars meet these fleets before the destination, so the answer 
 </ol>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]

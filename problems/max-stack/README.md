@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/range-module "Range Module")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-module "Range Module")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters "1-bit and 2-bit Characters")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/1-bit-and-2-bit-characters "1-bit and 2-bit Characters")
 
 ## [716. Max Stack (Easy)](https://leetcode.com/problems/max-stack "最大栈")
 
@@ -47,7 +47,7 @@ stack.top(); -> 5
 </p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [Min Stack](https://github.com/openset/leetcode/tree/master/problems/min-stack) (Easy)
+  1. [Min Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/min-stack) (Easy)

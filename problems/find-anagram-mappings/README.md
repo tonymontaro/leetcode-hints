@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/employee-free-time "Employee Free Time")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/employee-free-time "Employee Free Time")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/special-binary-string "Special Binary String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/special-binary-string "Special Binary String")
 
 ## [760. Find Anagram Mappings (Easy)](https://leetcode.com/problems/find-anagram-mappings "找出变位映射")
 
 
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Hints
 <details>

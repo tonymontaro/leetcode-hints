@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/last-person-to-fit-in-the-elevator "Last Person to Fit in the Elevator")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/last-person-to-fit-in-the-elevator "Last Person to Fit in the Elevator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-skiplist "Design Skiplist")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-skiplist "Design Skiplist")
 
 ## [1205. Monthly Transactions II (Medium)](https://leetcode.com/problems/monthly-transactions-ii "每月交易II")
 

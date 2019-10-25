@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero "Triples with Bitwise AND Equal To Zero")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/triples-with-bitwise-and-equal-to-zero "Triples with Bitwise AND Equal To Zero")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb "String Without AAA or BBB")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-without-aaa-or-bbb "String Without AAA or BBB")
 
 ## [983. Minimum Cost For Tickets (Medium)](https://leetcode.com/problems/minimum-cost-for-tickets "最低票价")
 
@@ -67,7 +67,7 @@ In total you spent $17 and covered all the days of your travel.
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Coin Change](https://github.com/openset/leetcode/tree/master/problems/coin-change) (Medium)
+  1. [Coin Change](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/coin-change) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sqrtx "Sqrt(x)")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sqrtx "Sqrt(x)")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/simplify-path "Simplify Path")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/simplify-path "Simplify Path")
 
 ## [70. Climbing Stairs (Easy)](https://leetcode.com/problems/climbing-stairs "爬楼梯")
 
@@ -39,12 +39,12 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Min Cost Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs) (Easy)
-  1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)
-  1. [N-th Tribonacci Number](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number) (Easy)
+  1. [Min Cost Climbing Stairs](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/min-cost-climbing-stairs) (Easy)
+  1. [Fibonacci Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fibonacci-number) (Easy)
+  1. [N-th Tribonacci Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-th-tribonacci-number) (Easy)
 
 ### Hints
 <details>

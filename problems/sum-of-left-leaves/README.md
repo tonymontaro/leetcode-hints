@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/frog-jump "Frog Jump")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/frog-jump "Frog Jump")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/convert-a-number-to-hexadecimal "Convert a Number to Hexadecimal")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/convert-a-number-to-hexadecimal "Convert a Number to Hexadecimal")
 
 ## [404. Sum of Left Leaves (Easy)](https://leetcode.com/problems/sum-of-left-leaves "左叶子之和")
 
@@ -26,4 +26,4 @@ There are two left leaves in the binary tree, with values <b>9</b> and <b>15</b>
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

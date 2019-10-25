@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/expressive-words "Expressive Words")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/expressive-words "Expressive Words")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subdomain-visit-count "Subdomain Visit Count")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subdomain-visit-count "Subdomain Visit Count")
 
 ## [810. Chalkboard XOR Game (Hard)](https://leetcode.com/problems/chalkboard-xor-game "黑板异或游戏")
 
@@ -38,4 +38,4 @@ If Alice erases 2 first, now nums becomes [1, 1]. The bitwise XOR of all the ele
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

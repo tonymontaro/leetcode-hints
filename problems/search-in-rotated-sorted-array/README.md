@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses "Longest Valid Parentheses")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-valid-parentheses "Longest Valid Parentheses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-first-and-last-position-of-element-in-sorted-array "Find First and Last Position of Element in Sorted Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-first-and-last-position-of-element-in-sorted-array "Find First and Last Position of Element in Sorted Array")
 
 ## [33. Search in Rotated Sorted Array (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array "搜索旋转排序数组")
 
@@ -35,9 +35,9 @@
 <strong>Output:</strong> -1</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Search in Rotated Sorted Array II](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array-ii) (Medium)
-  1. [Find Minimum in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array) (Medium)
+  1. [Search in Rotated Sorted Array II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-in-rotated-sorted-array-ii) (Medium)
+  1. [Find Minimum in Rotated Sorted Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-minimum-in-rotated-sorted-array) (Medium)

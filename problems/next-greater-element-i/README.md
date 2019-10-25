@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking "Teemo Attacking")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/teemo-attacking "Teemo Attacking")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles "Random Point in Non-overlapping Rectangles")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-point-in-non-overlapping-rectangles "Random Point in Non-overlapping Rectangles")
 
 ## [496. Next Greater Element I (Easy)](https://leetcode.com/problems/next-greater-element-i "下一个更大元素 I")
 
@@ -49,9 +49,9 @@ The Next Greater Number of a number <b>x</b> in <code>nums1</code> is the first 
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
 
 ### Similar Questions
-  1. [Next Greater Element II](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii) (Medium)
-  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii) (Medium)
-  1. [Daily Temperatures](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures) (Medium)
+  1. [Next Greater Element II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-greater-element-ii) (Medium)
+  1. [Next Greater Element III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-greater-element-iii) (Medium)
+  1. [Daily Temperatures](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/daily-temperatures) (Medium)

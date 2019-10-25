@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bulls-and-cows "Bulls and Cows")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bulls-and-cows "Bulls and Cows")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses "Remove Invalid Parentheses")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-invalid-parentheses "Remove Invalid Parentheses")
 
 ## [300. Longest Increasing Subsequence (Medium)](https://leetcode.com/problems/longest-increasing-subsequence "最长上升子序列")
 
@@ -30,12 +30,12 @@
 <p><b>Follow up:</b> Could you improve it to O(<i>n</i> log <i>n</i>) time complexity?</p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Increasing Triplet Subsequence](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence) (Medium)
-  1. [Russian Doll Envelopes](https://github.com/openset/leetcode/tree/master/problems/russian-doll-envelopes) (Hard)
-  1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain) (Medium)
-  1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence) (Medium)
-  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)
+  1. [Increasing Triplet Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/increasing-triplet-subsequence) (Medium)
+  1. [Russian Doll Envelopes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/russian-doll-envelopes) (Hard)
+  1. [Maximum Length of Pair Chain](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-length-of-pair-chain) (Medium)
+  1. [Number of Longest Increasing Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-longest-increasing-subsequence) (Medium)
+  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)

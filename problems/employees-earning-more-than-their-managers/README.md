@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers "Consecutive Numbers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/consecutive-numbers "Consecutive Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/duplicate-emails "Duplicate Emails")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/duplicate-emails "Duplicate Emails")
 
 ## [181. Employees Earning More Than Their Managers (Easy)](https://leetcode.com/problems/employees-earning-more-than-their-managers "超过经理收入的员工")
 

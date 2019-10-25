@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/department-highest-salary "Department Highest Salary")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/department-highest-salary "Department Highest Salary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii "Reverse Words in a String II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-words-in-a-string-ii "Reverse Words in a String II")
 
 ## [185. Department Top Three Salaries (Hard)](https://leetcode.com/problems/department-top-three-salaries "部门工资前三高的所有员工")
 

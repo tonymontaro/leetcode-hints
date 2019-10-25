@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-i "Sales Analysis I")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sales-analysis-i "Sales Analysis I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-iii "Sales Analysis III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sales-analysis-iii "Sales Analysis III")
 
 ## [1083. Sales Analysis II (Easy)](https://leetcode.com/problems/sales-analysis-ii "销售分析 II")
 

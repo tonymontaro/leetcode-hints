@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/project-employees-ii "Project Employees II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/project-employees-ii "Project Employees II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/occurrences-after-bigram "Occurrences After Bigram")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/occurrences-after-bigram "Occurrences After Bigram")
 
 ## [1077. Project Employees III (Medium)](https://leetcode.com/problems/project-employees-iii "项目员工 III")
 

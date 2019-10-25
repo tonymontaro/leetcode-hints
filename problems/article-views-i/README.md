@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-chunked-palindrome-decomposition "Longest Chunked Palindrome Decomposition")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-chunked-palindrome-decomposition "Longest Chunked Palindrome Decomposition")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/article-views-ii "Article Views II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/article-views-ii "Article Views II")
 
 ## [1148. Article Views I (Easy)](https://leetcode.com/problems/article-views-i "")
 

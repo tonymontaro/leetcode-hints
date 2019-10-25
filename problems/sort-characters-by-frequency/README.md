@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-bst "Delete Node in a BST")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-node-in-a-bst "Delete Node in a BST")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-arrows-to-burst-balloons "Minimum Number of Arrows to Burst Balloons")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-number-of-arrows-to-burst-balloons "Minimum Number of Arrows to Burst Balloons")
 
 ## [451. Sort Characters By Frequency (Medium)](https://leetcode.com/problems/sort-characters-by-frequency "根据字符出现频率排序")
 
@@ -56,9 +56,9 @@ Note that 'A' and 'a' are treated as two different characters.
 </p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)
-  1. [First Unique Character in a String](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string) (Easy)
+  1. [Top K Frequent Elements](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/top-k-frequent-elements) (Medium)
+  1. [First Unique Character in a String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/first-unique-character-in-a-string) (Easy)

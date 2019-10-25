@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector "Flatten 2D Vector")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flatten-2d-vector "Flatten 2D Vector")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii "Meeting Rooms II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/meeting-rooms-ii "Meeting Rooms II")
 
 ## [252. Meeting Rooms (Easy)](https://leetcode.com/problems/meeting-rooms "会议室")
 
 
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii) (Medium)
+  1. [Merge Intervals](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-intervals) (Medium)
+  1. [Meeting Rooms II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/meeting-rooms-ii) (Medium)

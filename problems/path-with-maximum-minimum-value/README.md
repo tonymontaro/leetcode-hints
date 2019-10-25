@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/the-earliest-moment-when-everyone-become-friends "The Earliest Moment When Everyone Become Friends")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-earliest-moment-when-everyone-become-friends "The Earliest Moment When Everyone Become Friends")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/distribute-candies-to-people "Distribute Candies to People")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/distribute-candies-to-people "Distribute Candies to People")
 
 ## [1102. Path With Maximum Minimum Value (Medium)](https://leetcode.com/problems/path-with-maximum-minimum-value "得分最高的路径")
 
@@ -56,9 +56,9 @@ The path with the maximum score is highlighted in yellow.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Hints
 <details>

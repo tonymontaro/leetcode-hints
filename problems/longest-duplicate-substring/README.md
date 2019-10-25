@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum "Partition Array for Maximum Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/partition-array-for-maximum-sum "Partition Array for Maximum Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/customers-who-bought-all-products "Customers Who Bought All Products")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/customers-who-bought-all-products "Customers Who Bought All Products")
 
 ## [1044. Longest Duplicate Substring (Hard)](https://leetcode.com/problems/longest-duplicate-substring "最长重复子串")
 
@@ -41,8 +41,8 @@
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Hints
 <details>

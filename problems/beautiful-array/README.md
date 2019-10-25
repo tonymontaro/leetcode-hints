@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-falling-path-sum "Minimum Falling Path Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-falling-path-sum "Minimum Falling Path Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-recent-calls "Number of Recent Calls")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-recent-calls "Number of Recent Calls")
 
 ## [932. Beautiful Array (Medium)](https://leetcode.com/problems/beautiful-array "漂亮数组")
 
@@ -47,4 +47,4 @@
 </div>
 
 ### Related Topics
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]

@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-substrings-with-only-one-distinct-letter "Count Substrings with Only One Distinct Letter")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-substrings-with-only-one-distinct-letter "Count Substrings with Only One Distinct Letter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-target-color "Shortest Distance to Target Color")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-to-target-color "Shortest Distance to Target Color")
 
 ## [1181. Before and After Puzzle (Medium)](https://leetcode.com/problems/before-and-after-puzzle "前后拼接")
 
 
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

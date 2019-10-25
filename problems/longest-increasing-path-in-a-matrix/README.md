@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list "Odd Even Linked List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/odd-even-linked-list "Odd Even Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/patching-array "Patching Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/patching-array "Patching Array")
 
 ## [329. Longest Increasing Path in a Matrix (Hard)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix "矩阵中的最长递增路径")
 
@@ -42,6 +42,6 @@
 </pre>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
-  [[Memoization](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Topological Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/topological-sort/README.md)]
+  [[Memoization](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/memoization/README.md)]

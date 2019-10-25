@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/human-traffic-of-stadium "Human Traffic of Stadium")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/human-traffic-of-stadium "Human Traffic of Stadium")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/consecutive-available-seats "Consecutive Available Seats")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/consecutive-available-seats "Consecutive Available Seats")
 
 ## [602. Friend Requests II: Who Has the Most Friends (Medium)](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends "好友申请 II ：谁有最多的好友")
 

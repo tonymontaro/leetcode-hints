@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/distance-between-bus-stops "Distance Between Bus Stops")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/distance-between-bus-stops "Distance Between Bus Stops")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray-sum-with-one-deletion "Maximum Subarray Sum with One Deletion")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-subarray-sum-with-one-deletion "Maximum Subarray Sum with One Deletion")
 
 ## [1185. Day of the Week (Easy)](https://leetcode.com/problems/day-of-the-week "一周中的第几天")
 
@@ -47,7 +47,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

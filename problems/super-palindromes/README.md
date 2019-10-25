@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity "Sort Array By Parity")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-array-by-parity "Sort Array By Parity")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-subarray-minimums "Sum of Subarray Minimums")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-subarray-minimums "Sum of Subarray Minimums")
 
 ## [906. Super Palindromes (Hard)](https://leetcode.com/problems/super-palindromes "超级回文数")
 
@@ -41,4 +41,4 @@ Note that 676 is not a superpalindrome: 26 * 26 = 676, but 26 is not a palindrom
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

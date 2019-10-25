@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-completing-word "Shortest Completing Word")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-completing-word "Shortest Completing Word")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-corner-rectangles "Number Of Corner Rectangles")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-corner-rectangles "Number Of Corner Rectangles")
 
 ## [749. Contain Virus (Hard)](https://leetcode.com/problems/contain-virus "隔离病毒")
 
@@ -75,7 +75,7 @@ Notice that walls are only built on the shared boundary of two different cells.
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

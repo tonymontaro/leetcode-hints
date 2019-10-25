@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/map-sum-pairs "Map Sum Pairs")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/map-sum-pairs "Map Sum Pairs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/24-game "24 Game")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/24-game "24 Game")
 
 ## [678. Valid Parenthesis String (Medium)](https://leetcode.com/problems/valid-parenthesis-string "有效的括号字符串")
 
@@ -50,7 +50,7 @@ Given a string containing only three types of characters: '(', ')' and '*', writ
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Special Binary String](https://github.com/openset/leetcode/tree/master/problems/special-binary-string) (Hard)
+  1. [Special Binary String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/special-binary-string) (Hard)

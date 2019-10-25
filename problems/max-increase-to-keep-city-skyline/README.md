@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-lines-to-write-string "Number of Lines To Write String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-lines-to-write-string "Number of Lines To Write String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/soup-servings "Soup Servings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/soup-servings "Soup Servings")
 
 ## [807. Max Increase to Keep City Skyline (Medium)](https://leetcode.com/problems/max-increase-to-keep-city-skyline "保持城市天际线")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/super-palindromes "Super Palindromes")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/super-palindromes "Super Palindromes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-range-i "Smallest Range I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-range-i "Smallest Range I")
 
 ## [907. Sum of Subarray Minimums (Medium)](https://leetcode.com/problems/sum-of-subarray-minimums "子数组的最小值之和")
 
@@ -39,5 +39,5 @@ Minimums are 3, 1, 2, 4, 1, 1, 2, 1, 1, 1.&nbsp; Sum is 17.</pre>
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

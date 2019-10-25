@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers "Sum of Two Integers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-two-integers "Sum of Two Integers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums "Find K Pairs with Smallest Sums")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-k-pairs-with-smallest-sums "Find K Pairs with Smallest Sums")
 
 ## [372. Super Pow (Medium)](https://leetcode.com/problems/super-pow "超级次方")
 
@@ -32,7 +32,7 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Pow(x, n)](https://github.com/openset/leetcode/tree/master/problems/powx-n) (Medium)
+  1. [Pow(x, n)](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/powx-n) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching "Wildcard Matching")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wildcard-matching "Wildcard Matching")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/permutations "Permutations")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations "Permutations")
 
 ## [45. Jump Game II (Hard)](https://leetcode.com/problems/jump-game-ii "跳跃游戏 II")
 
@@ -30,8 +30,8 @@
 <p>You can assume that you can always reach the last index.</p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Jump Game](https://github.com/openset/leetcode/tree/master/problems/jump-game) (Medium)
+  1. [Jump Game](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/jump-game) (Medium)

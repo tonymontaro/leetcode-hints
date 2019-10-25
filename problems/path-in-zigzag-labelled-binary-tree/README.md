@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/distribute-candies-to-people "Distribute Candies to People")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/distribute-candies-to-people "Distribute Candies to People")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/filling-bookcase-shelves "Filling Bookcase Shelves")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/filling-bookcase-shelves "Filling Bookcase Shelves")
 
 ## [1104. Path In Zigzag Labelled Binary Tree (Medium)](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree "二叉树寻路")
 
@@ -42,8 +42,8 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

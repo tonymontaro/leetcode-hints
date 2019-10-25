@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/patching-array "Patching Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/patching-array "Patching Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reconstruct-itinerary "Reconstruct Itinerary")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reconstruct-itinerary "Reconstruct Itinerary")
 
 ## [331. Verify Preorder Serialization of a Binary Tree (Medium)](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree "验证二叉树的前序序列化")
 
@@ -51,4 +51,4 @@
 <strong>Output: </strong><code>false</code></pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]

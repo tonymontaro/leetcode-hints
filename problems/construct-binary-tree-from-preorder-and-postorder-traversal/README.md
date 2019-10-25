@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fair-candy-swap "Fair Candy Swap")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fair-candy-swap "Fair Candy Swap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-pattern "Find and Replace Pattern")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-and-replace-pattern "Find and Replace Pattern")
 
 ## [889. Construct Binary Tree from Preorder and Postorder Traversal (Medium)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal "根据前序和后序遍历构造二叉树")
 
@@ -37,4 +37,4 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

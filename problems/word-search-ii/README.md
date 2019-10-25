@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii "House Robber II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/house-robber-ii "House Robber II")
 
 ## [212. Word Search II (Hard)](https://leetcode.com/problems/word-search-ii "单词搜索 II")
 
@@ -42,12 +42,12 @@
 </ol>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Trie](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/trie/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Search](https://github.com/openset/leetcode/tree/master/problems/word-search) (Medium)
-  1. [Unique Paths III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) (Hard)
+  1. [Word Search](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-search) (Medium)
+  1. [Unique Paths III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-paths-iii) (Hard)
 
 ### Hints
 <details>

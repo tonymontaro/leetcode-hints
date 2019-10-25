@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/the-maze-ii "The Maze II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-maze-ii "The Maze II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/perfect-number "Perfect Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/perfect-number "Perfect Number")
 
 ## [506. Relative Ranks (Easy)](https://leetcode.com/problems/relative-ranks "相对名次")
 

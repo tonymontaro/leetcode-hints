@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii "Reverse String II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-string-ii "Reverse String II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/diameter-of-binary-tree "Diameter of Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/diameter-of-binary-tree "Diameter of Binary Tree")
 
 ## [542. 01 Matrix (Medium)](https://leetcode.com/problems/01-matrix "01 矩阵")
 
@@ -56,5 +56,5 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fixed-point "Fixed Point")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fixed-point "Fixed Point")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii "Campus Bikes II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/campus-bikes-ii "Campus Bikes II")
 
 ## [1065. Index Pairs of a String (Easy)](https://leetcode.com/problems/index-pairs-of-a-string "字符串的索引对")
 
@@ -45,8 +45,8 @@ Notice that matches can overlap, see &quot;aba&quot; is found in [0,2] and [2,4]
 </ol>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Trie](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/trie/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

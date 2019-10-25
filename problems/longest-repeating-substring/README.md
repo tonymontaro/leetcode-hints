@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lexicographically-smallest-equivalent-string "Lexicographically Smallest Equivalent String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lexicographically-smallest-equivalent-string "Lexicographically Smallest Equivalent String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-subarrays "Number of Valid Subarrays")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-valid-subarrays "Number of Valid Subarrays")
 
 ## [1062. Longest Repeating Substring (Medium)](https://leetcode.com/problems/longest-repeating-substring "最长重复子串")
 
@@ -57,7 +57,7 @@
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

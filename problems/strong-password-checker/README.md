@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/battleships-in-a-board "Battleships in a Board")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/battleships-in-a-board "Battleships in a Board")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-xor-of-two-numbers-in-an-array "Maximum XOR of Two Numbers in an Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-xor-of-two-numbers-in-an-array "Maximum XOR of Two Numbers in an Array")
 
 ## [420. Strong Password Checker (Hard)](https://leetcode.com/problems/strong-password-checker "强密码检验器")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/evaluate-division "Evaluate Division")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/evaluate-division "Evaluate Division")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-watch "Binary Watch")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-watch "Binary Watch")
 
 ## [400. Nth Digit (Medium)](https://leetcode.com/problems/nth-digit "第N个数字")
 
@@ -41,4 +41,4 @@ The 11th digit of the sequence 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ... is a 0, wh
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

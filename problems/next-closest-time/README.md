@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-ii "Valid Palindrome II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-palindrome-ii "Valid Palindrome II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/baseball-game "Baseball Game")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/baseball-game "Baseball Game")
 
 ## [681. Next Closest Time (Medium)](https://leetcode.com/problems/next-closest-time "最近时刻")
 
 
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

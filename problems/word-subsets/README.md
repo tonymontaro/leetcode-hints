@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-disjoint-intervals "Partition Array into Disjoint Intervals")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/partition-array-into-disjoint-intervals "Partition Array into Disjoint Intervals")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-only-letters "Reverse Only Letters")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-only-letters "Reverse Only Letters")
 
 ## [916. Word Subsets (Medium)](https://leetcode.com/problems/word-subsets "单词子集")
 
@@ -81,4 +81,4 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

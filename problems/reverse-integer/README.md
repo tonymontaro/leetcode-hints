@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/zigzag-conversion "ZigZag Conversion")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/zigzag-conversion "ZigZag Conversion")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi "String to Integer (atoi)")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-to-integer-atoi "String to Integer (atoi)")
 
 ## [7. Reverse Integer (Easy)](https://leetcode.com/problems/reverse-integer "整数反转")
 
@@ -38,8 +38,8 @@
 Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi) (Medium)
-  1. [Reverse Bits](https://github.com/openset/leetcode/tree/master/problems/reverse-bits) (Easy)
+  1. [String to Integer (atoi)](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-to-integer-atoi) (Medium)
+  1. [Reverse Bits](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-bits) (Easy)

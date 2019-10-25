@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reach-a-number "Reach a Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reach-a-number "Reach a Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/pyramid-transition-matrix "Pyramid Transition Matrix")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/pyramid-transition-matrix "Pyramid Transition Matrix")
 
 ## [755. Pour Water (Medium)](https://leetcode.com/problems/pour-water "倒水")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water) (Hard)
+  1. [Trapping Rain Water](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/trapping-rain-water) (Hard)

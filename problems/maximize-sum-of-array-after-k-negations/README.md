@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii "Max Consecutive Ones III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-consecutive-ones-iii "Max Consecutive Ones III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/clumsy-factorial "Clumsy Factorial")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/clumsy-factorial "Clumsy Factorial")
 
 ## [1005. Maximize Sum Of Array After K Negations (Easy)](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations "K 次取反后最大化的数组和")
 
@@ -56,4 +56,4 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]

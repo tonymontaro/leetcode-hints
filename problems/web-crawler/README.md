@@ -2,10 +2,10 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling "Maximum Profit in Job Scheduling")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-profit-in-job-scheduling "Maximum Profit in Job Scheduling")
 　　　　　　　　　　　　　　　　
 Next >
 

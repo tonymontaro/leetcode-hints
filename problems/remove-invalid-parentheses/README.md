@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence "Longest Increasing Subsequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-increasing-subsequence "Longest Increasing Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-rectangle-enclosing-black-pixels "Smallest Rectangle Enclosing Black Pixels")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-rectangle-enclosing-black-pixels "Smallest Rectangle Enclosing Black Pixels")
 
 ## [301. Remove Invalid Parentheses (Hard)](https://leetcode.com/problems/remove-invalid-parentheses "删除无效的括号")
 
@@ -37,11 +37,11 @@
 </pre>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) (Easy)
+  1. [Valid Parentheses](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-parentheses) (Easy)
 
 ### Hints
 <details>

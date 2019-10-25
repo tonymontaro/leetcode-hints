@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string "Remove Vowels from a String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-vowels-from-a-string "Remove Vowels from a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/divide-array-into-increasing-sequences "Divide Array Into Increasing Sequences")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/divide-array-into-increasing-sequences "Divide Array Into Increasing Sequences")
 
 ## [1120. Maximum Average Subtree (Medium)](https://leetcode.com/problems/maximum-average-subtree "子树的最大平均值")
 
 
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Hints
 <details>

@@ -2,17 +2,17 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-xor-of-two-numbers-in-an-array "Maximum XOR of Two Numbers in an Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-xor-of-two-numbers-in-an-array "Maximum XOR of Two Numbers in an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reconstruct-original-digits-from-english "Reconstruct Original Digits from English")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reconstruct-original-digits-from-english "Reconstruct Original Digits from English")
 
 ## [422. Valid Word Square (Easy)](https://leetcode.com/problems/valid-word-square "有效的单词方块")
 
 
 
 ### Similar Questions
-  1. [Word Squares](https://github.com/openset/leetcode/tree/master/problems/word-squares) (Hard)
-  1. [Toeplitz Matrix](https://github.com/openset/leetcode/tree/master/problems/toeplitz-matrix) (Easy)
+  1. [Word Squares](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-squares) (Hard)
+  1. [Toeplitz Matrix](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/toeplitz-matrix) (Easy)

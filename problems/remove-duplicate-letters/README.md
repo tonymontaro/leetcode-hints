@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self "Count of Smaller Numbers After Self")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-of-smaller-numbers-after-self "Count of Smaller Numbers After Self")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings "Shortest Distance from All Buildings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-from-all-buildings "Shortest Distance from All Buildings")
 
 ## [316. Remove Duplicate Letters (Hard)](https://leetcode.com/problems/remove-duplicate-letters "去除重复字母")
 
@@ -28,5 +28,5 @@
 </pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]

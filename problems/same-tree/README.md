@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/recover-binary-search-tree "Recover Binary Search Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/recover-binary-search-tree "Recover Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/symmetric-tree "Symmetric Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/symmetric-tree "Symmetric Tree")
 
 ## [100. Same Tree (Easy)](https://leetcode.com/problems/same-tree "相同的树")
 
@@ -52,5 +52,5 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]

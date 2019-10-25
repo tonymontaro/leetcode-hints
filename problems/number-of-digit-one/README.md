@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/implement-queue-using-stacks "Implement Queue using Stacks")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-queue-using-stacks "Implement Queue using Stacks")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list "Palindrome Linked List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-linked-list "Palindrome Linked List")
 
 ## [233. Number of Digit One (Hard)](https://leetcode.com/problems/number-of-digit-one "数字 1 的个数")
 
@@ -22,11 +22,11 @@
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes) (Easy)
-  1. [Digit Count in Range](https://github.com/openset/leetcode/tree/master/problems/digit-count-in-range) (Hard)
+  1. [Factorial Trailing Zeroes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/factorial-trailing-zeroes) (Easy)
+  1. [Digit Count in Range](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/digit-count-in-range) (Hard)
 
 ### Hints
 <details>

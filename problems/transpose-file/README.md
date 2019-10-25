@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-phone-numbers "Valid Phone Numbers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-phone-numbers "Valid Phone Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tenth-line "Tenth Line")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/tenth-line "Tenth Line")
 
 ## [194. Transpose File (Medium)](https://leetcode.com/problems/transpose-file "转置文件")
 

@@ -2,21 +2,21 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicate-letters "Remove Duplicate Letters")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicate-letters "Remove Duplicate Letters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-word-lengths "Maximum Product of Word Lengths")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-product-of-word-lengths "Maximum Product of Word Lengths")
 
 ## [317. Shortest Distance from All Buildings (Hard)](https://leetcode.com/problems/shortest-distance-from-all-buildings "离建筑物最近的距离")
 
 
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates) (Medium)
-  1. [Best Meeting Point](https://github.com/openset/leetcode/tree/master/problems/best-meeting-point) (Hard)
-  1. [As Far from Land as Possible](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible) (Medium)
+  1. [Walls and Gates](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/walls-and-gates) (Medium)
+  1. [Best Meeting Point](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-meeting-point) (Hard)
+  1. [As Far from Land as Possible](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/as-far-from-land-as-possible) (Medium)

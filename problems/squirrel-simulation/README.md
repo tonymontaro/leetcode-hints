@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree "Subtree of Another Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subtree-of-another-tree "Subtree of Another Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/winning-candidate "Winning Candidate")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/winning-candidate "Winning Candidate")
 
 ## [573. Squirrel Simulation (Medium)](https://leetcode.com/problems/squirrel-simulation "松鼠模拟")
 
@@ -36,7 +36,7 @@ Nuts : [[3,0], [2,5]]
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

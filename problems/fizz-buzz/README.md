@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation "Minimum Unique Word Abbreviation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-unique-word-abbreviation "Minimum Unique Word Abbreviation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices "Arithmetic Slices")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/arithmetic-slices "Arithmetic Slices")
 
 ## [412. Fizz Buzz (Easy)](https://leetcode.com/problems/fizz-buzz "Fizz Buzz")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive "First Missing Positive")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/first-missing-positive "First Missing Positive")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/multiply-strings "Multiply Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/multiply-strings "Multiply Strings")
 
 ## [42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water "接雨水")
 
@@ -23,12 +23,12 @@
 <strong>Output:</strong> 6</pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Container With Most Water](https://github.com/openset/leetcode/tree/master/problems/container-with-most-water) (Medium)
-  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self) (Medium)
-  1. [Trapping Rain Water II](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water-ii) (Hard)
-  1. [Pour Water](https://github.com/openset/leetcode/tree/master/problems/pour-water) (Medium)
+  1. [Container With Most Water](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/container-with-most-water) (Medium)
+  1. [Product of Array Except Self](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/product-of-array-except-self) (Medium)
+  1. [Trapping Rain Water II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/trapping-rain-water-ii) (Hard)
+  1. [Pour Water](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/pour-water) (Medium)

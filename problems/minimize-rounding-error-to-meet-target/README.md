@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/campus-bikes "Campus Bikes")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/campus-bikes "Campus Bikes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-lead-to-destination "All Paths from Source Lead to Destination")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/all-paths-from-source-lead-to-destination "All Paths from Source Lead to Destination")
 
 ## [1058. Minimize Rounding Error to Meet Target (Medium)](https://leetcode.com/problems/minimize-rounding-error-to-meet-target "最小化舍入误差以满足目标")
 
@@ -46,9 +46,9 @@ It is impossible to meet the target.
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

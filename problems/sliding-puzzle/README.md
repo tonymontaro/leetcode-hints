@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii "Basic Calculator III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/basic-calculator-iii "Basic Calculator III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
 
 ## [773. Sliding Puzzle (Hard)](https://leetcode.com/problems/sliding-puzzle "滑动谜题")
 
@@ -59,7 +59,7 @@ After move 5: [[1,2,3],[4,5,0]]
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

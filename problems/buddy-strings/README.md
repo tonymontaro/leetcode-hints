@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/mirror-reflection "Mirror Reflection")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/mirror-reflection "Mirror Reflection")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lemonade-change "Lemonade Change")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lemonade-change "Lemonade Change")
 
 ## [859. Buddy Strings (Easy)](https://leetcode.com/problems/buddy-strings "亲密字符串")
 
@@ -71,4 +71,4 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

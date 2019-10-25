@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-list-to-binary-search-tree "Convert Sorted List to Binary Search Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/convert-sorted-list-to-binary-search-tree "Convert Sorted List to Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-depth-of-binary-tree "Minimum Depth of Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-depth-of-binary-tree "Minimum Depth of Binary Tree")
 
 ## [110. Balanced Binary Tree (Easy)](https://leetcode.com/problems/balanced-binary-tree "平衡二叉树")
 
@@ -51,8 +51,8 @@
 <p>Return false.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree) (Easy)
+  1. [Maximum Depth of Binary Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-depth-of-binary-tree) (Easy)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > Map
+## [话题分类](https://github.com/tonymontaro/leetcode-hints/blob/master/tag/README.md) > Map
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 855 | [考场就座](https://github.com/openset/leetcode/tree/master/problems/exam-room) | [[Map](https://github.com/openset/leetcode/tree/master/tag/map/README.md)]  | Medium |
-| 846 | [一手顺子](https://github.com/openset/leetcode/tree/master/problems/hand-of-straights) | [[Map](https://github.com/openset/leetcode/tree/master/tag/map/README.md)]  | Medium |
+| 855 | [考场就座](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/exam-room) | [[Map](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/map/README.md)]  | Medium |
+| 846 | [一手顺子](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/hand-of-straights) | [[Map](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/map/README.md)]  | Medium |

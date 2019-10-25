@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flower-planting-with-no-adjacent "Flower Planting With No Adjacent")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flower-planting-with-no-adjacent "Flower Planting With No Adjacent")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring "Longest Duplicate Substring")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-duplicate-substring "Longest Duplicate Substring")
 
 ## [1043. Partition Array for Maximum Sum (Medium)](https://leetcode.com/problems/partition-array-for-maximum-sum "分隔数组以得到最大和")
 
@@ -34,7 +34,7 @@
 </ol>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Hints
 <details>

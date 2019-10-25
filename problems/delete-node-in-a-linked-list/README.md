@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-tree "Lowest Common Ancestor of a Binary Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lowest-common-ancestor-of-a-binary-tree "Lowest Common Ancestor of a Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self "Product of Array Except Self")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/product-of-array-except-self "Product of Array Except Self")
 
 ## [237. Delete Node in a Linked List (Easy)](https://leetcode.com/problems/delete-node-in-a-linked-list "删除链表中的节点")
 
@@ -47,7 +47,7 @@
 </ul>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements) (Easy)
+  1. [Remove Linked List Elements](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-linked-list-elements) (Easy)

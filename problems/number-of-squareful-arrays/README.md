@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips "Minimum Number of K Consecutive Bit Flips")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-number-of-k-consecutive-bit-flips "Minimum Number of K Consecutive Bit Flips")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge "Find the Town Judge")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-town-judge "Find the Town Judge")
 
 ## [996. Number of Squareful Arrays (Hard)](https://leetcode.com/problems/number-of-squareful-arrays "正方形数组的数目")
 
@@ -43,9 +43,9 @@
 </ol>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Permutations II](https://github.com/openset/leetcode/tree/master/problems/permutations-ii) (Medium)
+  1. [Permutations II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations-ii) (Medium)

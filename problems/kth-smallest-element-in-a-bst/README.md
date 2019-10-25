@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii "Majority Element II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/majority-element-ii "Majority Element II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/power-of-two "Power of Two")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/power-of-two "Power of Two")
 
 ## [230. Kth Smallest Element in a BST (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst "二叉搜索树中第K小的元素")
 
@@ -45,12 +45,12 @@ You may assume k is always valid, 1 &le; k &le; BST&#39;s total elements.</p>
 What if the BST is modified (insert/delete operations) often and you need to find the kth smallest frequently? How would you optimize the kthSmallest routine?</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
-  1. [Second Minimum Node In a Binary Tree](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree) (Easy)
+  1. [Binary Tree Inorder Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-inorder-traversal) (Medium)
+  1. [Second Minimum Node In a Binary Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/second-minimum-node-in-a-binary-tree) (Easy)
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/cheapest-flights-within-k-stops "Cheapest Flights Within K Stops")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/cheapest-flights-within-k-stops "Cheapest Flights Within K Stops")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/escape-the-ghosts "Escape The Ghosts")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/escape-the-ghosts "Escape The Ghosts")
 
 ## [788. Rotated Digits (Easy)](https://leetcode.com/problems/rotated-digits "旋转数字")
 
@@ -33,4 +33,4 @@ Note that 1 and 10 are not good numbers, since they remain unchanged after rotat
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

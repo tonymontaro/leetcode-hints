@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary "Longest Word in Dictionary")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-word-in-dictionary "Longest Word in Dictionary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-comments "Remove Comments")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-comments "Remove Comments")
 
 ## [721. Accounts Merge (Medium)](https://leetcode.com/problems/accounts-merge "账户合并")
 
@@ -37,13 +37,13 @@ We could return these lists in any order, for example the answer [['Mary', 'mary
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
 
 ### Similar Questions
-  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) (Medium)
-  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity) (Easy)
-  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii) (Medium)
+  1. [Redundant Connection](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/redundant-connection) (Medium)
+  1. [Sentence Similarity](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sentence-similarity) (Easy)
+  1. [Sentence Similarity II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sentence-similarity-ii) (Medium)
 
 ### Hints
 <details>

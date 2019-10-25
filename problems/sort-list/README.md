@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list "Insertion Sort List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insertion-sort-list "Insertion Sort List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-points-on-a-line "Max Points on a Line")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-points-on-a-line "Max Points on a Line")
 
 ## [148. Sort List (Medium)](https://leetcode.com/problems/sort-list "排序链表")
 
@@ -27,10 +27,10 @@
 <strong>Output:</strong> -1-&gt;0-&gt;3-&gt;4-&gt;5</pre>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)
-  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/problems/sort-colors) (Medium)
-  1. [Insertion Sort List](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list) (Medium)
+  1. [Merge Two Sorted Lists](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-two-sorted-lists) (Easy)
+  1. [Sort Colors](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-colors) (Medium)
+  1. [Insertion Sort List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insertion-sort-list) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii "Unique Paths II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-paths-ii "Unique Paths II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-number "Valid Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-number "Valid Number")
 
 ## [64. Minimum Path Sum (Medium)](https://leetcode.com/problems/minimum-path-sum "最小路径和")
 
@@ -29,10 +29,10 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
-  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/problems/dungeon-game) (Hard)
-  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup) (Hard)
+  1. [Unique Paths](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-paths) (Medium)
+  1. [Dungeon Game](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/dungeon-game) (Hard)
+  1. [Cherry Pickup](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/cherry-pickup) (Hard)

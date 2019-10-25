@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-number-at-least-twice-of-others "Largest Number At Least Twice of Others")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-number-at-least-twice-of-others "Largest Number At Least Twice of Others")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/contain-virus "Contain Virus")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contain-virus "Contain Virus")
 
 ## [748. Shortest Completing Word (Easy)](https://leetcode.com/problems/shortest-completing-word "最短完整词")
 
@@ -50,7 +50,7 @@ We return the one that occurred first.
 </p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Hints
 <details>

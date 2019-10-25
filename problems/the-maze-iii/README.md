@@ -2,21 +2,21 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/diagonal-traverse "Diagonal Traverse")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/diagonal-traverse "Diagonal Traverse")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/keyboard-row "Keyboard Row")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/keyboard-row "Keyboard Row")
 
 ## [499. The Maze III (Hard)](https://leetcode.com/problems/the-maze-iii "迷宫 III")
 
 
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [The Maze](https://github.com/openset/leetcode/tree/master/problems/the-maze) (Medium)
-  1. [The Maze II](https://github.com/openset/leetcode/tree/master/problems/the-maze-ii) (Medium)
+  1. [The Maze](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-maze) (Medium)
+  1. [The Maze II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-maze-ii) (Medium)

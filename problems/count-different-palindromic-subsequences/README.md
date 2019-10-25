@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i "My Calendar I")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/my-calendar-i "My Calendar I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii "My Calendar II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/my-calendar-ii "My Calendar II")
 
 ## [730. Count Different Palindromic Subsequences (Hard)](https://leetcode.com/problems/count-different-palindromic-subsequences "统计不同回文子字符串")
 
@@ -48,11 +48,11 @@ There are 3104860382 different non-empty palindromic subsequences, which is 1048
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence) (Medium)
+  1. [Longest Palindromic Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-palindromic-subsequence) (Medium)
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/perfect-number "Perfect Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/perfect-number "Perfect Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number "Fibonacci Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fibonacci-number "Fibonacci Number")
 
 ## [508. Most Frequent Subtree Sum (Medium)](https://leetcode.com/problems/most-frequent-subtree-sum "出现次数最多的子树元素和")
 
@@ -40,8 +40,8 @@ You may assume the sum of values in any subtree is in the range of 32-bit signed
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Subtree of Another Tree](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree) (Easy)
+  1. [Subtree of Another Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subtree-of-another-tree) (Easy)

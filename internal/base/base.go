@@ -102,7 +102,7 @@ func AuthInfo(cmd string) string {
 	format += "<!--+----------------------------------------------------------------------+-->\n"
 	format += "<!--|@author    openset <openset.wang@gmail.com>                           |-->\n"
 	format += "<!--|@link      https://github.com/openset                                 |-->\n"
-	format += "<!--|@home      https://github.com/openset/leetcode                        |-->\n"
+	format += "<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->\n"
 	format += "<!--+----------------------------------------------------------------------+-->\n"
 	return fmt.Sprintf(format, cmd, strings.Repeat(" ", 15-len(cmd)))
 }

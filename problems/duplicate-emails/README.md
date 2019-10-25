@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/employees-earning-more-than-their-managers "Employees Earning More Than Their Managers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/employees-earning-more-than-their-managers "Employees Earning More Than Their Managers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/customers-who-never-order "Customers Who Never Order")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/customers-who-never-order "Customers Who Never Order")
 
 ## [182. Duplicate Emails (Easy)](https://leetcode.com/problems/duplicate-emails "查找重复的电子邮箱")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/divide-array-into-increasing-sequences "Divide Array Into Increasing Sequences")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/divide-array-into-increasing-sequences "Divide Array Into Increasing Sequences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves "Lowest Common Ancestor of Deepest Leaves")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lowest-common-ancestor-of-deepest-leaves "Lowest Common Ancestor of Deepest Leaves")
 
 ## [1122. Relative Sort Array (Easy)](https://leetcode.com/problems/relative-sort-array "数组的相对排序")
 
@@ -31,8 +31,8 @@
 </ul>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

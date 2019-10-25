@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/contiguous-array "Contiguous Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contiguous-array "Contiguous Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-abbreviation "Word Abbreviation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-abbreviation "Word Abbreviation")
 
 ## [526. Beautiful Arrangement (Medium)](https://leetcode.com/problems/beautiful-arrangement "优美的排列")
 
@@ -53,7 +53,7 @@ Number at the 2nd position (i=2) is 1, and i (i=2) is divisible by 1.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Beautiful Arrangement II](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii) (Medium)
+  1. [Beautiful Arrangement II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/beautiful-arrangement-ii) (Medium)

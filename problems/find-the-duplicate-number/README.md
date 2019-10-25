@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates "Walls and Gates")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/walls-and-gates "Walls and Gates")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-word-abbreviation "Unique Word Abbreviation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-word-abbreviation "Unique Word Abbreviation")
 
 ## [287. Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number "寻找重复数")
 
@@ -36,13 +36,13 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
-  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii) (Medium)
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/problems/missing-number) (Easy)
-  1. [Set Mismatch](https://github.com/openset/leetcode/tree/master/problems/set-mismatch) (Easy)
+  1. [First Missing Positive](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/first-missing-positive) (Hard)
+  1. [Single Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number) (Easy)
+  1. [Linked List Cycle II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-cycle-ii) (Medium)
+  1. [Missing Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/missing-number) (Easy)
+  1. [Set Mismatch](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/set-mismatch) (Easy)

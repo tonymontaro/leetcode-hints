@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/arranging-coins "Arranging Coins")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/arranging-coins "Arranging Coins")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/string-compression "String Compression")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-compression "String Compression")
 
 ## [442. Find All Duplicates in an Array (Medium)](https://leetcode.com/problems/find-all-duplicates-in-an-array "数组中重复的数据")
 
@@ -27,7 +27,7 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Find All Numbers Disappeared in an Array](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array) (Easy)
+  1. [Find All Numbers Disappeared in an Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-all-numbers-disappeared-in-an-array) (Easy)

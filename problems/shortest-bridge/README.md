@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-recent-calls "Number of Recent Calls")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-recent-calls "Number of Recent Calls")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/knight-dialer "Knight Dialer")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/knight-dialer "Knight Dialer")
 
 ## [934. Shortest Bridge (Medium)](https://leetcode.com/problems/shortest-bridge "最短的桥")
 
@@ -59,5 +59,5 @@
 </div>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]

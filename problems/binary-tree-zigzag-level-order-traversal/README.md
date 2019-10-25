@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal "Binary Tree Level Order Traversal")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-level-order-traversal "Binary Tree Level Order Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree "Maximum Depth of Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-depth-of-binary-tree "Maximum Depth of Binary Tree")
 
 ## [103. Binary Tree Zigzag Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal "二叉树的锯齿形层次遍历")
 
@@ -36,9 +36,9 @@ return its zigzag level order traversal as:<br />
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
+  1. [Binary Tree Level Order Traversal](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-level-order-traversal) (Medium)

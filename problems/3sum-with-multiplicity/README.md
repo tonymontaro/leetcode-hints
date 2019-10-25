@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity-ii "Sort Array By Parity II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-array-by-parity-ii "Sort Array By Parity II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-malware-spread "Minimize Malware Spread")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimize-malware-spread "Minimize Malware Spread")
 
 ## [923. 3Sum With Multiplicity (Medium)](https://leetcode.com/problems/3sum-with-multiplicity "三数之和的多种可能")
 
@@ -54,4 +54,4 @@ and two 2s from [2,2,2,2] in 6 ways.
 </ol>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]

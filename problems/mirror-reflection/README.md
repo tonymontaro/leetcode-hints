@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-hire-k-workers "Minimum Cost to Hire K Workers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-cost-to-hire-k-workers "Minimum Cost to Hire K Workers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/buddy-strings "Buddy Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/buddy-strings "Buddy Strings")
 
 ## [858. Mirror Reflection (Medium)](https://leetcode.com/problems/mirror-reflection "镜面反射")
 
@@ -39,4 +39,4 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

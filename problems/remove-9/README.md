@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences "Split Array into Consecutive Subsequences")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-array-into-consecutive-subsequences "Split Array into Consecutive Subsequences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/image-smoother "Image Smoother")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/image-smoother "Image Smoother")
 
 ## [660. Remove 9 (Hard)](https://leetcode.com/problems/remove-9 "移除 9")
 
@@ -28,4 +28,4 @@
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

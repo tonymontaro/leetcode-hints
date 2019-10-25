@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-divisible-subset "Largest Divisible Subset")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-divisible-subset "Largest Divisible Subset")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/range-addition "Range Addition")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-addition "Range Addition")
 
 ## [369. Plus One Linked List (Medium)](https://leetcode.com/problems/plus-one-linked-list "给单链表加一")
 
 
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Plus One](https://github.com/openset/leetcode/tree/master/problems/plus-one) (Easy)
+  1. [Plus One](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/plus-one) (Easy)

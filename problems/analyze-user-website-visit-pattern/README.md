@@ -2,21 +2,21 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-group-all-1s-together "Minimum Swaps to Group All 1's Together")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-swaps-to-group-all-1s-together "Minimum Swaps to Group All 1's Together")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/string-transforms-into-another-string "String Transforms Into Another String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-transforms-into-another-string "String Transforms Into Another String")
 
 ## [1152. Analyze User Website Visit Pattern (Medium)](https://leetcode.com/problems/analyze-user-website-visit-pattern "用户网站访问行为分析")
 
 
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Hints
 <details>

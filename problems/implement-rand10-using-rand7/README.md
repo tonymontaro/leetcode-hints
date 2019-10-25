@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convex-polygon "Convex Polygon")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/convex-polygon "Convex Polygon")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length "Encode String with Shortest Length")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/encode-string-with-shortest-length "Encode String with Shortest Length")
 
 ## [470. Implement Rand10() Using Rand7() (Medium)](https://leetcode.com/problems/implement-rand10-using-rand7 "用 Rand7() 实现 Rand10()")
 
@@ -66,5 +66,5 @@
 </div>
 
 ### Related Topics
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
-  [[Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
+  [[Random](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/random/README.md)]
+  [[Rejection Sampling](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/rejection-sampling/README.md)]

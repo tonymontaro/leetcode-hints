@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/network-delay-time "Network Delay Time")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/network-delay-time "Network Delay Time")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search "Prefix and Suffix Search")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/prefix-and-suffix-search "Prefix and Suffix Search")
 
 ## [744. Find Smallest Letter Greater Than Target (Easy)](https://leetcode.com/problems/find-smallest-letter-greater-than-target "寻找比目标字母大的最小字母")
 
@@ -60,7 +60,7 @@ target = "k"
 </p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation "Letter Case Permutation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/letter-case-permutation "Letter Case Permutation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction "K-th Smallest Prime Fraction")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-th-smallest-prime-fraction "K-th Smallest Prime Fraction")
 
 ## [785. Is Graph Bipartite? (Medium)](https://leetcode.com/problems/is-graph-bipartite "判断二分图")
 
@@ -55,6 +55,6 @@ We cannot find a way to divide the set of nodes into two independent subsets.
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]

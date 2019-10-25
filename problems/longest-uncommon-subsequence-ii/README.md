@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i "Longest Uncommon Subsequence I ")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-uncommon-subsequence-i "Longest Uncommon Subsequence I ")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum "Continuous Subarray Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/continuous-subarray-sum "Continuous Subarray Sum")
 
 ## [522. Longest Uncommon Subsequence II (Medium)](https://leetcode.com/problems/longest-uncommon-subsequence-ii "最长特殊序列 II")
 
@@ -38,7 +38,7 @@ The input will be a list of strings, and the output needs to be the length of th
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Longest Uncommon Subsequence I ](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i) (Easy)
+  1. [Longest Uncommon Subsequence I ](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-uncommon-subsequence-i) (Easy)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/biggest-single-number "Biggest Single Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/biggest-single-number "Biggest Single Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/task-scheduler "Task Scheduler")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/task-scheduler "Task Scheduler")
 
 ## [620. Not Boring Movies (Easy)](https://leetcode.com/problems/not-boring-movies "有趣的电影")
 

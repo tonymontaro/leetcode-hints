@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower "Guess Number Higher or Lower")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/guess-number-higher-or-lower "Guess Number Higher or Lower")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/wiggle-subsequence "Wiggle Subsequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wiggle-subsequence "Wiggle Subsequence")
 
 ## [375. Guess Number Higher or Lower II (Medium)](https://leetcode.com/problems/guess-number-higher-or-lower-ii "猜数字大小 II")
 
@@ -36,14 +36,14 @@ You end up paying $5 + $7 + $9 = $21.
 <p>Given a particular <strong>n &ge; 1</strong>, find out how much money you need to have to guarantee a <b>win</b>.</p>
 
 ### Related Topics
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Minimax](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/minimax/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)
-  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower) (Easy)
-  1. [Can I Win](https://github.com/openset/leetcode/tree/master/problems/can-i-win) (Medium)
-  1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/problems/find-k-closest-elements) (Medium)
+  1. [Flip Game II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flip-game-ii) (Medium)
+  1. [Guess Number Higher or Lower](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/guess-number-higher-or-lower) (Easy)
+  1. [Can I Win](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/can-i-win) (Medium)
+  1. [Find K Closest Elements](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-k-closest-elements) (Medium)
 
 ### Hints
 <details>

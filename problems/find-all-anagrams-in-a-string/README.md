@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii "Path Sum III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-sum-iii "Path Sum III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser "Ternary Expression Parser")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ternary-expression-parser "Ternary Expression Parser")
 
 ## [438. Find All Anagrams in a String (Medium)](https://leetcode.com/problems/find-all-anagrams-in-a-string "找到字符串中所有字母异位词")
 
@@ -47,8 +47,8 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 </p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/problems/valid-anagram) (Easy)
-  1. [Permutation in String](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string) (Medium)
+  1. [Valid Anagram](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-anagram) (Easy)
+  1. [Permutation in String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutation-in-string) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/score-of-parentheses "Score of Parentheses")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/score-of-parentheses "Score of Parentheses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/mirror-reflection "Mirror Reflection")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/mirror-reflection "Mirror Reflection")
 
 ## [857. Minimum Cost to Hire K Workers (Hard)](https://leetcode.com/problems/minimum-cost-to-hire-k-workers "雇佣 K 名工人的最低成本")
 
@@ -59,4 +59,4 @@
 </div>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]

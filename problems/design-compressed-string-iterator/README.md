@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/consecutive-available-seats "Consecutive Available Seats")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/consecutive-available-seats "Consecutive Available Seats")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers "Can Place Flowers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/can-place-flowers "Can Place Flowers")
 
 ## [604. Design Compressed String Iterator (Easy)](https://leetcode.com/problems/design-compressed-string-iterator "迭代压缩字符串")
 
@@ -49,8 +49,8 @@ iterator.next(); // return ' '
 </p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [LRU Cache](https://github.com/openset/leetcode/tree/master/problems/lru-cache) (Medium)
-  1. [String Compression](https://github.com/openset/leetcode/tree/master/problems/string-compression) (Easy)
+  1. [LRU Cache](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lru-cache) (Medium)
+  1. [String Compression](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-compression) (Easy)

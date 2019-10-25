@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle "Largest Perimeter Triangle")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-perimeter-triangle "Largest Perimeter Triangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray "Longest Turbulent Subarray")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-turbulent-subarray "Longest Turbulent Subarray")
 
 ## [977. Squares of a Sorted Array (Easy)](https://leetcode.com/problems/squares-of-a-sorted-array "有序数组的平方")
 
@@ -44,9 +44,9 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Merge Sorted Array](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array) (Easy)
-  1. [Sort Transformed Array](https://github.com/openset/leetcode/tree/master/problems/sort-transformed-array) (Medium)
+  1. [Merge Sorted Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-sorted-array) (Easy)
+  1. [Sort Transformed Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-transformed-array) (Medium)

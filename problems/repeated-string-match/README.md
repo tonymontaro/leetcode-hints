@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii "Redundant Connection II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/redundant-connection-ii "Redundant Connection II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-univalue-path "Longest Univalue Path")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-univalue-path "Longest Univalue Path")
 
 ## [686. Repeated String Match (Easy)](https://leetcode.com/problems/repeated-string-match "重复叠加字符串匹配")
 
@@ -21,7 +21,7 @@
 The length of <code>A</code> and <code>B</code> will be between 1 and 10000.</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Repeated Substring Pattern](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern) (Easy)
+  1. [Repeated Substring Pattern](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/repeated-substring-pattern) (Easy)

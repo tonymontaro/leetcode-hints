@@ -2,24 +2,24 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flood-fill "Flood Fill")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flood-fill "Flood Fill")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision "Asteroid Collision")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/asteroid-collision "Asteroid Collision")
 
 ## [734. Sentence Similarity (Easy)](https://leetcode.com/problems/sentence-similarity "句子相似性")
 
 
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/problems/friend-circles) (Medium)
-  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/problems/accounts-merge) (Medium)
-  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii) (Medium)
+  1. [Friend Circles](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/friend-circles) (Medium)
+  1. [Accounts Merge](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/accounts-merge) (Medium)
+  1. [Sentence Similarity II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sentence-similarity-ii) (Medium)
 
 ### Hints
 <details>

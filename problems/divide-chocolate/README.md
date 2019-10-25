@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/toss-strange-coins "Toss Strange Coins")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/toss-strange-coins "Toss Strange Coins")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-straight-line "Check If It Is a Straight Line")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/check-if-it-is-a-straight-line "Check If It Is a Straight Line")
 
 ## [1231. Divide Chocolate (Hard)](https://leetcode.com/problems/divide-chocolate "分享巧克力")
 
 
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Hints
 <details>

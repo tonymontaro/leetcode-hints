@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/snakes-and-ladders "Snakes and Ladders")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/snakes-and-ladders "Snakes and Ladders")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/online-election "Online Election")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/online-election "Online Election")
 
 ## [910. Smallest Range II (Medium)](https://leetcode.com/problems/smallest-range-ii "最小差值 II")
 
@@ -63,5 +63,5 @@
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

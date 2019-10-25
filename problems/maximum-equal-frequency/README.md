@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/dice-roll-simulation "Dice Roll Simulation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/dice-roll-simulation "Dice Roll Simulation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/report-contiguous-dates "Report Contiguous Dates")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/report-contiguous-dates "Report Contiguous Dates")
 
 ## [1224. Maximum Equal Frequency (Hard)](https://leetcode.com/problems/maximum-equal-frequency "最大相等频率")
 
@@ -54,7 +54,7 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Hints
 <details>

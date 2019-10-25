@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/candy "Candy")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/candy "Candy")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/single-number-ii "Single Number II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number-ii "Single Number II")
 
 ## [136. Single Number (Easy)](https://leetcode.com/problems/single-number "只出现一次的数字")
 
@@ -32,12 +32,12 @@
 </pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Single Number II](https://github.com/openset/leetcode/tree/master/problems/single-number-ii) (Medium)
-  1. [Single Number III](https://github.com/openset/leetcode/tree/master/problems/single-number-iii) (Medium)
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/problems/missing-number) (Easy)
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number) (Medium)
-  1. [Find the Difference](https://github.com/openset/leetcode/tree/master/problems/find-the-difference) (Easy)
+  1. [Single Number II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number-ii) (Medium)
+  1. [Single Number III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number-iii) (Medium)
+  1. [Missing Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/missing-number) (Easy)
+  1. [Find the Duplicate Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-duplicate-number) (Medium)
+  1. [Find the Difference](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-difference) (Easy)

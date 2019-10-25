@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 蓄水池抽样
+## [话题分类](https://github.com/tonymontaro/leetcode-hints/blob/master/tag/README.md) > 蓄水池抽样
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 398 | [随机数索引](https://github.com/openset/leetcode/tree/master/problems/random-pick-index) | [[蓄水池抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]  | Medium |
-| 382 | [链表随机节点](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node) | [[蓄水池抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]  | Medium |
+| 398 | [随机数索引](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-index) | [[蓄水池抽样](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/reservoir-sampling/README.md)]  | Medium |
+| 382 | [链表随机节点](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-random-node) | [[蓄水池抽样](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/reservoir-sampling/README.md)]  | Medium |

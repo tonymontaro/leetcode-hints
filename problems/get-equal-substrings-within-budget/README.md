@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-number-of-occurrences "Unique Number of Occurrences")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-number-of-occurrences "Unique Number of Occurrences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii "Remove All Adjacent Duplicates in String II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii "Remove All Adjacent Duplicates in String II")
 
 ## [1208. Get Equal Substrings Within Budget (Medium)](https://leetcode.com/problems/get-equal-substrings-within-budget "尽可能使字符串相等")
 
@@ -53,8 +53,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Hints
 <details>

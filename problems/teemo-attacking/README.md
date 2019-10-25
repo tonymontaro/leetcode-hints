@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/target-sum "Target Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/target-sum "Target Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i "Next Greater Element I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-greater-element-i "Next Greater Element I")
 
 ## [495. Teemo Attacking (Medium)](https://leetcode.com/problems/teemo-attacking "提莫攻击")
 
@@ -52,9 +52,9 @@ So you finally need to output 3.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers) (Easy)
-  1. [Dota2 Senate](https://github.com/openset/leetcode/tree/master/problems/dota2-senate) (Medium)
+  1. [Merge Intervals](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-intervals) (Medium)
+  1. [Can Place Flowers](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/can-place-flowers) (Easy)
+  1. [Dota2 Senate](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/dota2-senate) (Medium)

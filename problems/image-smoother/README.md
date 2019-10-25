@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-9 "Remove 9")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-9 "Remove 9")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-width-of-binary-tree "Maximum Width of Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-width-of-binary-tree "Maximum Width of Binary Tree")
 
 ## [661. Image Smoother (Easy)](https://leetcode.com/problems/image-smoother "图片平滑器")
 
@@ -38,4 +38,4 @@ For the point (1,1): floor(8/9) = floor(0.88888889) = 0
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

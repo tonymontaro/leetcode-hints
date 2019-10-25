@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-unsorted-continuous-subarray "Shortest Unsorted Continuous Subarray")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-unsorted-continuous-subarray "Shortest Unsorted Continuous Subarray")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings "Delete Operation for Two Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-operation-for-two-strings "Delete Operation for Two Strings")
 
 ## [582. Kill Process (Medium)](https://leetcode.com/problems/kill-process "杀死进程")
 
@@ -43,5 +43,5 @@ Kill 5 will also kill 10.
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Queue](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/queue/README.md)]

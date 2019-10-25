@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-distance-in-arrays "Maximum Distance in Arrays")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-distance-in-arrays "Maximum Distance in Arrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/exchange-seats "Exchange Seats")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/exchange-seats "Exchange Seats")
 
 ## [625. Minimum Factorization (Medium)](https://leetcode.com/problems/minimum-factorization "最小因式分解")
 
@@ -34,5 +34,5 @@ Output:
 </p>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Recursion](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/recursion/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

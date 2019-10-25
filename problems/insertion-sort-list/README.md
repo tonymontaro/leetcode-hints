@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lru-cache "LRU Cache")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lru-cache "LRU Cache")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-list "Sort List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-list "Sort List")
 
 ## [147. Insertion Sort List (Medium)](https://leetcode.com/problems/insertion-sort-list "对链表进行插入排序")
 
@@ -48,9 +48,9 @@ With each iteration one element (red) is removed from the input data and inserte
 </pre>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Sort List](https://github.com/openset/leetcode/tree/master/problems/sort-list) (Medium)
-  1. [Insert into a Cyclic Sorted List](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-cyclic-sorted-list) (Medium)
+  1. [Sort List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-list) (Medium)
+  1. [Insert into a Cyclic Sorted List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insert-into-a-cyclic-sorted-list) (Medium)

@@ -2,23 +2,23 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst "Inorder Successor in BST")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/inorder-successor-in-bst "Inorder Successor in BST")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number "Find the Duplicate Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-duplicate-number "Find the Duplicate Number")
 
 ## [286. Walls and Gates (Medium)](https://leetcode.com/problems/walls-and-gates "墙与门")
 
 
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Surrounded Regions](https://github.com/openset/leetcode/tree/master/problems/surrounded-regions) (Medium)
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) (Medium)
-  1. [Shortest Distance from All Buildings](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings) (Hard)
-  1. [Robot Room Cleaner](https://github.com/openset/leetcode/tree/master/problems/robot-room-cleaner) (Hard)
-  1. [Rotting Oranges](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges) (Easy)
+  1. [Surrounded Regions](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/surrounded-regions) (Medium)
+  1. [Number of Islands](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-islands) (Medium)
+  1. [Shortest Distance from All Buildings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-from-all-buildings) (Hard)
+  1. [Robot Room Cleaner](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/robot-room-cleaner) (Hard)
+  1. [Rotting Oranges](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rotting-oranges) (Easy)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted "Max Chunks To Make Sorted")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-chunks-to-make-sorted "Max Chunks To Make Sorted")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/jewels-and-stones "Jewels and Stones")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/jewels-and-stones "Jewels and Stones")
 
 ## [770. Basic Calculator IV (Hard)](https://leetcode.com/problems/basic-calculator-iv "基本计算器 IV")
 
@@ -63,13 +63,13 @@ evalvars = [], evalints = []
 </ol>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression) (Hard)
-  1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii) (Hard)
+  1. [Parse Lisp Expression](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/parse-lisp-expression) (Hard)
+  1. [Basic Calculator III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/basic-calculator-iii) (Hard)
 
 ### Hints
 <details>

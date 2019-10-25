@@ -73,7 +73,7 @@ func writeNav(buf *bytes.Buffer) {
 }
 
 func linkStr(num int) string {
-	link := "https://github.com/openset/leetcode/blob/master/"
+	link := "https://github.com/tonymontaro/leetcode-hints/blob/master/"
 	if num > maxId-maxId%pageSize-pageSize {
 		link += fmt.Sprintf("README.md#%d", num)
 	} else {
@@ -92,15 +92,15 @@ var (
 )
 
 var defaultStr = `
-# [LeetCode](https://openset.github.io/leetcode)
+# [LeetCode](https://github.com/tonymontaro/leetcode-hints)
 LeetCode Problems' Solutions
-[[力扣](https://openset.github.io/categories/leetcode/) ∙ [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md)]
+[[力扣](https://openset.github.io/categories/leetcode/) ∙ [话题分类](https://github.com/tonymontaro/leetcode-hints/blob/master/tag/README.md)]
 
 [![Build Status](https://travis-ci.org/openset/leetcode.svg?branch=master)](https://travis-ci.org/openset/leetcode)
 [![codecov](https://codecov.io/gh/openset/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/openset/leetcode)
 [![Go Report Card](https://goreportcard.com/badge/github.com/openset/leetcode)](https://goreportcard.com/report/github.com/openset/leetcode)
-[![GitHub contributors](https://img.shields.io/github/contributors/openset/leetcode.svg)](https://github.com/openset/leetcode/graphs/contributors)
-[![license](https://img.shields.io/github/license/openset/leetcode.svg)](https://github.com/openset/leetcode/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/openset/leetcode.svg)](https://github.com/tonymontaro/leetcode-hints/graphs/contributors)
+[![license](https://img.shields.io/github/license/openset/leetcode.svg)](https://github.com/tonymontaro/leetcode-hints/blob/master/LICENSE)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopenset%2Fleetcode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopenset%2Fleetcode?ref=badge_shield)
 [![Join the chat](https://badges.gitter.im/openset/leetcode.svg)](https://gitter.im/openset/leetcode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 

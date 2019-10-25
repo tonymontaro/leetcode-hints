@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv "Game Play Analysis IV")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/game-play-analysis-iv "Game Play Analysis IV")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii "Student Attendance Record II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/student-attendance-record-ii "Student Attendance Record II")
 
 ## [551. Student Attendance Record I (Easy)](https://leetcode.com/problems/student-attendance-record-i "学生出勤记录 I")
 
@@ -41,7 +41,7 @@ A student could be rewarded if his attendance record doesn't contain <b>more tha
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Student Attendance Record II](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii) (Hard)
+  1. [Student Attendance Record II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/student-attendance-record-ii) (Hard)

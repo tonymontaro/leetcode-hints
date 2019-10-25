@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-leaves-of-binary-tree "Find Leaves of Binary Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-leaves-of-binary-tree "Find Leaves of Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-divisible-subset "Largest Divisible Subset")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-divisible-subset "Largest Divisible Subset")
 
 ## [367. Valid Perfect Square (Easy)](https://leetcode.com/problems/valid-perfect-square "有效的完全平方数")
 
@@ -34,9 +34,9 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/problems/sqrtx) (Easy)
-  1. [Sum of Square Numbers](https://github.com/openset/leetcode/tree/master/problems/sum-of-square-numbers) (Easy)
+  1. [Sqrt(x)](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sqrtx) (Easy)
+  1. [Sum of Square Numbers](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-square-numbers) (Easy)

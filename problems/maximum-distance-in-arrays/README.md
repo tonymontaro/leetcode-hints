@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-one-row-to-tree "Add One Row to Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-one-row-to-tree "Add One Row to Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-factorization "Minimum Factorization")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-factorization "Minimum Factorization")
 
 ## [624. Maximum Distance in Arrays (Easy)](https://leetcode.com/problems/maximum-distance-in-arrays "数组列表中的最大距离")
 
@@ -35,5 +35,5 @@ One way to reach the maximum distance 4 is to pick 1 in the first or third array
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]

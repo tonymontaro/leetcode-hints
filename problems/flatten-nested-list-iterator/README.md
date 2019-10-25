@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters "Longest Substring with At Most K Distinct Characters")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-substring-with-at-most-k-distinct-characters "Longest Substring with At Most K Distinct Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/power-of-four "Power of Four")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/power-of-four "Power of Four")
 
 ## [341. Flatten Nested List Iterator (Medium)](https://leetcode.com/problems/flatten-nested-list-iterator "扁平化嵌套列表迭代器")
 
@@ -37,11 +37,11 @@
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector) (Medium)
-  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/problems/zigzag-iterator) (Medium)
-  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/problems/mini-parser) (Medium)
-  1. [Array Nesting](https://github.com/openset/leetcode/tree/master/problems/array-nesting) (Medium)
+  1. [Flatten 2D Vector](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flatten-2d-vector) (Medium)
+  1. [Zigzag Iterator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/zigzag-iterator) (Medium)
+  1. [Mini Parser](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/mini-parser) (Medium)
+  1. [Array Nesting](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/array-nesting) (Medium)

@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/airplane-seat-assignment-probability "Airplane Seat Assignment Probability")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/airplane-seat-assignment-probability "Airplane Seat Assignment Probability")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/meeting-scheduler "Meeting Scheduler")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/meeting-scheduler "Meeting Scheduler")
 
 ## [1228. Missing Number In Arithmetic Progression (Easy)](https://leetcode.com/problems/missing-number-in-arithmetic-progression "等差数列中缺失的数字")
 
 
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

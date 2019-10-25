@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-left-leaves "Sum of Left Leaves")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-left-leaves "Sum of Left Leaves")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/queue-reconstruction-by-height "Queue Reconstruction by Height")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/queue-reconstruction-by-height "Queue Reconstruction by Height")
 
 ## [405. Convert a Number to Hexadecimal (Easy)](https://leetcode.com/problems/convert-a-number-to-hexadecimal "数字转换为十六进制数")
 
@@ -45,4 +45,4 @@ Output:
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]

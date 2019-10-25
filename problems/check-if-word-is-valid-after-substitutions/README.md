@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-common-characters "Find Common Characters")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-common-characters "Find Common Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii "Max Consecutive Ones III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-consecutive-ones-iii "Max Consecutive Ones III")
 
 ## [1003. Check If Word Is Valid After Substitutions (Medium)](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions "检查替换后的词是否有效")
 
@@ -78,8 +78,8 @@ Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;ab
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) (Easy)
+  1. [Valid Parentheses](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-parentheses) (Easy)

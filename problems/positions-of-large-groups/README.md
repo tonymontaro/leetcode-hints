@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers-sum "Consecutive Numbers Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/consecutive-numbers-sum "Consecutive Numbers Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/masking-personal-information "Masking Personal Information")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/masking-personal-information "Masking Personal Information")
 
 ## [830. Positions of Large Groups (Easy)](https://leetcode.com/problems/positions-of-large-groups "较大分组的位置")
 
@@ -48,4 +48,4 @@
 <p><strong>Note:&nbsp;</strong>&nbsp;<code>1 &lt;= S.length &lt;= 1000</code></p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

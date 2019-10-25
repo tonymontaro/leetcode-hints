@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/random-flip-matrix "Random Flip Matrix")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-flip-matrix "Random Flip Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i "Longest Uncommon Subsequence I ")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-uncommon-subsequence-i "Longest Uncommon Subsequence I ")
 
 ## [520. Detect Capital (Easy)](https://leetcode.com/problems/detect-capital "检测大写字母")
 
@@ -45,4 +45,4 @@ Otherwise, we define that this word doesn&#39;t use capitals in a right way.
 <p><b>Note:</b> The input will be a non-empty word consisting of uppercase and lowercase latin letters.</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

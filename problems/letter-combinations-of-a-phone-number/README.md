@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/3sum-closest "3Sum Closest")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/3sum-closest "3Sum Closest")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/4sum "4Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/4sum "4Sum")
 
 ## [17. Letter Combinations of a Phone Number (Medium)](https://leetcode.com/problems/letter-combinations-of-a-phone-number "电话号码的字母组合")
 
@@ -29,10 +29,10 @@
 <p>Although the above answer is in lexicographical order, your answer could be in any order you want.</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses) (Medium)
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)
-  1. [Binary Watch](https://github.com/openset/leetcode/tree/master/problems/binary-watch) (Easy)
+  1. [Generate Parentheses](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/generate-parentheses) (Medium)
+  1. [Combination Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum) (Medium)
+  1. [Binary Watch](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-watch) (Easy)

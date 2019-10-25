@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/super-pow "Super Pow")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/super-pow "Super Pow")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower "Guess Number Higher or Lower")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/guess-number-higher-or-lower "Guess Number Higher or Lower")
 
 ## [373. Find K Pairs with Smallest Sums (Medium)](https://leetcode.com/problems/find-k-pairs-with-smallest-sums "查找和最小的K对数字")
 
@@ -42,8 +42,8 @@
 </pre>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
 
 ### Similar Questions
-  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
-  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)
+  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [Find K-th Smallest Pair Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)

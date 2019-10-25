@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/gray-code "Gray Code")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/gray-code "Gray Code")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/decode-ways "Decode Ways")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decode-ways "Decode Ways")
 
 ## [90. Subsets II (Medium)](https://leetcode.com/problems/subsets-ii "子集 II")
 
@@ -31,8 +31,8 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Subsets](https://github.com/openset/leetcode/tree/master/problems/subsets) (Medium)
+  1. [Subsets](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subsets) (Medium)

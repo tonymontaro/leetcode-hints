@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum "Binary Tree Maximum Path Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-maximum-path-sum "Binary Tree Maximum Path Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii "Word Ladder II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-ladder-ii "Word Ladder II")
 
 ## [125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome "验证回文串")
 
@@ -30,9 +30,9 @@
 </pre>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list) (Easy)
-  1. [Valid Palindrome II](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-ii) (Easy)
+  1. [Palindrome Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-linked-list) (Easy)
+  1. [Valid Palindrome II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-palindrome-ii) (Easy)

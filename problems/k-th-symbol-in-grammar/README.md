@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/swim-in-rising-water "Swim in Rising Water")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/swim-in-rising-water "Swim in Rising Water")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reaching-points "Reaching Points")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reaching-points "Reaching Points")
 
 ## [779. K-th Symbol in Grammar (Medium)](https://leetcode.com/problems/k-th-symbol-in-grammar "第K个语法符号")
 
@@ -44,7 +44,7 @@ row 4: 01101001
 </ol>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Recursion](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/recursion/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/beautiful-array "Beautiful Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/beautiful-array "Beautiful Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-bridge "Shortest Bridge")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-bridge "Shortest Bridge")
 
 ## [933. Number of Recent Calls (Easy)](https://leetcode.com/problems/number-of-recent-calls "最近的请求次数")
 
@@ -44,4 +44,4 @@
 </div>
 
 ### Related Topics
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[Queue](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/queue/README.md)]

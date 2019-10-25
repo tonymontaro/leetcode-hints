@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address "Validate IP Address")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/validate-ip-address "Validate IP Address")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-rand10-using-rand7 "Implement Rand10() Using Rand7()")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-rand10-using-rand7 "Implement Rand10() Using Rand7()")
 
 ## [469. Convex Polygon (Medium)](https://leetcode.com/problems/convex-polygon "凸多边形")
 
 
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

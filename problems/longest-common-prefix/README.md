@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/roman-to-integer "Roman to Integer")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/roman-to-integer "Roman to Integer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/3sum "3Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/3sum "3Sum")
 
 ## [14. Longest Common Prefix (Easy)](https://leetcode.com/problems/longest-common-prefix "最长公共前缀")
 
@@ -35,4 +35,4 @@
 <p>All given inputs are in lowercase letters <code>a-z</code>.</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

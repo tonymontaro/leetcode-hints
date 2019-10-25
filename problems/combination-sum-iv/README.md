@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/wiggle-subsequence "Wiggle Subsequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wiggle-subsequence "Wiggle Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix "Kth Smallest Element in a Sorted Matrix")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-smallest-element-in-a-sorted-matrix "Kth Smallest Element in a Sorted Matrix")
 
 ## [377. Combination Sum IV (Medium)](https://leetcode.com/problems/combination-sum-iv "组合总和 Ⅳ")
 
@@ -44,7 +44,7 @@ What limitation we need to add to the question to allow negative numbers?</p>
 Special thanks to <a href="https://leetcode.com/pbrother/">@pbrother</a> for adding this problem and creating all test cases.</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)
+  1. [Combination Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum) (Medium)

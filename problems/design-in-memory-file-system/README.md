@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/erect-the-fence "Erect the Fence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/erect-the-fence "Erect the Fence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal "N-ary Tree Preorder Traversal")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-ary-tree-preorder-traversal "N-ary Tree Preorder Traversal")
 
 ## [588. Design In-Memory File System (Hard)](https://leetcode.com/problems/design-in-memory-file-system "设计内存文件系统")
 
@@ -47,9 +47,9 @@
 </ol>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [LRU Cache](https://github.com/openset/leetcode/tree/master/problems/lru-cache) (Medium)
-  1. [LFU Cache](https://github.com/openset/leetcode/tree/master/problems/lfu-cache) (Hard)
-  1. [Design Log Storage System](https://github.com/openset/leetcode/tree/master/problems/design-log-storage-system) (Medium)
+  1. [LRU Cache](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lru-cache) (Medium)
+  1. [LFU Cache](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/lfu-cache) (Hard)
+  1. [Design Log Storage System](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-log-storage-system) (Medium)

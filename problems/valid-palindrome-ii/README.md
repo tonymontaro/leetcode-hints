@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/24-game "24 Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/24-game "24 Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/next-closest-time "Next Closest Time")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-closest-time "Next Closest Time")
 
 ## [680. Valid Palindrome II (Easy)](https://leetcode.com/problems/valid-palindrome-ii "验证回文字符串 Ⅱ")
 
@@ -38,7 +38,7 @@ The maximum length of the string is 50000.</li>
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Valid Palindrome](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome) (Easy)
+  1. [Valid Palindrome](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-palindrome) (Easy)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/dota2-senate "Dota2 Senate")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/dota2-senate "Dota2 Senate")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard "4 Keys Keyboard")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/4-keys-keyboard "4 Keys Keyboard")
 
 ## [650. 2 Keys Keyboard (Medium)](https://leetcode.com/problems/2-keys-keyboard "只有两个键的键盘")
 
@@ -45,11 +45,11 @@ In step 3, we use <b>Paste</b> operation to get &#39;AAA&#39;.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [4 Keys Keyboard](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard) (Medium)
-  1. [Broken Calculator](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) (Medium)
+  1. [4 Keys Keyboard](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/4-keys-keyboard) (Medium)
+  1. [Broken Calculator](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/broken-calculator) (Medium)
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/increasing-order-search-tree "Increasing Order Search Tree")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/increasing-order-search-tree "Increasing Order Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/orderly-queue "Orderly Queue")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/orderly-queue "Orderly Queue")
 
 ## [898. Bitwise ORs of Subarrays (Medium)](https://leetcode.com/problems/bitwise-ors-of-subarrays "子数组按位或操作")
 
@@ -64,5 +64,5 @@ The possible results are 1, 2, 3, 4, 6, and 7.
 </ol>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

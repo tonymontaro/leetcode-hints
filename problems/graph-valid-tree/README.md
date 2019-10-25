@@ -2,26 +2,26 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/single-number-iii "Single Number III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-number-iii "Single Number III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/trips-and-users "Trips and Users")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/trips-and-users "Trips and Users")
 
 ## [261. Graph Valid Tree (Medium)](https://leetcode.com/problems/graph-valid-tree "以图判树")
 
 
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
-  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [Course Schedule](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule) (Medium)
+  1. [Number of Connected Components in an Undirected Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
 
 ### Hints
 <details>

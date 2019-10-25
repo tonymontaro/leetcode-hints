@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reveal-cards-in-increasing-order "Reveal Cards In Increasing Order")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reveal-cards-in-increasing-order "Reveal Cards In Increasing Order")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-component-size-by-common-factor "Largest Component Size by Common Factor")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-component-size-by-common-factor "Largest Component Size by Common Factor")
 
 ## [951. Flip Equivalent Binary Trees (Medium)](https://leetcode.com/problems/flip-equivalent-binary-trees "翻转等价二叉树")
 
@@ -42,4 +42,4 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/toeplitz-matrix "Toeplitz Matrix")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/toeplitz-matrix "Toeplitz Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted-ii "Max Chunks To Make Sorted II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-chunks-to-make-sorted-ii "Max Chunks To Make Sorted II")
 
 ## [767. Reorganize String (Medium)](https://leetcode.com/problems/reorganize-string "重构字符串")
 
@@ -38,14 +38,14 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Rearrange String k Distance Apart](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart) (Hard)
-  1. [Task Scheduler](https://github.com/openset/leetcode/tree/master/problems/task-scheduler) (Medium)
+  1. [Rearrange String k Distance Apart](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rearrange-string-k-distance-apart) (Hard)
+  1. [Task Scheduler](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/task-scheduler) (Medium)
 
 ### Hints
 <details>

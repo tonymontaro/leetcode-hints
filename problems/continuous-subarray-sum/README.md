@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii "Longest Uncommon Subsequence II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-uncommon-subsequence-ii "Longest Uncommon Subsequence II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting "Longest Word in Dictionary through Deleting")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-word-in-dictionary-through-deleting "Longest Word in Dictionary through Deleting")
 
 ## [523. Continuous Subarray Sum (Medium)](https://leetcode.com/problems/continuous-subarray-sum "连续的子数组和")
 
@@ -41,8 +41,8 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
+  1. [Subarray Sum Equals K](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subarray-sum-equals-k) (Medium)

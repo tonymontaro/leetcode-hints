@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii "Minimum Moves to Equal Array Elements II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-moves-to-equal-array-elements-ii "Minimum Moves to Equal Array Elements II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/can-i-win "Can I Win")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/can-i-win "Can I Win")
 
 ## [463. Island Perimeter (Easy)](https://leetcode.com/problems/island-perimeter "岛屿的周长")
 
@@ -36,9 +36,9 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island) (Medium)
-  1. [Flood Fill](https://github.com/openset/leetcode/tree/master/problems/flood-fill) (Easy)
-  1. [Coloring A Border](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border) (Medium)
+  1. [Max Area of Island](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-area-of-island) (Medium)
+  1. [Flood Fill](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flood-fill) (Easy)
+  1. [Coloring A Border](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/coloring-a-border) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-only-letters "Reverse Only Letters")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-only-letters "Reverse Only Letters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/complete-binary-tree-inserter "Complete Binary Tree Inserter")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/complete-binary-tree-inserter "Complete Binary Tree Inserter")
 
 ## [918. Maximum Sum Circular Subarray (Medium)](https://leetcode.com/problems/maximum-sum-circular-subarray "环形子数组的最大和")
 
@@ -77,4 +77,4 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

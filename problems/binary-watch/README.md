@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/nth-digit "Nth Digit")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nth-digit "Nth Digit")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits "Remove K Digits")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-k-digits "Remove K Digits")
 
 ## [401. Binary Watch (Easy)](https://leetcode.com/problems/binary-watch "二进制手表")
 
@@ -31,12 +31,12 @@
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
+  1. [Letter Combinations of a Phone Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
+  1. [Number of 1 Bits](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-1-bits) (Easy)
 
 ### Hints
 <details>

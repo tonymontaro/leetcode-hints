@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-duplicate-emails "Delete Duplicate Emails")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-duplicate-emails "Delete Duplicate Emails")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/house-robber "House Robber")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/house-robber "House Robber")
 
 ## [197. Rising Temperature (Easy)](https://leetcode.com/problems/rising-temperature "上升的温度")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number "Valid Triangle Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-triangle-number "Valid Triangle Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-line "Shortest Distance in a Line")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-in-a-line "Shortest Distance in a Line")
 
 ## [612. Shortest Distance in a Plane (Medium)](https://leetcode.com/problems/shortest-distance-in-a-plane "平面上的最近距离")
 

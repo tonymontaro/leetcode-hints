@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-linked-list "Design Linked List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-linked-list "Design Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/to-lower-case "To Lower Case")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/to-lower-case "To Lower Case")
 
 ## [708. Insert into a Cyclic Sorted List (Medium)](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list "循环有序列表的插入")
 
 
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Insertion Sort List](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list) (Medium)
+  1. [Insertion Sort List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insertion-sort-list) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/queens-that-can-attack-the-king "Queens That Can Attack the King")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/queens-that-can-attack-the-king "Queens That Can Attack the King")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-equal-frequency "Maximum Equal Frequency")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-equal-frequency "Maximum Equal Frequency")
 
 ## [1223. Dice Roll Simulation (Medium)](https://leetcode.com/problems/dice-roll-simulation "掷骰子模拟")
 
@@ -50,7 +50,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

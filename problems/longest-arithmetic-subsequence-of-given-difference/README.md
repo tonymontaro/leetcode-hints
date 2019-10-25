@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/play-with-chips "Play with Chips")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/play-with-chips "Play with Chips")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-gold "Path with Maximum Gold")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-with-maximum-gold "Path with Maximum Gold")
 
 ## [1218. Longest Arithmetic Subsequence of Given Difference (Medium)](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference "最长定差子序列")
 
@@ -46,8 +46,8 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

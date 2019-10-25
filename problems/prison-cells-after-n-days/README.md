@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/tallest-billboard "Tallest Billboard")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/tallest-billboard "Tallest Billboard")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/check-completeness-of-a-binary-tree "Check Completeness of a Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/check-completeness-of-a-binary-tree "Check Completeness of a Binary Tree")
 
 ## [957. Prison Cells After N Days (Medium)](https://leetcode.com/problems/prison-cells-after-n-days "N 天后的牢房")
 
@@ -73,4 +73,4 @@ Day 7: [0, 0, 1, 1, 0, 0, 0, 0]</span>
 </div>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]

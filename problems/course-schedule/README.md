@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list "Reverse Linked List")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-linked-list "Reverse Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree "Implement Trie (Prefix Tree)")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-trie-prefix-tree "Implement Trie (Prefix Tree)")
 
 ## [207. Course Schedule (Medium)](https://leetcode.com/problems/course-schedule "课程表")
 
@@ -43,16 +43,16 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
+  [[Topological Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/topological-sort/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
-  1. [Graph Valid Tree](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree) (Medium)
-  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/problems/minimum-height-trees) (Medium)
-  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii) (Hard)
+  1. [Course Schedule II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule-ii) (Medium)
+  1. [Graph Valid Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/graph-valid-tree) (Medium)
+  1. [Minimum Height Trees](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-height-trees) (Medium)
+  1. [Course Schedule III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule-iii) (Hard)
 
 ### Hints
 <details>

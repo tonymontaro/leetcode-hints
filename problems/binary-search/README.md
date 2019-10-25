@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-a-stream "Kth Largest Element in a Stream")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-largest-element-in-a-stream "Kth Largest Element in a Stream")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-hashset "Design HashSet")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-hashset "Design HashSet")
 
 ## [704. Binary Search (Easy)](https://leetcode.com/problems/binary-search "二分查找")
 
@@ -42,7 +42,7 @@
 </ol>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Search in a Sorted Array of Unknown Size](https://github.com/openset/leetcode/tree/master/problems/search-in-a-sorted-array-of-unknown-size) (Medium)
+  1. [Search in a Sorted Array of Unknown Size](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-in-a-sorted-array-of-unknown-size) (Medium)

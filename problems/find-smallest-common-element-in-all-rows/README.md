@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-knight-moves "Minimum Knight Moves")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-knight-moves "Minimum Knight Moves")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-time-to-build-blocks "Minimum Time to Build Blocks")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-time-to-build-blocks "Minimum Time to Build Blocks")
 
 ## [1198. Find Smallest Common Element in All Rows (Medium)](https://leetcode.com/problems/find-smallest-common-element-in-all-rows "找出所有行中最小公共元素")
 
 
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Hints
 <details>

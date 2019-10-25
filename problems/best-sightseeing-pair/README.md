@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum "Partition Array Into Three Parts With Equal Sum")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/partition-array-into-three-parts-with-equal-sum "Partition Array Into Three Parts With Equal Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-integer-divisible-by-k "Smallest Integer Divisible by K")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-integer-divisible-by-k "Smallest Integer Divisible by K")
 
 ## [1014. Best Sightseeing Pair (Medium)](https://leetcode.com/problems/best-sightseeing-pair "最佳观光组合")
 
@@ -37,7 +37,7 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

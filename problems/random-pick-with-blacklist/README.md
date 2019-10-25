@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/to-lower-case "To Lower Case")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/to-lower-case "To Lower Case")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands-ii "Number of Distinct Islands II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-distinct-islands-ii "Number of Distinct Islands II")
 
 ## [710. Random Pick with Blacklist (Hard)](https://leetcode.com/problems/random-pick-with-blacklist "黑名单中的随机数")
 
@@ -64,11 +64,11 @@
 <p>The input is two lists:&nbsp;the subroutines called&nbsp;and their&nbsp;arguments.&nbsp;<code>Solution</code>&#39;s&nbsp;constructor has two arguments,&nbsp;<code>N</code> and the blacklist <code>B</code>. <code>pick</code> has no arguments.&nbsp;Arguments&nbsp;are&nbsp;always wrapped with a list, even if there aren&#39;t any.</p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
+  [[Random](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/random/README.md)]
 
 ### Similar Questions
-  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/problems/random-pick-index) (Medium)
-  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight) (Medium)
+  1. [Random Pick Index](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-index) (Medium)
+  1. [Random Pick with Weight](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-with-weight) (Medium)

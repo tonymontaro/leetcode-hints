@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/user-activity-for-the-past-30-days-i "User Activity for the Past 30 Days I")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/user-activity-for-the-past-30-days-i "User Activity for the Past 30 Days I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-common-subsequence "Longest Common Subsequence")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-common-subsequence "Longest Common Subsequence")
 
 ## [1142. User Activity for the Past 30 Days II (Easy)](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii "")
 

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/image-smoother "Image Smoother")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/image-smoother "Image Smoother")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/equal-tree-partition "Equal Tree Partition")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/equal-tree-partition "Equal Tree Partition")
 
 ## [662. Maximum Width of Binary Tree (Medium)](https://leetcode.com/problems/maximum-width-of-binary-tree "二叉树最大宽度")
 
@@ -81,4 +81,4 @@
 <p><b>Note:</b> Answer will in the range of 32-bit signed integer.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

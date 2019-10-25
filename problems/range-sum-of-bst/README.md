@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reorder-data-in-log-files "Reorder Data in Log Files")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reorder-data-in-log-files "Reorder Data in Log Files")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle "Minimum Area Rectangle")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-area-rectangle "Minimum Area Rectangle")
 
 ## [938. Range Sum of BST (Easy)](https://leetcode.com/problems/range-sum-of-bst "二叉搜索树的范围和")
 
@@ -45,5 +45,5 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Recursion](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/recursion/README.md)]

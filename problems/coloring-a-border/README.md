@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive "Moving Stones Until Consecutive")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/moving-stones-until-consecutive "Moving Stones Until Consecutive")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines "Uncrossed Lines")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/uncrossed-lines "Uncrossed Lines")
 
 ## [1034. Coloring A Border (Medium)](https://leetcode.com/problems/coloring-a-border "边框着色")
 
@@ -59,10 +59,10 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/problems/island-perimeter) (Easy)
+  1. [Island Perimeter](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/island-perimeter) (Easy)
 
 ### Hints
 <details>

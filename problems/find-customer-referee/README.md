@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings "Delete Operation for Two Strings")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-operation-for-two-strings "Delete Operation for Two Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/investments-in-2016 "Investments in 2016")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/investments-in-2016 "Investments in 2016")
 
 ## [584. Find Customer Referee (Easy)](https://leetcode.com/problems/find-customer-referee "寻找用户推荐人")
 

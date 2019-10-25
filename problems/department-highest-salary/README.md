@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/customers-who-never-order "Customers Who Never Order")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/customers-who-never-order "Customers Who Never Order")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/department-top-three-salaries "Department Top Three Salaries")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/department-top-three-salaries "Department Top Three Salaries")
 
 ## [184. Department Highest Salary (Medium)](https://leetcode.com/problems/department-highest-salary "部门工资最高的员工")
 

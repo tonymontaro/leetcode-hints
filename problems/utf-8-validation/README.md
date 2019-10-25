@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/is-subsequence "Is Subsequence")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/is-subsequence "Is Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/decode-string "Decode String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decode-string "Decode String")
 
 ## [393. UTF-8 Validation (Medium)](https://leetcode.com/problems/utf-8-validation "UTF-8 编码验证")
 
@@ -57,7 +57,7 @@ But the second continuation byte does not start with 10, so it is invalid.
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
 
 ### Hints
 <details>

@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/brick-wall "Brick Wall")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/brick-wall "Brick Wall")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii "Next Greater Element III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-greater-element-iii "Next Greater Element III")
 
 ## [555. Split Concatenated Strings (Medium)](https://leetcode.com/problems/split-concatenated-strings "分割连接字符串")
 
 
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

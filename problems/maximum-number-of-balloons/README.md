@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-bounded-blocking-queue "Design Bounded Blocking Queue")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-bounded-blocking-queue "Design Bounded Blocking Queue")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses "Reverse Substrings Between Each Pair of Parentheses")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses "Reverse Substrings Between Each Pair of Parentheses")
 
 ## [1189. Maximum Number of Balloons (Easy)](https://leetcode.com/problems/maximum-number-of-balloons "“气球” 的最大数量")
 
@@ -50,8 +50,8 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring "Longest Palindromic Substring")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-palindromic-substring "Longest Palindromic Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-integer "Reverse Integer")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-integer "Reverse Integer")
 
 ## [6. ZigZag Conversion (Medium)](https://leetcode.com/problems/zigzag-conversion "Z 字形变换")
 
@@ -46,4 +46,4 @@ Y A   H R
 P     I</pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

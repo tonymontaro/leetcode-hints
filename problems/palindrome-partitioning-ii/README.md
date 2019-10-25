@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning "Palindrome Partitioning")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-partitioning "Palindrome Partitioning")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/clone-graph "Clone Graph")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/clone-graph "Clone Graph")
 
 ## [132. Palindrome Partitioning II (Hard)](https://leetcode.com/problems/palindrome-partitioning-ii "分割回文串 II")
 
@@ -24,7 +24,7 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Palindrome Partitioning](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning) (Medium)
+  1. [Palindrome Partitioning](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-partitioning) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/first-bad-version "First Bad Version")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/first-bad-version "First Bad Version")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort "Wiggle Sort")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wiggle-sort "Wiggle Sort")
 
 ## [279. Perfect Squares (Medium)](https://leetcode.com/problems/perfect-squares "完全平方数")
 
@@ -28,10 +28,10 @@
 <strong>Explanation: </strong><code>13 = 4 + 9.</code></pre>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Count Primes](https://github.com/openset/leetcode/tree/master/problems/count-primes) (Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)
+  1. [Count Primes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-primes) (Easy)
+  1. [Ugly Number II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number-ii) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix "Longest Increasing Path in a Matrix")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-increasing-path-in-a-matrix "Longest Increasing Path in a Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-serialization-of-a-binary-tree "Verify Preorder Serialization of a Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/verify-preorder-serialization-of-a-binary-tree "Verify Preorder Serialization of a Binary Tree")
 
 ## [330. Patching Array (Hard)](https://leetcode.com/problems/patching-array "按要求补齐数组")
 
@@ -40,4 +40,4 @@ So we only need <code>1</code> patch.</pre>
 </pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]

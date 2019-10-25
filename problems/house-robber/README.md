@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rising-temperature "Rising Temperature")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rising-temperature "Rising Temperature")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-right-side-view "Binary Tree Right Side View")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-right-side-view "Binary Tree Right Side View")
 
 ## [198. House Robber (Easy)](https://leetcode.com/problems/house-robber "打家劫舍")
 
@@ -33,14 +33,14 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)
-  1. [House Robber II](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii) (Medium)
-  1. [Paint House](https://github.com/openset/leetcode/tree/master/problems/paint-house) (Easy)
-  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/problems/paint-fence) (Easy)
-  1. [House Robber III](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii) (Medium)
-  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) (Hard)
-  1. [Coin Path](https://github.com/openset/leetcode/tree/master/problems/coin-path) (Hard)
-  1. [Delete and Earn](https://github.com/openset/leetcode/tree/master/problems/delete-and-earn) (Medium)
+  1. [Maximum Product Subarray](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-product-subarray) (Medium)
+  1. [House Robber II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/house-robber-ii) (Medium)
+  1. [Paint House](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-house) (Easy)
+  1. [Paint Fence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-fence) (Easy)
+  1. [House Robber III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/house-robber-iii) (Medium)
+  1. [Non-negative Integers without Consecutive Ones](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/non-negative-integers-without-consecutive-ones) (Hard)
+  1. [Coin Path](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/coin-path) (Hard)
+  1. [Delete and Earn](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-and-earn) (Medium)

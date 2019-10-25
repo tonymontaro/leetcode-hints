@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings "K-Similar Strings")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-similar-strings "K-Similar Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/score-of-parentheses "Score of Parentheses")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/score-of-parentheses "Score of Parentheses")
 
 ## [855. Exam Room (Medium)](https://leetcode.com/problems/exam-room "考场就座")
 
@@ -45,7 +45,7 @@ seat() -&gt; 5, the student sits at the last seat number 5.</span>
 </ol>
 
 ### Related Topics
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Ordered Map](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/ordered-map/README.md)]
 
 ### Similar Questions
-  1. [Maximize Distance to Closest Person](https://github.com/openset/leetcode/tree/master/problems/maximize-distance-to-closest-person) (Easy)
+  1. [Maximize Distance to Closest Person](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximize-distance-to-closest-person) (Easy)

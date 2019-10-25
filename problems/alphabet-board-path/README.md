@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number "N-th Tribonacci Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-th-tribonacci-number "N-th Tribonacci Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-1-bordered-square "Largest 1-Bordered Square")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-1-bordered-square "Largest 1-Bordered Square")
 
 ## [1138. Alphabet Board Path (Medium)](https://leetcode.com/problems/alphabet-board-path "字母板上的路径")
 
@@ -48,8 +48,8 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

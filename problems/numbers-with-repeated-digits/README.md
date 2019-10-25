@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days "Capacity To Ship Packages Within D Days")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/capacity-to-ship-packages-within-d-days "Capacity To Ship Packages Within D Days")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum "Partition Array Into Three Parts With Equal Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/partition-array-into-three-parts-with-equal-sum "Partition Array Into Three Parts With Equal Sum")
 
 ## [1012. Numbers With Repeated Digits (Hard)](https://leetcode.com/problems/numbers-with-repeated-digits "至少有 1 位重复的数字")
 
@@ -53,8 +53,8 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

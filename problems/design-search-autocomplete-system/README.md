@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque "Design Circular Deque")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-circular-deque "Design Circular Deque")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i "Maximum Average Subarray I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-average-subarray-i "Maximum Average Subarray I")
 
 ## [642. Design Search Autocomplete System (Hard)](https://leetcode.com/problems/design-search-autocomplete-system "设计搜索自动补全系统")
 
 
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[Trie](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/trie/README.md)]
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)
+  1. [Implement Trie (Prefix Tree)](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-trie-prefix-tree) (Medium)

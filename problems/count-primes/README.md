@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements "Remove Linked List Elements")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-linked-list-elements "Remove Linked List Elements")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings "Isomorphic Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/isomorphic-strings "Isomorphic Strings")
 
 ## [204. Count Primes (Easy)](https://leetcode.com/problems/count-primes "计数质数")
 
@@ -22,13 +22,13 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/problems/ugly-number) (Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)
-  1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/problems/perfect-squares) (Medium)
+  1. [Ugly Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number) (Easy)
+  1. [Ugly Number II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number-ii) (Medium)
+  1. [Perfect Squares](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/perfect-squares) (Medium)
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-vowels-permutation "Count Vowels Permutation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-vowels-permutation "Count Vowels Permutation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/queens-that-can-attack-the-king "Queens That Can Attack the King")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/queens-that-can-attack-the-king "Queens That Can Attack the King")
 
 ## [1221. Split a String in Balanced Strings (Easy)](https://leetcode.com/problems/split-a-string-in-balanced-strings "分割平衡字符串")
 
@@ -51,8 +51,8 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

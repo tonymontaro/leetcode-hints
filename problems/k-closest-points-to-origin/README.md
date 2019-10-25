@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers "Equal Rational Numbers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/equal-rational-numbers "Equal Rational Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k "Subarray Sums Divisible by K")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subarray-sums-divisible-by-k "Subarray Sums Divisible by K")
 
 ## [973. K Closest Points to Origin (Medium)](https://leetcode.com/problems/k-closest-points-to-origin "最接近原点的 K 个点")
 
@@ -54,11 +54,11 @@ We only want the closest K = 1 points from the origin, so the answer is just [[-
 </div>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)
-  1. [Top K Frequent Words](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words) (Medium)
+  1. [Kth Largest Element in an Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-largest-element-in-an-array) (Medium)
+  1. [Top K Frequent Elements](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/top-k-frequent-elements) (Medium)
+  1. [Top K Frequent Words](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/top-k-frequent-words) (Medium)

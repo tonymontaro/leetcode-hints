@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz "Fizz Buzz")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fizz-buzz "Fizz Buzz")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/third-maximum-number "Third Maximum Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/third-maximum-number "Third Maximum Number")
 
 ## [413. Arithmetic Slices (Medium)](https://leetcode.com/problems/arithmetic-slices "等差数列划分")
 
@@ -37,8 +37,8 @@ return: 3, for 3 arithmetic slices in A: [1, 2, 3], [2, 3, 4] and [1, 2, 3, 4] i
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Arithmetic Slices II - Subsequence](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices-ii-subsequence) (Hard)
+  1. [Arithmetic Slices II - Subsequence](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/arithmetic-slices-ii-subsequence) (Hard)

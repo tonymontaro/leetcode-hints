@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-pruning "Binary Tree Pruning")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-pruning "Binary Tree Pruning")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ambiguous-coordinates "Ambiguous Coordinates")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ambiguous-coordinates "Ambiguous Coordinates")
 
 ## [815. Bus Routes (Hard)](https://leetcode.com/problems/bus-routes "公交路线")
 
@@ -35,4 +35,4 @@ The best strategy is take the first bus to the bus stop 7, then take the second 
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]

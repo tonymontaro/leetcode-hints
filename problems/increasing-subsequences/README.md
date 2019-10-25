@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/the-maze "The Maze")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-maze "The Maze")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/construct-the-rectangle "Construct the Rectangle")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/construct-the-rectangle "Construct the Rectangle")
 
 ## [491. Increasing Subsequences (Medium)](https://leetcode.com/problems/increasing-subsequences "递增子序列")
 
@@ -33,7 +33,7 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain) (Medium)
+  1. [Maximum Length of Pair Chain](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-length-of-pair-chain) (Medium)

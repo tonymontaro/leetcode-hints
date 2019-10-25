@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/power-of-three "Power of Three")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/power-of-three "Power of Three")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list "Odd Even Linked List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/odd-even-linked-list "Odd Even Linked List")
 
 ## [327. Count of Range Sum (Hard)](https://leetcode.com/problems/count-of-range-sum "区间和的个数")
 
@@ -26,12 +26,12 @@ A naive algorithm of <i>O</i>(<i>n</i><sup>2</sup>) is trivial. You MUST do bett
 </pre>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Binary Indexed Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-indexed-tree/README.md)]
+  [[Segment Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/segment-tree/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)
-  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/problems/reverse-pairs) (Hard)
+  1. [Count of Smaller Numbers After Self](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)
+  1. [Reverse Pairs](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-pairs) (Hard)

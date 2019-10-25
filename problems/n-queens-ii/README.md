@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/n-queens "N-Queens")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-queens "N-Queens")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray "Maximum Subarray")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-subarray "Maximum Subarray")
 
 ## [52. N-Queens II (Hard)](https://leetcode.com/problems/n-queens-ii "N皇后 II")
 
@@ -37,7 +37,7 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [N-Queens](https://github.com/openset/leetcode/tree/master/problems/n-queens) (Hard)
+  1. [N-Queens](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/n-queens) (Hard)

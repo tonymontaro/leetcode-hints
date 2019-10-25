@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii "Next Greater Element II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/next-greater-element-ii "Next Greater Element II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/the-maze-ii "The Maze II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-maze-ii "The Maze II")
 
 ## [504. Base 7 (Easy)](https://leetcode.com/problems/base-7 "七进制数")
 

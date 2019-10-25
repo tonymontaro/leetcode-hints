@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-pattern "Word Pattern")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-pattern "Word Pattern")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/nim-game "Nim Game")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nim-game "Nim Game")
 
 ## [291. Word Pattern II (Hard)](https://leetcode.com/problems/word-pattern-ii "单词规律 II")
 
 
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Pattern](https://github.com/openset/leetcode/tree/master/problems/word-pattern) (Easy)
+  1. [Word Pattern](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-pattern) (Easy)

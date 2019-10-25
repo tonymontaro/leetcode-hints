@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix "Shortest Path in Binary Matrix")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-path-in-binary-matrix "Shortest Path in Binary Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample "Statistics from a Large Sample")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/statistics-from-a-large-sample "Statistics from a Large Sample")
 
 ## [1092. Shortest Common Supersequence  (Hard)](https://leetcode.com/problems/shortest-common-supersequence "最短公共超序列")
 
@@ -38,7 +38,7 @@ The answer provided is the shortest such string that satisfies these properties.
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/additive-number "Additive Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/additive-number "Additive Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-mutable "Range Sum Query 2D - Mutable")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-sum-query-2d-mutable "Range Sum Query 2D - Mutable")
 
 ## [307. Range Sum Query - Mutable (Medium)](https://leetcode.com/problems/range-sum-query-mutable "区域和检索 - 数组可修改")
 
@@ -33,9 +33,9 @@ sumRange(0, 2) -&gt; 8
 </ol>
 
 ### Related Topics
-  [[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[Binary Indexed Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-indexed-tree/README.md)]
+  [[Segment Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/segment-tree/README.md)]
 
 ### Similar Questions
-  1. [Range Sum Query - Immutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable) (Easy)
-  1. [Range Sum Query 2D - Mutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-mutable) (Hard)
+  1. [Range Sum Query - Immutable](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-sum-query-immutable) (Easy)
+  1. [Range Sum Query 2D - Mutable](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/range-sum-query-2d-mutable) (Hard)

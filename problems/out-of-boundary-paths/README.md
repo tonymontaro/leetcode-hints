@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/distribute-candies "Distribute Candies")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/distribute-candies "Distribute Candies")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/employee-bonus "Employee Bonus")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/employee-bonus "Employee Bonus")
 
 ## [576. Out of Boundary Paths (Medium)](https://leetcode.com/problems/out-of-boundary-paths "出界的路径数")
 
@@ -44,11 +44,11 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Knight Probability in Chessboard](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard) (Medium)
+  1. [Knight Probability in Chessboard](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/knight-probability-in-chessboard) (Medium)
 
 ### Hints
 <details>

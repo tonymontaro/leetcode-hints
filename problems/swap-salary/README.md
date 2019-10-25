@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/exchange-seats "Exchange Seats")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/exchange-seats "Exchange Seats")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers "Maximum Product of Three Numbers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-product-of-three-numbers "Maximum Product of Three Numbers")
 
 ## [627. Swap Salary (Easy)](https://leetcode.com/problems/swap-salary "交换工资")
 

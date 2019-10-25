@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/team-scores-in-football-tournament "Team Scores in Football Tournament")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/team-scores-in-football-tournament "Team Scores in Football Tournament")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-bsts "Two Sum BSTs")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-bsts "Two Sum BSTs")
 
 ## [1213. Intersection of Three Sorted Arrays (Easy)](https://leetcode.com/problems/intersection-of-three-sorted-arrays "三个有序数组的交集")
 
@@ -31,11 +31,11 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Intersection of Two Arrays](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays) (Easy)
+  1. [Intersection of Two Arrays](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/intersection-of-two-arrays) (Easy)
 
 ### Hints
 <details>

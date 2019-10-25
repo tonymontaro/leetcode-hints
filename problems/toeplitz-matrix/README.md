@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands "Couples Holding Hands")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/couples-holding-hands "Couples Holding Hands")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reorganize-string "Reorganize String")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reorganize-string "Reorganize String")
 
 ## [766. Toeplitz Matrix (Easy)](https://leetcode.com/problems/toeplitz-matrix "托普利茨矩阵")
 
@@ -63,10 +63,10 @@ The diagonal &quot;[1, 2]&quot; has different elements.
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Valid Word Square](https://github.com/openset/leetcode/tree/master/problems/valid-word-square) (Easy)
+  1. [Valid Word Square](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-word-square) (Easy)
 
 ### Hints
 <details>

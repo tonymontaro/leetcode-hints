@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-linked-lists "Intersection of Two Linked Lists")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/intersection-of-two-linked-lists "Intersection of Two Linked Lists")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-peak-element "Find Peak Element")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-peak-element "Find Peak Element")
 
 ## [161. One Edit Distance (Medium)](https://leetcode.com/problems/one-edit-distance "相隔为 1 的编辑距离")
 
@@ -43,7 +43,7 @@
 <strong>Explanation:</strong> We can replace &#39;0&#39; with &#39;1&#39; to get&nbsp;<strong><em>t.</em></strong></pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Edit Distance](https://github.com/openset/leetcode/tree/master/problems/edit-distance) (Hard)
+  1. [Edit Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/edit-distance) (Hard)

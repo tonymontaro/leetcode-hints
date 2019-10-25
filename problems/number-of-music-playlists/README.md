@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/complete-binary-tree-inserter "Complete Binary Tree Inserter")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/complete-binary-tree-inserter "Complete Binary Tree Inserter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-add-to-make-parentheses-valid "Minimum Add to Make Parentheses Valid")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-add-to-make-parentheses-valid "Minimum Add to Make Parentheses Valid")
 
 ## [920. Number of Music Playlists (Hard)](https://leetcode.com/problems/number-of-music-playlists "播放列表的数量")
 
@@ -65,4 +65,4 @@
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/open-the-lock "Open the Lock")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/open-the-lock "Open the Lock")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reach-a-number "Reach a Number")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reach-a-number "Reach a Number")
 
 ## [753. Cracking the Safe (Hard)](https://leetcode.com/problems/cracking-the-safe "破解保险箱")
 
@@ -50,8 +50,8 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

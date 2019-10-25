@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/array-partition-i "Array Partition I")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/array-partition-i "Array Partition I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-tilt "Binary Tree Tilt")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-tilt "Binary Tree Tilt")
 
 ## [562. Longest Line of Consecutive One in Matrix (Medium)](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix "矩阵中最长的连续1线段")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

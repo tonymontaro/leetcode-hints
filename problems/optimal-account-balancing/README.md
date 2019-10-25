@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/can-i-win "Can I Win")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/can-i-win "Can I Win")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-the-repetitions "Count The Repetitions")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-the-repetitions "Count The Repetitions")
 
 ## [465. Optimal Account Balancing (Hard)](https://leetcode.com/problems/optimal-account-balancing "最优账单平衡")
 

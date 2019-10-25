@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/user-purchase-platform "User Purchase Platform")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/user-purchase-platform "User Purchase Platform")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-path-with-alternating-colors "Shortest Path with Alternating Colors")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-path-with-alternating-colors "Shortest Path with Alternating Colors")
 
 ## [1128. Number of Equivalent Domino Pairs (Easy)](https://leetcode.com/problems/number-of-equivalent-domino-pairs "等价多米诺骨牌对的数量")
 
@@ -29,7 +29,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

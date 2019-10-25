@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands "Number of Distinct Islands")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-distinct-islands "Number of Distinct Islands")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-binary-substrings "Count Binary Substrings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-binary-substrings "Count Binary Substrings")
 
 ## [695. Max Area of Island (Medium)](https://leetcode.com/problems/max-area-of-island "岛屿的最大面积")
 
@@ -38,9 +38,9 @@ Given the above grid, return <code>0</code>.
 <p><b>Note:</b> The length of each dimension in the given <code>grid</code> does not exceed 50.</p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) (Medium)
-  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/problems/island-perimeter) (Easy)
+  1. [Number of Islands](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-islands) (Medium)
+  1. [Island Perimeter](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/island-perimeter) (Easy)

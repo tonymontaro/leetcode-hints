@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/print-in-order "Print in Order")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/print-in-order "Print in Order")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd "Print Zero Even Odd")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/print-zero-even-odd "Print Zero Even Odd")
 
 ## [1115. Print FooBar Alternately (Medium)](https://leetcode.com/problems/print-foobar-alternately "交替打印FooBar")
 
@@ -50,5 +50,5 @@ class FooBar {
 </pre>
 
 ### Similar Questions
-  1. [Print in Order](https://github.com/openset/leetcode/tree/master/problems/print-in-order) (Easy)
-  1. [Print Zero Even Odd](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd) (Medium)
+  1. [Print in Order](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/print-in-order) (Easy)
+  1. [Print Zero Even Odd](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/print-zero-even-odd) (Medium)

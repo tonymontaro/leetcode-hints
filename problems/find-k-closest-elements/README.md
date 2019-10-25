@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/robot-return-to-origin "Robot Return to Origin")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/robot-return-to-origin "Robot Return to Origin")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences "Split Array into Consecutive Subsequences")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-array-into-consecutive-subsequences "Split Array into Consecutive Subsequences")
 
 ## [658. Find K Closest Elements (Medium)](https://leetcode.com/problems/find-k-closest-elements "找到 K 个最接近的元素")
 
@@ -47,9 +47,9 @@ The <i>arr</i> parameter had been changed to an <b>array of integers</b> (instea
 </p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower) (Easy)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
-  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)
+  1. [Guess Number Higher or Lower](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/guess-number-higher-or-lower) (Easy)
+  1. [Guess Number Higher or Lower II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
+  1. [Find K-th Smallest Pair Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)

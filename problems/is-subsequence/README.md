@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/perfect-rectangle "Perfect Rectangle")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/perfect-rectangle "Perfect Rectangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/utf-8-validation "UTF-8 Validation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/utf-8-validation "UTF-8 Validation")
 
 ## [392. Is Subsequence (Easy)](https://leetcode.com/problems/is-subsequence "判断子序列")
 
@@ -43,10 +43,10 @@ If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you wan
 <p><b>Credits:</b><br />Special thanks to <a href="https://leetcode.com/pbrother/">@pbrother</a> for adding this problem and creating all test cases.</p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Number of Matching Subsequences](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences) (Medium)
-  1. [Shortest Way to Form String](https://github.com/openset/leetcode/tree/master/problems/shortest-way-to-form-string) (Medium)
+  1. [Number of Matching Subsequences](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-matching-subsequences) (Medium)
+  1. [Shortest Way to Form String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-way-to-form-string) (Medium)

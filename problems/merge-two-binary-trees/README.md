@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-bold-tag-in-string "Add Bold Tag in String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-bold-tag-in-string "Add Bold Tag in String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/students-report-by-geography "Students Report By Geography")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/students-report-by-geography "Students Report By Geography")
 
 ## [617. Merge Two Binary Trees (Easy)](https://leetcode.com/problems/merge-two-binary-trees "合并二叉树")
 
@@ -39,4 +39,4 @@ Merged tree:
 <p><b>Note:</b> The merging process must start from the root nodes of both trees.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

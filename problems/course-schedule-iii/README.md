@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array "K Inverse Pairs Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-inverse-pairs-array "K Inverse Pairs Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-excel-sum-formula "Design Excel Sum Formula")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-excel-sum-formula "Design Excel Sum Formula")
 
 ## [630. Course Schedule III (Hard)](https://leetcode.com/problems/course-schedule-iii "课程表 III")
 
@@ -40,11 +40,11 @@ The 4th course cannot be taken now, since you will finish it on the 3300th day, 
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
+  1. [Course Schedule](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule) (Medium)
+  1. [Course Schedule II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule-ii) (Medium)
 
 ### Hints
 <details>

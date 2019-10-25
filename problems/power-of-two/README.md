@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst "Kth Smallest Element in a BST")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-smallest-element-in-a-bst "Kth Smallest Element in a BST")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-queue-using-stacks "Implement Queue using Stacks")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-queue-using-stacks "Implement Queue using Stacks")
 
 ## [231. Power of Two (Easy)](https://leetcode.com/problems/power-of-two "2的幂")
 
@@ -35,10 +35,10 @@
 <strong>Output:</strong> false</pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Bit Manipulation](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/bit-manipulation/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
-  1. [Power of Three](https://github.com/openset/leetcode/tree/master/problems/power-of-three) (Easy)
-  1. [Power of Four](https://github.com/openset/leetcode/tree/master/problems/power-of-four) (Easy)
+  1. [Number of 1 Bits](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-1-bits) (Easy)
+  1. [Power of Three](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/power-of-three) (Easy)
+  1. [Power of Four](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/power-of-four) (Easy)

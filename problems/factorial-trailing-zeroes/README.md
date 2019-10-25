@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-number "Excel Sheet Column Number")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/excel-sheet-column-number "Excel Sheet Column Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator "Binary Search Tree Iterator")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-search-tree-iterator "Binary Search Tree Iterator")
 
 ## [172. Factorial Trailing Zeroes (Easy)](https://leetcode.com/problems/factorial-trailing-zeroes "阶乘后的零")
 
@@ -30,8 +30,8 @@
 <p><b>Note: </b>Your solution should be in logarithmic time complexity.</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Number of Digit One](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one) (Hard)
-  1. [Preimage Size of Factorial Zeroes Function](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function) (Hard)
+  1. [Number of Digit One](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-digit-one) (Hard)
+  1. [Preimage Size of Factorial Zeroes Function](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/preimage-size-of-factorial-zeroes-function) (Hard)

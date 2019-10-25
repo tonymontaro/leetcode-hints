@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-target-color "Shortest Distance to Target Color")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-to-target-color "Shortest Distance to Target Color")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/distance-between-bus-stops "Distance Between Bus Stops")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/distance-between-bus-stops "Distance Between Bus Stops")
 
 ## [1183. Maximum Number of Ones (Hard)](https://leetcode.com/problems/maximum-number-of-ones "矩阵中 1 的最大数量")
 
 
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

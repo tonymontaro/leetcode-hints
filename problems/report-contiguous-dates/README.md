@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-equal-frequency "Maximum Equal Frequency")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-equal-frequency "Maximum Equal Frequency")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/the-dining-philosophers "The Dining Philosophers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-dining-philosophers "The Dining Philosophers")
 
 ## [1225. Report Contiguous Dates (Hard)](https://leetcode.com/problems/report-contiguous-dates "")
 

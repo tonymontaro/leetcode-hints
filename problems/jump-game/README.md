@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix "Spiral Matrix")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/spiral-matrix "Spiral Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/merge-intervals "Merge Intervals")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-intervals "Merge Intervals")
 
 ## [55. Jump Game (Medium)](https://leetcode.com/problems/jump-game "跳跃游戏")
 
@@ -35,8 +35,8 @@
 </pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Jump Game II](https://github.com/openset/leetcode/tree/master/problems/jump-game-ii) (Hard)
+  1. [Jump Game II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/jump-game-ii) (Hard)

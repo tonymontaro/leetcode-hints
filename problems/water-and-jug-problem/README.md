@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum-ii "Nested List Weight Sum II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nested-list-weight-sum-ii "Nested List Weight Sum II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-leaves-of-binary-tree "Find Leaves of Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-leaves-of-binary-tree "Find Leaves of Binary Tree")
 
 ## [365. Water and Jug Problem (Medium)](https://leetcode.com/problems/water-and-jug-problem "水壶问题")
 
@@ -38,4 +38,4 @@ Output: False
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

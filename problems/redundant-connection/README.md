@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-empty-slots "K Empty Slots")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-empty-slots "K Empty Slots")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii "Redundant Connection II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/redundant-connection-ii "Redundant Connection II")
 
 ## [684. Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection "冗余连接")
 
@@ -52,10 +52,10 @@ We have overhauled the problem description + test cases and specified clearly th
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Redundant Connection II](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii) (Hard)
-  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/problems/accounts-merge) (Medium)
+  1. [Redundant Connection II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/redundant-connection-ii) (Hard)
+  1. [Accounts Merge](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/accounts-merge) (Medium)

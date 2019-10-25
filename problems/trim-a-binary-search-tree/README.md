@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table "Kth Smallest Number in Multiplication Table")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-smallest-number-in-multiplication-table "Kth Smallest Number in Multiplication Table")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-swap "Maximum Swap")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-swap "Maximum Swap")
 
 ## [669. Trim a Binary Search Tree (Easy)](https://leetcode.com/problems/trim-a-binary-search-tree "修剪二叉搜索树")
 
@@ -56,4 +56,4 @@ Given a binary search tree and the lowest and highest boundaries as <code>L</cod
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

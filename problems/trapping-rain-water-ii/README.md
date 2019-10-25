@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/queue-reconstruction-by-height "Queue Reconstruction by Height")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/queue-reconstruction-by-height "Queue Reconstruction by Height")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-word-abbreviation "Valid Word Abbreviation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-word-abbreviation "Valid Word Abbreviation")
 
 ## [407. Trapping Rain Water II (Hard)](https://leetcode.com/problems/trapping-rain-water-ii "接雨水 II")
 
@@ -45,8 +45,8 @@ Return 4.
 <p>After the rain, water is trapped between the blocks. The total volume of water trapped is 4.</p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water) (Hard)
+  1. [Trapping Rain Water](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/trapping-rain-water) (Hard)

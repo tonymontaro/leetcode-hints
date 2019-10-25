@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/project-employees-i "Project Employees I")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/project-employees-i "Project Employees I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/project-employees-iii "Project Employees III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/project-employees-iii "Project Employees III")
 
 ## [1076. Project Employees II (Easy)](https://leetcode.com/problems/project-employees-ii "项目员工II")
 

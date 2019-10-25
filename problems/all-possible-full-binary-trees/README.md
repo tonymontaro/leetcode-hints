@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/groups-of-special-equivalent-strings "Groups of Special-Equivalent Strings")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/groups-of-special-equivalent-strings "Groups of Special-Equivalent Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-frequency-stack "Maximum Frequency Stack")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-frequency-stack "Maximum Frequency Stack")
 
 ## [894. All Possible Full Binary Trees (Medium)](https://leetcode.com/problems/all-possible-full-binary-trees "所有可能的满二叉树")
 
@@ -39,5 +39,5 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Recursion](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/recursion/README.md)]

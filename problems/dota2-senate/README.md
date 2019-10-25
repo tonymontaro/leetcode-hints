@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/replace-words "Replace Words")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/replace-words "Replace Words")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard "2 Keys Keyboard")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/2-keys-keyboard "2 Keys Keyboard")
 
 ## [649. Dota2 Senate (Medium)](https://leetcode.com/problems/dota2-senate "Dota2 参议院")
 
@@ -65,7 +65,7 @@ And in the round 2, the third senator can just announce the victory since he is 
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking) (Medium)
+  1. [Teemo Attacking](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/teemo-attacking) (Medium)

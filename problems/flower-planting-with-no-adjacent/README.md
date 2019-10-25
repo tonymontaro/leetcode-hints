@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/robot-bounded-in-circle "Robot Bounded In Circle")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/robot-bounded-in-circle "Robot Bounded In Circle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum "Partition Array for Maximum Sum")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/partition-array-for-maximum-sum "Partition Array for Maximum Sum")
 
 ## [1042. Flower Planting With No Adjacent (Easy)](https://leetcode.com/problems/flower-planting-with-no-adjacent "不邻接植花")
 
@@ -62,7 +62,7 @@
 </div>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Hints
 <details>

@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/contain-virus "Contain Virus")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contain-virus "Contain Virus")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ip-to-cidr "IP to CIDR")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ip-to-cidr "IP to CIDR")
 
 ## [750. Number Of Corner Rectangles (Medium)](https://leetcode.com/problems/number-of-corner-rectangles "角矩形的数量")
 
 
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

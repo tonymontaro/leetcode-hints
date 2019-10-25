@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-sum-of-rectangle-no-larger-than-k "Max Sum of Rectangle No Larger Than K")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-sum-of-rectangle-no-larger-than-k "Max Sum of Rectangle No Larger Than K")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/water-and-jug-problem "Water and Jug Problem")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/water-and-jug-problem "Water and Jug Problem")
 
 ## [364. Nested List Weight Sum II (Medium)](https://leetcode.com/problems/nested-list-weight-sum-ii "加权嵌套序列和 II")
 
 
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Nested List Weight Sum](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum) (Easy)
-  1. [Array Nesting](https://github.com/openset/leetcode/tree/master/problems/array-nesting) (Medium)
+  1. [Nested List Weight Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nested-list-weight-sum) (Easy)
+  1. [Array Nesting](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/array-nesting) (Medium)

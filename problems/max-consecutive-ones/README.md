@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-permutation "Find Permutation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-permutation "Find Permutation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner "Predict the Winner")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/predict-the-winner "Predict the Winner")
 
 ## [485. Max Consecutive Ones (Easy)](https://leetcode.com/problems/max-consecutive-ones "最大连续1的个数")
 
@@ -30,8 +30,8 @@
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Max Consecutive Ones II](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-ii) (Medium)
-  1. [Max Consecutive Ones III](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) (Medium)
+  1. [Max Consecutive Ones II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-consecutive-ones-ii) (Medium)
+  1. [Max Consecutive Ones III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-consecutive-ones-iii) (Medium)

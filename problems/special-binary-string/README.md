@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-anagram-mappings "Find Anagram Mappings")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-anagram-mappings "Find Anagram Mappings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/prime-number-of-set-bits-in-binary-representation "Prime Number of Set Bits in Binary Representation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/prime-number-of-set-bits-in-binary-representation "Prime Number of Set Bits in Binary Representation")
 
 ## [761. Special Binary String (Hard)](https://leetcode.com/problems/special-binary-string "特殊的二进制序列")
 
@@ -38,11 +38,11 @@ This is the lexicographically largest string possible after some number of swaps
 </ol></p>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Recursion](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/recursion/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Valid Parenthesis String](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string) (Medium)
+  1. [Valid Parenthesis String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-parenthesis-string) (Medium)
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/moving-average-from-data-stream "Moving Average from Data Stream")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/moving-average-from-data-stream "Moving Average from Data Stream")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-tic-tac-toe "Design Tic-Tac-Toe")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-tic-tac-toe "Design Tic-Tac-Toe")
 
 ## [347. Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements "前 K 个高频元素")
 
@@ -36,13 +36,13 @@
 </ul>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Word Frequency](https://github.com/openset/leetcode/tree/master/problems/word-frequency) (Medium)
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)
-  1. [Sort Characters By Frequency](https://github.com/openset/leetcode/tree/master/problems/sort-characters-by-frequency) (Medium)
-  1. [Split Array into Consecutive Subsequences](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences) (Medium)
-  1. [Top K Frequent Words](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words) (Medium)
-  1. [K Closest Points to Origin](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) (Medium)
+  1. [Word Frequency](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-frequency) (Medium)
+  1. [Kth Largest Element in an Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-largest-element-in-an-array) (Medium)
+  1. [Sort Characters By Frequency](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-characters-by-frequency) (Medium)
+  1. [Split Array into Consecutive Subsequences](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-array-into-consecutive-subsequences) (Medium)
+  1. [Top K Frequent Words](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/top-k-frequent-words) (Medium)
+  1. [K Closest Points to Origin](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-closest-points-to-origin) (Medium)

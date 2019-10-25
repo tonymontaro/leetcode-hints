@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-binary "Add Binary")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-binary "Add Binary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sqrtx "Sqrt(x)")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sqrtx "Sqrt(x)")
 
 ## [68. Text Justification (Hard)](https://leetcode.com/problems/text-justification "文本左右对齐")
 
@@ -77,4 +77,4 @@ maxWidth = 20
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

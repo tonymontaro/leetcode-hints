@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-time-to-build-blocks "Minimum Time to Build Blocks")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-time-to-build-blocks "Minimum Time to Build Blocks")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ugly-number-iii "Ugly Number III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number-iii "Ugly Number III")
 
 ## [1200. Minimum Absolute Difference (Easy)](https://leetcode.com/problems/minimum-absolute-difference "最小绝对差")
 
@@ -52,7 +52,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

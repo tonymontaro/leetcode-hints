@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-hashmap "Design HashMap")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-hashmap "Design HashMap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-cyclic-sorted-list "Insert into a Cyclic Sorted List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/insert-into-a-cyclic-sorted-list "Insert into a Cyclic Sorted List")
 
 ## [707. Design Linked List (Medium)](https://leetcode.com/problems/design-linked-list "设计链表")
 
@@ -44,5 +44,5 @@ linkedList.get(1);&nbsp;&nbsp;&nbsp;         // returns 3
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]

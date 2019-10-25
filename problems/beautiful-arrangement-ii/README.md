@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv "Path Sum IV")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-sum-iv "Path Sum IV")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table "Kth Smallest Number in Multiplication Table")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-smallest-number-in-multiplication-table "Kth Smallest Number in Multiplication Table")
 
 ## [667. Beautiful Arrangement II (Medium)](https://leetcode.com/problems/beautiful-arrangement-ii "优美的排列 II")
 
@@ -44,7 +44,7 @@ If there are multiple answers, print any of them.
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Beautiful Arrangement](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement) (Medium)
+  1. [Beautiful Arrangement](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/beautiful-arrangement) (Medium)

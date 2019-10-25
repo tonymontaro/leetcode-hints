@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-word-abbreviation "Unique Word Abbreviation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-word-abbreviation "Unique Word Abbreviation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-pattern "Word Pattern")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-pattern "Word Pattern")
 
 ## [289. Game of Life (Medium)](https://leetcode.com/problems/game-of-life "生命游戏")
 
@@ -51,7 +51,7 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Set Matrix Zeroes](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes) (Medium)
+  1. [Set Matrix Zeroes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/set-matrix-zeroes) (Medium)

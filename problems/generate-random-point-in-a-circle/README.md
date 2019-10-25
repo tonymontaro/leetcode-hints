@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance "Total Hamming Distance")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/total-hamming-distance "Total Hamming Distance")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-palindrome-product "Largest Palindrome Product")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-palindrome-product "Largest Palindrome Product")
 
 ## [478. Generate Random Point in a Circle (Medium)](https://leetcode.com/problems/generate-random-point-in-a-circle "在圆内随机生成点")
 
@@ -48,9 +48,9 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
-  [[Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Random](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/random/README.md)]
+  [[Rejection Sampling](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/rejection-sampling/README.md)]
 
 ### Similar Questions
-  1. [Random Point in Non-overlapping Rectangles](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles) (Medium)
+  1. [Random Point in Non-overlapping Rectangles](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-point-in-non-overlapping-rectangles) (Medium)

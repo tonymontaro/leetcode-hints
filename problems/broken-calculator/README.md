@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations "Satisfiability of Equality Equations")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/satisfiability-of-equality-equations "Satisfiability of Equality Equations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers "Subarrays with K Different Integers")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subarrays-with-k-different-integers "Subarrays with K Different Integers")
 
 ## [991. Broken Calculator (Medium)](https://leetcode.com/problems/broken-calculator "坏了的计算器")
 
@@ -66,8 +66,8 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [2 Keys Keyboard](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard) (Medium)
+  1. [2 Keys Keyboard](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/2-keys-keyboard) (Medium)

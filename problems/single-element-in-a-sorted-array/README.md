@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-time-difference "Minimum Time Difference")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-time-difference "Minimum Time Difference")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii "Reverse String II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-string-ii "Reverse String II")
 
 ## [540. Single Element in a Sorted Array (Medium)](https://leetcode.com/problems/single-element-in-a-sorted-array "有序数组中的单一元素")
 

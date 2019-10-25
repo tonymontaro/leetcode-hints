@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses "Different Ways to Add Parentheses")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/different-ways-to-add-parentheses "Different Ways to Add Parentheses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance "Shortest Word Distance")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-word-distance "Shortest Word Distance")
 
 ## [242. Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram "有效的字母异位词")
 
@@ -34,10 +34,10 @@ You may assume the string contains only lowercase alphabets.</p>
 What if the inputs contain unicode characters? How would you adapt your solution to such case?</p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Group Anagrams](https://github.com/openset/leetcode/tree/master/problems/group-anagrams) (Medium)
-  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) (Easy)
-  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string) (Medium)
+  1. [Group Anagrams](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/group-anagrams) (Medium)
+  1. [Palindrome Permutation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/palindrome-permutation) (Easy)
+  1. [Find All Anagrams in a String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-all-anagrams-in-a-string) (Medium)

@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/string-compression "String Compression")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/string-compression "String Compression")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii "Add Two Numbers II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-two-numbers-ii "Add Two Numbers II")
 
 ## [444. Sequence Reconstruction (Medium)](https://leetcode.com/problems/sequence-reconstruction "序列重建")
 
 
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
+  [[Topological Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/topological-sort/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
+  1. [Course Schedule II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/course-schedule-ii) (Medium)

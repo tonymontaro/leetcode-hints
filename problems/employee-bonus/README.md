@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths "Out of Boundary Paths")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/out-of-boundary-paths "Out of Boundary Paths")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/get-highest-answer-rate-question "Get Highest Answer Rate Question")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/get-highest-answer-rate-question "Get Highest Answer Rate Question")
 
 ## [577. Employee Bonus (Easy)](https://leetcode.com/problems/employee-bonus "员工奖金")
 
@@ -52,7 +52,7 @@ empId is the primary key column for this table.
 </pre>
 
 ### Similar Questions
-  1. [Combine Two Tables](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables) (Easy)
+  1. [Combine Two Tables](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combine-two-tables) (Easy)
 
 ### Hints
 <details>

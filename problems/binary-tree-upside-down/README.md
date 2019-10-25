@@ -2,19 +2,19 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/min-stack "Min Stack")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/min-stack "Min Stack")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4 "Read N Characters Given Read4")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/read-n-characters-given-read4 "Read N Characters Given Read4")
 
 ## [156. Binary Tree Upside Down (Medium)](https://leetcode.com/problems/binary-tree-upside-down "上下翻转二叉树")
 
 
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Reverse Linked List](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list) (Easy)
+  1. [Reverse Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reverse-linked-list) (Easy)

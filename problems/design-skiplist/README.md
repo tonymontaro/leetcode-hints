@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/monthly-transactions-ii "Monthly Transactions II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/monthly-transactions-ii "Monthly Transactions II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-number-of-occurrences "Unique Number of Occurrences")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-number-of-occurrences "Unique Number of Occurrences")
 
 ## [1206. Design Skiplist (Hard)](https://leetcode.com/problems/design-skiplist "设计跳表")
 
@@ -60,9 +60,9 @@ skiplist.search(1);   // return false, 1 has already been erased.</pre>
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/design/README.md)]
 
 ### Similar Questions
-  1. [Design HashSet](https://github.com/openset/leetcode/tree/master/problems/design-hashset) (Easy)
-  1. [Design HashMap](https://github.com/openset/leetcode/tree/master/problems/design-hashmap) (Easy)
-  1. [Design Linked List](https://github.com/openset/leetcode/tree/master/problems/design-linked-list) (Easy)
+  1. [Design HashSet](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-hashset) (Easy)
+  1. [Design HashMap](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-hashmap) (Easy)
+  1. [Design Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-linked-list) (Easy)

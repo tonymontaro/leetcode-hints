@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/keys-and-rooms "Keys and Rooms")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/keys-and-rooms "Keys and Rooms")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/guess-the-word "Guess the Word")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/guess-the-word "Guess the Word")
 
 ## [842. Split Array into Fibonacci Sequence (Medium)](https://leetcode.com/problems/split-array-into-fibonacci-sequence "将数组拆分成斐波那契序列")
 
@@ -71,10 +71,10 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Additive Number](https://github.com/openset/leetcode/tree/master/problems/additive-number) (Medium)
-  1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)
+  1. [Additive Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/additive-number) (Medium)
+  1. [Fibonacci Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fibonacci-number) (Easy)

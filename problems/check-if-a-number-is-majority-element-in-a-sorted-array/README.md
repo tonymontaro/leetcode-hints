@@ -2,24 +2,24 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/article-views-ii "Article Views II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/article-views-ii "Article Views II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-group-all-1s-together "Minimum Swaps to Group All 1's Together")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-swaps-to-group-all-1s-together "Minimum Swaps to Group All 1's Together")
 
 ## [1150. Check If a Number Is Majority Element in a Sorted Array (Easy)](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array "检查一个数是否在数组中占绝大多数")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Majority Element](https://github.com/openset/leetcode/tree/master/problems/majority-element) (Easy)
-  1. [Majority Element II](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii) (Medium)
+  1. [Majority Element](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/majority-element) (Easy)
+  1. [Majority Element II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/majority-element-ii) (Medium)
 
 ### Hints
 <details>

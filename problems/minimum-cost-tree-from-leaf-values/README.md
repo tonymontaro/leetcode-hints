@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-path-with-alternating-colors "Shortest Path with Alternating Colors")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-path-with-alternating-colors "Shortest Path with Alternating Colors")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-of-absolute-value-expression "Maximum of Absolute Value Expression")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-of-absolute-value-expression "Maximum of Absolute Value Expression")
 
 ## [1130. Minimum Cost Tree From Leaf Values (Medium)](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values "叶值的最小代价生成树")
 
@@ -47,9 +47,9 @@ There are two possible trees.  The first has non-leaf node sum 36, and the secon
 </ul>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

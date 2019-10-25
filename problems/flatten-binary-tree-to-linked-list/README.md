@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii "Path Sum II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-sum-ii "Path Sum II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences "Distinct Subsequences")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/distinct-subsequences "Distinct Subsequences")
 
 ## [114. Flatten Binary Tree to Linked List (Medium)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list "二叉树展开为链表")
 
@@ -40,11 +40,11 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Flatten a Multilevel Doubly Linked List](https://github.com/openset/leetcode/tree/master/problems/flatten-a-multilevel-doubly-linked-list) (Medium)
+  1. [Flatten a Multilevel Doubly Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flatten-a-multilevel-doubly-linked-list) (Medium)
 
 ### Hints
 <details>

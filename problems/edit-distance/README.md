@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/simplify-path "Simplify Path")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/simplify-path "Simplify Path")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes "Set Matrix Zeroes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/set-matrix-zeroes "Set Matrix Zeroes")
 
 ## [72. Edit Distance (Hard)](https://leetcode.com/problems/edit-distance "编辑距离")
 
@@ -46,11 +46,11 @@ exection -&gt; execution (insert &#39;u&#39;)
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [One Edit Distance](https://github.com/openset/leetcode/tree/master/problems/one-edit-distance) (Medium)
-  1. [Delete Operation for Two Strings](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings) (Medium)
-  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)
-  1. [Uncrossed Lines](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines) (Medium)
+  1. [One Edit Distance](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/one-edit-distance) (Medium)
+  1. [Delete Operation for Two Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-operation-for-two-strings) (Medium)
+  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)
+  1. [Uncrossed Lines](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/uncrossed-lines) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-repeated-subarray "Maximum Length of Repeated Subarray")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-length-of-repeated-subarray "Maximum Length of Repeated Subarray")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary "Longest Word in Dictionary")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-word-in-dictionary "Longest Word in Dictionary")
 
 ## [719. Find K-th Smallest Pair Distance (Hard)](https://leetcode.com/problems/find-k-th-smallest-pair-distance "找出第 k 小的距离对")
 
@@ -37,16 +37,16 @@ Then the 1st smallest distance pair is (1,1), and its distance is 0.
 </p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Find K Pairs with Smallest Sums](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums) (Medium)
-  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
-  1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/problems/find-k-closest-elements) (Medium)
-  1. [Kth Smallest Number in Multiplication Table](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table) (Hard)
-  1. [K-th Smallest Prime Fraction](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction) (Hard)
+  1. [Find K Pairs with Smallest Sums](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-k-pairs-with-smallest-sums) (Medium)
+  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [Find K Closest Elements](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-k-closest-elements) (Medium)
+  1. [Kth Smallest Number in Multiplication Table](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-smallest-number-in-multiplication-table) (Hard)
+  1. [K-th Smallest Prime Fraction](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/k-th-smallest-prime-fraction) (Hard)
 
 ### Hints
 <details>

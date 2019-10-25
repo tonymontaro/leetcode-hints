@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/accounts-merge "Accounts Merge")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/accounts-merge "Accounts Merge")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/candy-crush "Candy Crush")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/candy-crush "Candy Crush")
 
 ## [722. Remove Comments (Medium)](https://leetcode.com/problems/remove-comments "删除注释")
 
@@ -82,11 +82,11 @@ source = ["a/*comment", "line", "more_comment*/b"]
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/problems/mini-parser) (Medium)
-  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)
+  1. [Mini Parser](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/mini-parser) (Medium)
+  1. [Ternary Expression Parser](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ternary-expression-parser) (Medium)
 
 ### Hints
 <details>

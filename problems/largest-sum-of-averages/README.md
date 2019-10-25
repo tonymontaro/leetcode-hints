@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-triangle-area "Largest Triangle Area")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-triangle-area "Largest Triangle Area")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-pruning "Binary Tree Pruning")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-pruning "Binary Tree Pruning")
 
 ## [813. Largest Sum of Averages (Medium)](https://leetcode.com/problems/largest-sum-of-averages "最大平均值和的分组")
 
@@ -39,4 +39,4 @@ That partition would lead to a score of 5 + 2 + 6 = 13, which is worse.
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bitwise-and-of-numbers-range "Bitwise AND of Numbers Range")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bitwise-and-of-numbers-range "Bitwise AND of Numbers Range")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements "Remove Linked List Elements")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-linked-list-elements "Remove Linked List Elements")
 
 ## [202. Happy Number (Easy)](https://leetcode.com/problems/happy-number "快乐数")
 
@@ -28,10 +28,10 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle) (Easy)
-  1. [Add Digits](https://github.com/openset/leetcode/tree/master/problems/add-digits) (Easy)
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/problems/ugly-number) (Easy)
+  1. [Linked List Cycle](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-cycle) (Easy)
+  1. [Add Digits](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/add-digits) (Easy)
+  1. [Ugly Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number) (Easy)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-letter-string "Unique Letter String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-letter-string "Unique Letter String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/positions-of-large-groups "Positions of Large Groups")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/positions-of-large-groups "Positions of Large Groups")
 
 ## [829. Consecutive Numbers Sum (Hard)](https://leetcode.com/problems/consecutive-numbers-sum "连续整数求和")
 
@@ -37,4 +37,4 @@
 <p><strong>Note:</strong>&nbsp;<code>1 &lt;= N &lt;= 10 ^ 9</code>.</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

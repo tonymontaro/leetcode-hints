@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray "Longest Turbulent Subarray")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-turbulent-subarray "Longest Turbulent Subarray")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii "Unique Paths III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-paths-iii "Unique Paths III")
 
 ## [979. Distribute Coins in Binary Tree (Medium)](https://leetcode.com/problems/distribute-coins-in-binary-tree "在二叉树中分配硬币")
 
@@ -75,9 +75,9 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Sum of Distances in Tree](https://github.com/openset/leetcode/tree/master/problems/sum-of-distances-in-tree) (Hard)
-  1. [Binary Tree Cameras](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras) (Hard)
+  1. [Sum of Distances in Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sum-of-distances-in-tree) (Hard)
+  1. [Binary Tree Cameras](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-tree-cameras) (Hard)

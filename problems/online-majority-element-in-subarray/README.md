@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-for-longest-repeated-character-substring "Swap For Longest Repeated Character Substring")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/swap-for-longest-repeated-character-substring "Swap For Longest Repeated Character Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/market-analysis-i "Market Analysis I")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/market-analysis-i "Market Analysis I")
 
 ## [1157. Online Majority Element In Subarray (Hard)](https://leetcode.com/problems/online-majority-element-in-subarray "子数组中占绝大多数的元素")
 
@@ -48,9 +48,9 @@ majorityChecker.query(2,3,2); // returns 2
 </ul>
 
 ### Related Topics
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Segment Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/segment-tree/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Hints
 <details>

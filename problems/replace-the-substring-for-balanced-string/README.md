@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-sub-folders-from-the-filesystem "Remove Sub-Folders from the Filesystem")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-sub-folders-from-the-filesystem "Remove Sub-Folders from the Filesystem")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling "Maximum Profit in Job Scheduling")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-profit-in-job-scheduling "Maximum Profit in Job Scheduling")
 
 ## [1234. Replace the Substring for Balanced String (Medium)](https://leetcode.com/problems/replace-the-substring-for-balanced-string "替换子串得到平衡字符串")
 
@@ -61,8 +61,8 @@
 </ul>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-iii "Delete Columns to Make Sorted III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/delete-columns-to-make-sorted-iii "Delete Columns to Make Sorted III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-width-ramp "Maximum Width Ramp")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-width-ramp "Maximum Width Ramp")
 
 ## [961. N-Repeated Element in Size 2N Array (Easy)](https://leetcode.com/problems/n-repeated-element-in-size-2n-array "重复 N 次的元素")
 
@@ -58,4 +58,4 @@
 </div>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]

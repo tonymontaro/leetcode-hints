@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-array-with-same-average "Split Array With Same Average")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-array-with-same-average "Split Array With Same Average")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-increase-to-keep-city-skyline "Max Increase to Keep City Skyline")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/max-increase-to-keep-city-skyline "Max Increase to Keep City Skyline")
 
 ## [806. Number of Lines To Write String (Easy)](https://leetcode.com/problems/number-of-lines-to-write-string "写字符串需要的行数")
 

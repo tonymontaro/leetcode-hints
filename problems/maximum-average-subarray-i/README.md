@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-search-autocomplete-system "Design Search Autocomplete System")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-search-autocomplete-system "Design Search Autocomplete System")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii "Maximum Average Subarray II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-average-subarray-ii "Maximum Average Subarray II")
 
 ## [643. Maximum Average Subarray I (Easy)](https://leetcode.com/problems/maximum-average-subarray-i "子数组最大平均数 I")
 
@@ -33,7 +33,7 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Maximum Average Subarray II](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii) (Hard)
+  1. [Maximum Average Subarray II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-average-subarray-ii) (Hard)

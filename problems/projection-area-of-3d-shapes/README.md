@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reachable-nodes-in-subdivided-graph "Reachable Nodes In Subdivided Graph")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/reachable-nodes-in-subdivided-graph "Reachable Nodes In Subdivided Graph")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/uncommon-words-from-two-sentences "Uncommon Words from Two Sentences")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/uncommon-words-from-two-sentences "Uncommon Words from Two Sentences")
 
 ## [883. Projection Area of 3D Shapes (Easy)](https://leetcode.com/problems/projection-area-of-3d-shapes "三维形体投影面积")
 
@@ -131,4 +131,4 @@ Here are the three projections (&quot;shadows&quot;) of the shape made with each
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]

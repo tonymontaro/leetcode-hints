@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stream-of-characters "Stream of Characters")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/stream-of-characters "Stream of Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border "Coloring A Border")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/coloring-a-border "Coloring A Border")
 
 ## [1033. Moving Stones Until Consecutive (Easy)](https://leetcode.com/problems/moving-stones-until-consecutive "移动石子直到连续")
 
@@ -69,7 +69,7 @@
 </div>
 
 ### Related Topics
-  [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
+  [[Brainteaser](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/brainteaser/README.md)]
 
 ### Hints
 <details>

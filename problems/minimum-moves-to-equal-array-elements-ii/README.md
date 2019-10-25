@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/hamming-distance "Hamming Distance")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/hamming-distance "Hamming Distance")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/island-perimeter "Island Perimeter")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/island-perimeter "Island Perimeter")
 
 ## [462. Minimum Moves to Equal Array Elements II (Medium)](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii "最少移动次数使数组元素相等 II")
 
@@ -31,8 +31,8 @@ Only two moves are needed (remember each move increments or decrements one eleme
 </p></p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Best Meeting Point](https://github.com/openset/leetcode/tree/master/problems/best-meeting-point) (Hard)
-  1. [Minimum Moves to Equal Array Elements](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements) (Easy)
+  1. [Best Meeting Point](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-meeting-point) (Hard)
+  1. [Minimum Moves to Equal Array Elements](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-moves-to-equal-array-elements) (Easy)

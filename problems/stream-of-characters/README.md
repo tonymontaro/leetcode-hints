@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays "Maximum Sum of Two Non-Overlapping Subarrays")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays "Maximum Sum of Two Non-Overlapping Subarrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive "Moving Stones Until Consecutive")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/moving-stones-until-consecutive "Moving Stones Until Consecutive")
 
 ## [1032. Stream of Characters (Hard)](https://leetcode.com/problems/stream-of-characters "字符流")
 
@@ -51,7 +51,7 @@ streamChecker.query(&#39;l&#39;);          // return true, because &#39;kl&#39; 
 </ul>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Trie](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/trie/README.md)]
 
 ### Hints
 <details>

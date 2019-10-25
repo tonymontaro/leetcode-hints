@@ -2,22 +2,22 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/h-index-ii "H-Index II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/h-index-ii "H-Index II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-celebrity "Find the Celebrity")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-celebrity "Find the Celebrity")
 
 ## [276. Paint Fence (Easy)](https://leetcode.com/problems/paint-fence "栅栏涂色")
 
 
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
-  1. [House Robber II](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii) (Medium)
-  1. [Paint House](https://github.com/openset/leetcode/tree/master/problems/paint-house) (Easy)
-  1. [Paint House II](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) (Hard)
+  1. [House Robber](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/house-robber) (Easy)
+  1. [House Robber II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/house-robber-ii) (Medium)
+  1. [Paint House](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-house) (Easy)
+  1. [Paint House II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/paint-house-ii) (Hard)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array "Remove Duplicates from Sorted Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicates-from-sorted-array "Remove Duplicates from Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-strstr "Implement strStr()")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/implement-strstr "Implement strStr()")
 
 ## [27. Remove Element (Easy)](https://leetcode.com/problems/remove-element "移除元素")
 
@@ -57,13 +57,13 @@ for (int i = 0; i &lt; len; i++) {
 }</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array) (Easy)
-  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements) (Easy)
-  1. [Move Zeroes](https://github.com/openset/leetcode/tree/master/problems/move-zeroes) (Easy)
+  1. [Remove Duplicates from Sorted Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicates-from-sorted-array) (Easy)
+  1. [Remove Linked List Elements](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-linked-list-elements) (Easy)
+  1. [Move Zeroes](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/move-zeroes) (Easy)
 
 ### Hints
 <details>

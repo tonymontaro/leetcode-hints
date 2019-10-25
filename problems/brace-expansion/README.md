@@ -2,24 +2,24 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/high-five "High Five")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/high-five "High Five")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii "Confusing Number II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/confusing-number-ii "Confusing Number II")
 
 ## [1087. Brace Expansion (Medium)](https://leetcode.com/problems/brace-expansion "字母切换")
 
 
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Decode String](https://github.com/openset/leetcode/tree/master/problems/decode-string) (Medium)
-  1. [Letter Case Permutation](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation) (Easy)
-  1. [Brace Expansion II](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii) (Hard)
+  1. [Decode String](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decode-string) (Medium)
+  1. [Letter Case Permutation](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/letter-case-permutation) (Easy)
+  1. [Brace Expansion II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/brace-expansion-ii) (Hard)
 
 ### Hints
 <details>

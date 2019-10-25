@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-line "Shortest Distance in a Line")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shortest-distance-in-a-line "Shortest Distance in a Line")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/average-salary-departments-vs-company "Average Salary: Departments VS Company")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/average-salary-departments-vs-company "Average Salary: Departments VS Company")
 
 ## [614. Second Degree Follower (Medium)](https://leetcode.com/problems/second-degree-follower "二级关注者")
 

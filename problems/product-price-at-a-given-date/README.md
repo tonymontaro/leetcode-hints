@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/last-substring-in-lexicographical-order "Last Substring in Lexicographical Order")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/last-substring-in-lexicographical-order "Last Substring in Lexicographical Order")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/single-row-keyboard "Single-Row Keyboard")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/single-row-keyboard "Single-Row Keyboard")
 
 ## [1164. Product Price at a Given Date (Medium)](https://leetcode.com/problems/product-price-at-a-given-date "")
 

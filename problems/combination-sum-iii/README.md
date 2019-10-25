@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array "Kth Largest Element in an Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/kth-largest-element-in-an-array "Kth Largest Element in an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate "Contains Duplicate")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/contains-duplicate "Contains Duplicate")
 
 ## [216. Combination Sum III (Medium)](https://leetcode.com/problems/combination-sum-iii "组合总和 III")
 
@@ -37,8 +37,8 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)
+  1. [Combination Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum) (Medium)

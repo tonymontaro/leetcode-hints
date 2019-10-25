@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-prefix-divisible-by-5 "Binary Prefix Divisible By 5")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-prefix-divisible-by-5 "Binary Prefix Divisible By 5")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-enclaves "Number of Enclaves")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-enclaves "Number of Enclaves")
 
 ## [1019. Next Greater Node In Linked List (Medium)](https://leetcode.com/problems/next-greater-node-in-linked-list "链表中的下一个更大节点")
 
@@ -58,8 +58,8 @@
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
 
 ### Hints
 <details>

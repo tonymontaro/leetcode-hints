@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array-ii "Remove Duplicates from Sorted Array II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicates-from-sorted-array-ii "Remove Duplicates from Sorted Array II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list-ii "Remove Duplicates from Sorted List II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-duplicates-from-sorted-list-ii "Remove Duplicates from Sorted List II")
 
 ## [81. Search in Rotated Sorted Array II (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii "搜索旋转排序数组 II")
 
@@ -38,8 +38,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Search in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array) (Medium)
+  1. [Search in Rotated Sorted Array](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-in-rotated-sorted-array) (Medium)

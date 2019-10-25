@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/tree-node "Tree Node")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/tree-node "Tree Node")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/triangle-judgement "Triangle Judgement")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/triangle-judgement "Triangle Judgement")
 
 ## [609. Find Duplicate File in System (Medium)](https://leetcode.com/problems/find-duplicate-file-in-system "在系统中查找重复文件")
 
@@ -58,5 +58,5 @@
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

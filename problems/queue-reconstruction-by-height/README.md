@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-a-number-to-hexadecimal "Convert a Number to Hexadecimal")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/convert-a-number-to-hexadecimal "Convert a Number to Hexadecimal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water-ii "Trapping Rain Water II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/trapping-rain-water-ii "Trapping Rain Water II")
 
 ## [406. Queue Reconstruction by Height (Medium)](https://leetcode.com/problems/queue-reconstruction-by-height "根据身高重建队列")
 
@@ -30,10 +30,10 @@ Output:
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)
+  1. [Count of Smaller Numbers After Self](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)
 
 ### Hints
 <details>

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings "Minimum ASCII Delete Sum for Two Strings")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-ascii-delete-sum-for-two-strings "Minimum ASCII Delete Sum for Two Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee "Best Time to Buy and Sell Stock with Transaction Fee")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee "Best Time to Buy and Sell Stock with Transaction Fee")
 
 ## [713. Subarray Product Less Than K (Medium)](https://leetcode.com/problems/subarray-product-less-than-k "乘积小于K的子数组")
 
@@ -30,14 +30,14 @@ Note that [10, 5, 2] is not included as the product of 100 is not strictly less 
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)
-  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k) (Medium)
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
-  1. [Two Sum Less Than K](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) (Easy)
+  1. [Maximum Product Subarray](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-product-subarray) (Medium)
+  1. [Maximum Size Subarray Sum Equals k](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [Subarray Sum Equals K](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subarray-sum-equals-k) (Medium)
+  1. [Two Sum Less Than K](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/two-sum-less-than-k) (Easy)
 
 ### Hints
 <details>

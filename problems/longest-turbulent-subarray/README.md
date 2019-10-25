@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array "Squares of a Sorted Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/squares-of-a-sorted-array "Squares of a Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree "Distribute Coins in Binary Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/distribute-coins-in-binary-tree "Distribute Coins in Binary Tree")
 
 ## [978. Longest Turbulent Subarray (Medium)](https://leetcode.com/problems/longest-turbulent-subarray "最长湍流子数组")
 
@@ -62,9 +62,9 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) (Easy)
+  1. [Maximum Subarray](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-subarray) (Easy)

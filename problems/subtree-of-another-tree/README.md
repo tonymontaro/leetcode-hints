@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-median-given-frequency-of-numbers "Find Median Given Frequency of Numbers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-median-given-frequency-of-numbers "Find Median Given Frequency of Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/squirrel-simulation "Squirrel Simulation")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/squirrel-simulation "Squirrel Simulation")
 
 ## [572. Subtree of Another Tree (Easy)](https://leetcode.com/problems/subtree-of-another-tree "另一个树的子树")
 
@@ -56,11 +56,11 @@ Return <b>false</b>.
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Count Univalue Subtrees](https://github.com/openset/leetcode/tree/master/problems/count-univalue-subtrees) (Medium)
-  1. [Most Frequent Subtree Sum](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum) (Medium)
+  1. [Count Univalue Subtrees](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-univalue-subtrees) (Medium)
+  1. [Most Frequent Subtree Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/most-frequent-subtree-sum) (Medium)
 
 ### Hints
 <details>

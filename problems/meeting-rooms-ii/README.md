@@ -2,27 +2,27 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms "Meeting Rooms")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/meeting-rooms "Meeting Rooms")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/factor-combinations "Factor Combinations")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/factor-combinations "Factor Combinations")
 
 ## [253. Meeting Rooms II (Medium)](https://leetcode.com/problems/meeting-rooms-ii "会议室 II")
 
 
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Meeting Rooms](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms) (Easy)
-  1. [Minimum Number of Arrows to Burst Balloons](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)
-  1. [Car Pooling](https://github.com/openset/leetcode/tree/master/problems/car-pooling) (Medium)
+  1. [Merge Intervals](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-intervals) (Medium)
+  1. [Meeting Rooms](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/meeting-rooms) (Easy)
+  1. [Minimum Number of Arrows to Burst Balloons](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)
+  1. [Car Pooling](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/car-pooling) (Medium)
 
 ### Hints
 <details>

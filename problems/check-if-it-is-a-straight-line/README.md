@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/divide-chocolate "Divide Chocolate")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/divide-chocolate "Divide Chocolate")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-sub-folders-from-the-filesystem "Remove Sub-Folders from the Filesystem")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-sub-folders-from-the-filesystem "Remove Sub-Folders from the Filesystem")
 
 ## [1232. Check If It Is a Straight Line (Easy)](https://leetcode.com/problems/check-if-it-is-a-straight-line "缀点成线")
 
@@ -45,9 +45,9 @@
 </ul>
 
 ### Related Topics
-  [[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Geometry](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/geometry/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

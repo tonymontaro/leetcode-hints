@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-string "Construct Binary Tree from String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/construct-binary-tree-from-string "Construct Binary Tree from String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/convert-bst-to-greater-tree "Convert BST to Greater Tree")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/convert-bst-to-greater-tree "Convert BST to Greater Tree")
 
 ## [537. Complex Number Multiplication (Medium)](https://leetcode.com/problems/complex-number-multiplication "复数乘法")
 
@@ -42,5 +42,5 @@ You need to return a string representing their multiplication. Note i<sup>2</sup
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]

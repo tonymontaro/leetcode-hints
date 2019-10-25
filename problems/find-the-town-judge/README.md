@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays "Number of Squareful Arrays")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-squareful-arrays "Number of Squareful Arrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii "Maximum Binary Tree II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-binary-tree-ii "Maximum Binary Tree II")
 
 ## [997. Find the Town Judge (Easy)](https://leetcode.com/problems/find-the-town-judge "找到小镇的法官")
 
@@ -82,7 +82,7 @@
 </ol>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Find the Celebrity](https://github.com/openset/leetcode/tree/master/problems/find-the-celebrity) (Medium)
+  1. [Find the Celebrity](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-the-celebrity) (Medium)

@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-bst "Split BST")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/split-bst "Split BST")
 
 ## [775. Global and Local Inversions (Medium)](https://leetcode.com/problems/global-and-local-inversions "全局倒置与局部倒置")
 
@@ -44,8 +44,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

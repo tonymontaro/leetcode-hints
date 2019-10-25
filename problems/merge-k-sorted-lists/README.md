@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses "Generate Parentheses")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/generate-parentheses "Generate Parentheses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/swap-nodes-in-pairs "Swap Nodes in Pairs")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/swap-nodes-in-pairs "Swap Nodes in Pairs")
 
 ## [23. Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists "合并K个排序链表")
 
@@ -26,10 +26,10 @@
 </pre>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
+  [[Divide and Conquer](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)
+  1. [Merge Two Sorted Lists](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/merge-two-sorted-lists) (Easy)
+  1. [Ugly Number II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/ugly-number-ii) (Medium)

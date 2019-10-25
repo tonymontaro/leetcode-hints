@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-break-ii "Word Break II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/word-break-ii "Word Break II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii "Linked List Cycle II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-cycle-ii "Linked List Cycle II")
 
 ## [141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle "环形链表")
 
@@ -60,9 +60,9 @@
 <p>Can you solve it using <em>O(1)</em> (i.e. constant) memory?</p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Linked List](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/linked-list/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii) (Medium)
-  1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)
+  1. [Linked List Cycle II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-cycle-ii) (Medium)
+  1. [Happy Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/happy-number) (Easy)

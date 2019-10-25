@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/short-encoding-of-words "Short Encoding of Words")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/short-encoding-of-words "Short Encoding of Words")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/card-flipping-game "Card Flipping Game")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/card-flipping-game "Card Flipping Game")
 
 ## [821. Shortest Distance to a Character (Easy)](https://leetcode.com/problems/shortest-distance-to-a-character "字符的最短距离")
 

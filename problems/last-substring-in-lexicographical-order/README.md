@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible "As Far from Land as Possible")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/as-far-from-land-as-possible "As Far from Land as Possible")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/product-price-at-a-given-date "Product Price at a Given Date")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/product-price-at-a-given-date "Product Price at a Given Date")
 
 ## [1163. Last Substring in Lexicographical Order (Hard)](https://leetcode.com/problems/last-substring-in-lexicographical-order "按字典序排在最后的子串")
 
@@ -40,7 +40,7 @@
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

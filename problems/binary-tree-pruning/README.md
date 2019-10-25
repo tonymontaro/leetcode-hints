@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-sum-of-averages "Largest Sum of Averages")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/largest-sum-of-averages "Largest Sum of Averages")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bus-routes "Bus Routes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/bus-routes "Bus Routes")
 
 ## [814. Binary Tree Pruning (Medium)](https://leetcode.com/problems/binary-tree-pruning "二叉树剪枝")
 
@@ -55,4 +55,4 @@ The diagram on the right represents the answer.
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/tree/README.md)]

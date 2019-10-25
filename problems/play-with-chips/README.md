@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii "Valid Palindrome III")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-palindrome-iii "Valid Palindrome III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-subsequence-of-given-difference "Longest Arithmetic Subsequence of Given Difference")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-arithmetic-subsequence-of-given-difference "Longest Arithmetic Subsequence of Given Difference")
 
 ## [1217. Play with Chips (Easy)](https://leetcode.com/problems/play-with-chips "玩筹码")
 
@@ -50,9 +50,9 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

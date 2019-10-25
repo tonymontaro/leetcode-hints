@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/generalized-abbreviation "Generalized Abbreviation")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/generalized-abbreviation "Generalized Abbreviation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/coin-change "Coin Change")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/coin-change "Coin Change")
 
 ## [321. Create Maximum Number (Hard)](https://leetcode.com/problems/create-maximum-number "拼接最大数")
 
@@ -47,9 +47,9 @@ k = <code>3</code>
 </pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits) (Medium)
-  1. [Maximum Swap](https://github.com/openset/leetcode/tree/master/problems/maximum-swap) (Medium)
+  1. [Remove K Digits](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/remove-k-digits) (Medium)
+  1. [Maximum Swap](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/maximum-swap) (Medium)

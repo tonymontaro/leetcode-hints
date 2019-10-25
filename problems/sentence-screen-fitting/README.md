@@ -2,16 +2,16 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/pacific-atlantic-water-flow "Pacific Atlantic Water Flow")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/pacific-atlantic-water-flow "Pacific Atlantic Water Flow")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/battleships-in-a-board "Battleships in a Board")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/battleships-in-a-board "Battleships in a Board")
 
 ## [418. Sentence Screen Fitting (Medium)](https://leetcode.com/problems/sentence-screen-fitting "屏幕可显示句子的数量")
 
 
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

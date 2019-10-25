@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/random-pick-index "Random Pick Index")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/random-pick-index "Random Pick Index")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/nth-digit "Nth Digit")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/nth-digit "Nth Digit")
 
 ## [399. Evaluate Division (Medium)](https://leetcode.com/problems/evaluate-division "除法求值")
 
@@ -32,8 +32,8 @@ queries = [ [&quot;a&quot;, &quot;c&quot;], [&quot;b&quot;, &quot;a&quot;], [&qu
 <p>The input is always valid. You may assume that evaluating the queries will result in no division by zero and there is no contradiction.</p>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Hints
 <details>

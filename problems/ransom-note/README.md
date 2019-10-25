@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node "Linked List Random Node")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/linked-list-random-node "Linked List Random Node")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shuffle-an-array "Shuffle an Array")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/shuffle-an-array "Shuffle an Array")
 
 ## [383. Ransom Note (Easy)](https://leetcode.com/problems/ransom-note "赎金信")
 
@@ -30,7 +30,7 @@ canConstruct("aa", "aab") -> true
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Stickers to Spell Word](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word) (Hard)
+  1. [Stickers to Spell Word](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/stickers-to-spell-word) (Hard)

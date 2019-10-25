@@ -2,24 +2,24 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/coin-change "Coin Change")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/coin-change "Coin Change")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort-ii "Wiggle Sort II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wiggle-sort-ii "Wiggle Sort II")
 
 ## [323. Number of Connected Components in an Undirected Graph (Medium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph "无向图中连通分量的数目")
 
 
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/depth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/breadth-first-search/README.md)]
+  [[Union Find](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/union-find/README.md)]
+  [[Graph](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) (Medium)
-  1. [Graph Valid Tree](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree) (Medium)
-  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/problems/friend-circles) (Medium)
+  1. [Number of Islands](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/number-of-islands) (Medium)
+  1. [Graph Valid Tree](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/graph-valid-tree) (Medium)
+  1. [Friend Circles](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/friend-circles) (Medium)

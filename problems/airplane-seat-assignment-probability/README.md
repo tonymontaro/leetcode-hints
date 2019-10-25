@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/the-dining-philosophers "The Dining Philosophers")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/the-dining-philosophers "The Dining Philosophers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/missing-number-in-arithmetic-progression "Missing Number In Arithmetic Progression")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/missing-number-in-arithmetic-progression "Missing Number In Arithmetic Progression")
 
 ## [1227. Airplane Seat Assignment Probability (Medium)](https://leetcode.com/problems/airplane-seat-assignment-probability "")
 
@@ -44,9 +44,9 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
+  [[Brainteaser](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/brainteaser/README.md)]
 
 ### Hints
 <details>

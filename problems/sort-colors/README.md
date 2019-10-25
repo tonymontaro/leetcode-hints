@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix "Search a 2D Matrix")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/search-a-2d-matrix "Search a 2D Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring "Minimum Window Substring")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-window-substring "Minimum Window Substring")
 
 ## [75. Sort Colors (Medium)](https://leetcode.com/problems/sort-colors "颜色分类")
 
@@ -32,11 +32,11 @@
 </ul>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sort/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Sort List](https://github.com/openset/leetcode/tree/master/problems/sort-list) (Medium)
-  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort) (Medium)
-  1. [Wiggle Sort II](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort-ii) (Medium)
+  1. [Sort List](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/sort-list) (Medium)
+  1. [Wiggle Sort](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wiggle-sort) (Medium)
+  1. [Wiggle Sort II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/wiggle-sort-ii) (Medium)

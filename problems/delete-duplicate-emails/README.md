@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/tenth-line "Tenth Line")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/tenth-line "Tenth Line")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rising-temperature "Rising Temperature")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/rising-temperature "Rising Temperature")
 
 ## [196. Delete Duplicate Emails (Easy)](https://leetcode.com/problems/delete-duplicate-emails "删除重复的电子邮箱")
 

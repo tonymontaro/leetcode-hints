@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/day-of-the-year "Day of the Year")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/day-of-the-year "Day of the Year")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/swap-for-longest-repeated-character-substring "Swap For Longest Repeated Character Substring")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/swap-for-longest-repeated-character-substring "Swap For Longest Repeated Character Substring")
 
 ## [1155. Number of Dice Rolls With Target Sum (Medium)](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum "掷骰子的N种方法")
 
@@ -71,7 +71,7 @@ The answer must be returned modulo 10^9 + 7.
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

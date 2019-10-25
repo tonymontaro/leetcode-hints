@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring "Minimum Window Substring")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/minimum-window-substring "Minimum Window Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subsets "Subsets")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/subsets "Subsets")
 
 ## [77. Combinations (Medium)](https://leetcode.com/problems/combinations "组合")
 
@@ -29,8 +29,8 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)
+  1. [Combination Sum](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/combination-sum) (Medium)
+  1. [Permutations](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations) (Medium)

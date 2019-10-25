@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/dungeon-game "Dungeon Game")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/dungeon-game "Dungeon Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/second-highest-salary "Second Highest Salary")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/second-highest-salary "Second Highest Salary")
 
 ## [175. Combine Two Tables (Easy)](https://leetcode.com/problems/combine-two-tables "组合两个表")
 
@@ -47,4 +47,4 @@ FirstName, LastName, City, State
 </pre>
 
 ### Similar Questions
-  1. [Employee Bonus](https://github.com/openset/leetcode/tree/master/problems/employee-bonus) (Easy)
+  1. [Employee Bonus](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/employee-bonus) (Easy)

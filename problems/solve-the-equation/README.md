@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii "Decode Ways II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/decode-ways-ii "Decode Ways II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque "Design Circular Deque")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-circular-deque "Design Circular Deque")
 
 ## [640. Solve the Equation (Medium)](https://leetcode.com/problems/solve-the-equation "求解方程")
 
@@ -61,7 +61,7 @@ If there is exactly one solution for the equation, we ensure that the value of <
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Similar Questions
-  1. [Fraction Addition and Subtraction](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction) (Medium)
+  1. [Fraction Addition and Subtraction](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/fraction-addition-and-subtraction) (Medium)

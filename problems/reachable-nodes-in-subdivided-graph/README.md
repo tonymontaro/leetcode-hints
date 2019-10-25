@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/boats-to-save-people "Boats to Save People")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/boats-to-save-people "Boats to Save People")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/projection-area-of-3d-shapes "Projection Area of 3D Shapes")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/projection-area-of-3d-shapes "Projection Area of 3D Shapes")
 
 ## [882. Reachable Nodes In Subdivided Graph (Hard)](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph "细分图中的可到达结点")
 
@@ -65,4 +65,4 @@ The nodes that are reachable in the final graph after M = 6 moves are indicated 
 </div>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Heap](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/heap/README.md)]

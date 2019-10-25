@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku "Valid Sudoku")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-sudoku "Valid Sudoku")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-and-say "Count and Say")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/count-and-say "Count and Say")
 
 ## [37. Sudoku Solver (Hard)](https://leetcode.com/problems/sudoku-solver "解数独")
 
@@ -38,9 +38,9 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Hash Table](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/hash-table/README.md)]
+  [[Backtracking](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Valid Sudoku](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku) (Medium)
-  1. [Unique Paths III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) (Hard)
+  1. [Valid Sudoku](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-sudoku) (Medium)
+  1. [Unique Paths III](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/unique-paths-iii) (Hard)

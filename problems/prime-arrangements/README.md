@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/immediate-food-delivery-ii "Immediate Food Delivery II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/immediate-food-delivery-ii "Immediate Food Delivery II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/diet-plan-performance "Diet Plan Performance")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/diet-plan-performance "Diet Plan Performance")
 
 ## [1175. Prime Arrangements (Easy)](https://leetcode.com/problems/prime-arrangements "质数排列")
 
@@ -41,7 +41,7 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

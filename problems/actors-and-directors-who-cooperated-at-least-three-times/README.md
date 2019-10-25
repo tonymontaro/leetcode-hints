@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight-ii "Last Stone Weight II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/last-stone-weight-ii "Last Stone Weight II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/height-checker "Height Checker")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/height-checker "Height Checker")
 
 ## [1050. Actors and Directors Who Cooperated At Least Three Times (Easy)](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times "合作过至少三次的演员和导演")
 

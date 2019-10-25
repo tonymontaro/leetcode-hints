@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/similar-rgb-color "Similar RGB Color")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/similar-rgb-color "Similar RGB Color")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-eventual-safe-states "Find Eventual Safe States")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/find-eventual-safe-states "Find Eventual Safe States")
 
 ## [801. Minimum Swaps To Make Sequences Increasing (Medium)](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing "使序列递增的最小交换次数")
 
@@ -37,4 +37,4 @@ which are both strictly increasing.
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

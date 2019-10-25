@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/customer-placing-the-largest-number-of-orders "Customer Placing the Largest Number of Orders")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/customer-placing-the-largest-number-of-orders "Customer Placing the Largest Number of Orders")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system "Design In-Memory File System")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/design-in-memory-file-system "Design In-Memory File System")
 
 ## [587. Erect the Fence (Hard)](https://leetcode.com/problems/erect-the-fence "安装栅栏")
 
@@ -48,4 +48,4 @@ Even you only have trees in a line, you need to use rope to enclose them.
 </ol>
 
 ### Related Topics
-  [[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[Geometry](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/geometry/README.md)]

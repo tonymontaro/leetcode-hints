@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square "Valid Perfect Square")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-perfect-square "Valid Perfect Square")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/plus-one-linked-list "Plus One Linked List")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/plus-one-linked-list "Plus One Linked List")
 
 ## [368. Largest Divisible Subset (Medium)](https://leetcode.com/problems/largest-divisible-subset "最大整除子集")
 
@@ -36,5 +36,5 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/dynamic-programming/README.md)]

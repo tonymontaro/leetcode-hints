@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-watch "Binary Watch")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/binary-watch "Binary Watch")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/frog-jump "Frog Jump")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/frog-jump "Frog Jump")
 
 ## [402. Remove K Digits (Medium)](https://leetcode.com/problems/remove-k-digits "移掉K位数字")
 
@@ -47,9 +47,9 @@ Explanation: Remove all the digits from the number and it is left with nothing w
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Stack](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/stack/README.md)]
+  [[Greedy](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Create Maximum Number](https://github.com/openset/leetcode/tree/master/problems/create-maximum-number) (Hard)
-  1. [Monotone Increasing Digits](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits) (Medium)
+  1. [Create Maximum Number](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/create-maximum-number) (Hard)
+  1. [Monotone Increasing Digits](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/monotone-increasing-digits) (Medium)

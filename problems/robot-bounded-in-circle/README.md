@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii "Moving Stones Until Consecutive II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/moving-stones-until-consecutive-ii "Moving Stones Until Consecutive II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flower-planting-with-no-adjacent "Flower Planting With No Adjacent")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/flower-planting-with-no-adjacent "Flower Planting With No Adjacent")
 
 ## [1041. Robot Bounded In Circle (Medium)](https://leetcode.com/problems/robot-bounded-in-circle "困于环中的机器人")
 
@@ -63,7 +63,7 @@ The robot moves from (0, 0) -&gt; (0, 1) -&gt; (-1, 1) -&gt; (-1, 0) -&gt; (0, 0
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/math/README.md)]
 
 ### Hints
 <details>

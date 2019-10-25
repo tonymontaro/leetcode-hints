@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/magical-string "Magical String")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/magical-string "Magical String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-good-base "Smallest Good Base")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/smallest-good-base "Smallest Good Base")
 
 ## [482. License Key Formatting (Easy)](https://leetcode.com/problems/license-key-formatting "密钥格式化")
 

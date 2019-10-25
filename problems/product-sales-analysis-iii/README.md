@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/product-sales-analysis-ii "Product Sales Analysis II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/product-sales-analysis-ii "Product Sales Analysis II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/greatest-common-divisor-of-strings "Greatest Common Divisor of Strings")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/greatest-common-divisor-of-strings "Greatest Common Divisor of Strings")
 
 ## [1070. Product Sales Analysis III (Medium)](https://leetcode.com/problems/product-sales-analysis-iii "产品销售分析 III")
 

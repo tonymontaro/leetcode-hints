@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/permutations-ii "Permutations II")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/permutations-ii "Permutations II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/group-anagrams "Group Anagrams")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/group-anagrams "Group Anagrams")
 
 ## [48. Rotate Image (Medium)](https://leetcode.com/problems/rotate-image "旋转图像")
 
@@ -58,4 +58,4 @@ rotate the input matrix <strong>in-place</strong> such that it becomes:
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]

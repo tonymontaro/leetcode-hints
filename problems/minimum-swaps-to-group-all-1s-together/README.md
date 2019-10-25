@@ -2,20 +2,20 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array "Check If a Number Is Majority Element in a Sorted Array")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array "Check If a Number Is Majority Element in a Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/analyze-user-website-visit-pattern "Analyze User Website Visit Pattern")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/analyze-user-website-visit-pattern "Analyze User Website Visit Pattern")
 
 ## [1151. Minimum Swaps to Group All 1's Together (Medium)](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together "最少交换次数来组合所有的 1")
 
 
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/array/README.md)]
+  [[Sliding Window](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/sliding-window/README.md)]
 
 ### Hints
 <details>

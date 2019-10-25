@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/non-overlapping-intervals "Non-overlapping Intervals")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/non-overlapping-intervals "Non-overlapping Intervals")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii "Path Sum III")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/path-sum-iii "Path Sum III")
 
 ## [436. Find Right Interval (Medium)](https://leetcode.com/problems/find-right-interval "寻找右区间")
 
@@ -64,7 +64,7 @@ For [2,3], the interval [3,4] has minimum-&quot;right&quot; start point.
 <p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)
+  1. [Data Stream as Disjoint Intervals](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)

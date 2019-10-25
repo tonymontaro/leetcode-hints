@@ -2,12 +2,12 @@
 <!--+----------------------------------------------------------------------+-->
 <!--|@author    openset <openset.wang@gmail.com>                           |-->
 <!--|@link      https://github.com/openset                                 |-->
-<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--|@home      https://github.com/tonymontaro/leetcode-hints                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/detect-capital "Detect Capital")
+[< Previous](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/detect-capital "Detect Capital")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii "Longest Uncommon Subsequence II")
+[Next >](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-uncommon-subsequence-ii "Longest Uncommon Subsequence II")
 
 ## [521. Longest Uncommon Subsequence I  (Easy)](https://leetcode.com/problems/longest-uncommon-subsequence-i "最长特殊序列 Ⅰ")
 
@@ -40,7 +40,7 @@ The input will be two strings, and the output needs to be the length of the long
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/tonymontaro/leetcode-hints/tree/master/tag/string/README.md)]
 
 ### Similar Questions
-  1. [Longest Uncommon Subsequence II](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii) (Medium)
+  1. [Longest Uncommon Subsequence II](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/longest-uncommon-subsequence-ii) (Medium)
