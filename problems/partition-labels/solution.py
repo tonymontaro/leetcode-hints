@@ -23,3 +23,20 @@ class Solution:
             i += 1
             prev = i
         return partitions
+
+    
+# Even better :)
+class Solution:
+    def partitionLabels(self, string):
+        """O(N) time | O(1) space"""
+        chars = {c:i for i,c in enumerate(string)}
+        left = right = 0
+        partitions = []
+
+        for i, char in enumerate(string):
+            right = max(right, chars[char])
+
+            if i == right:
+                partitions.append(right - left + 1)
+                left = right + 1
+        return partitions
