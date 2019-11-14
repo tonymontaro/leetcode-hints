@@ -25,7 +25,8 @@ class Solution:
         return partitions
 
     
-# Even better :)
+# Even better, idea from:
+# https://leetcode.com/problems/partition-labels/discuss/298474/Python-two-pointer-solution-with-explanation
 class Solution:
     def partitionLabels(self, string):
         """O(N) time | O(1) space"""
