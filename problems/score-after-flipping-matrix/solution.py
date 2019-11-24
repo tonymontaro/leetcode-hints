@@ -19,3 +19,15 @@ def reverse_rows(matrix, i):
 
 def to_hex(row):
     return int(''.join(map(str, row)), 2)
+
+
+## More concise and better 
+class Solution(object):
+    def matrixScore(self, A):
+        """O(n^2) time | O(1) space | for nxn matrix"""
+        rows, cols = len(A), len(A[0])
+        res = (1 << cols - 1) * rows # (1 << cols - 1) is the same as (2**(cols - 1))
+        for c in range(1, cols):
+            col_sum = sum([A[r][c] == A[r][0] for r in range(len(A))])
+            res += (2**(cols-c-1)) * max(col_sum, (rows - col_sum))
+        return res
