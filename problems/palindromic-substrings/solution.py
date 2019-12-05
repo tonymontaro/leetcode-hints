@@ -13,3 +13,5 @@ class Solution:
             result += count_pal(i, i, word)
             result += count_pal(i-1, i, word)
         return result
+
+## Time can be improved to O(n) with Manacher's Algorithm
