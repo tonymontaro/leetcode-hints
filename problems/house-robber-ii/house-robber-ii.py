@@ -11,3 +11,6 @@ def rob(nums):
         num = nums[i]
         result[i] = max(num + result[i-2], num + result[i-1]-nums[i-1])
     return max(result[-2:])
+
+
+## O(1) space => https://leetcode.com/problems/house-robber-ii/discuss/59978/6-lines-function-body
