@@ -1,5 +1,6 @@
 class Solution:
     def letterCombinations(self, digits: str):
+        """O(4^n) time | O(n) space excluding the result"""
         if not digits: return []
         self.mapping = {
             '2': 'abc',
