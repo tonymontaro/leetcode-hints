@@ -390,3 +390,6 @@ LeetCode Problems' Solutions
 |  <span id="903">903</span>  | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence "DI 序列的有效排列")                                                             | [Go](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/valid-permutations-for-di-sequence)                          |    Hard    |
 |  <span id="902">902</span>  | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set "最大为 N 的数字组合")                                                             | [Go](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/numbers-at-most-n-given-digit-set)                           |    Hard    |
 |  <span id="901">901</span>  | [Online Stock Span](https://leetcode.com/problems/online-stock-span "股票价格跨度")                                                                                                    | [Go](https://github.com/tonymontaro/leetcode-hints/tree/master/problems/online-stock-span)                                           |   Medium   |
+
+
+CREDIT: https://github.com/openset/leetcode
